@@ -4,36 +4,36 @@ Automatically collect nodes and generate subscriptions via GitHub's Actions. For
 
 ## Subscribtions for V2ray：
 ```
-https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fguobang
+https://subcon.dlj.tf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fguobang
 ```
 ```
-https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fhellopool
+https://subcon.dlj.tf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fhellopool
 ```
 ```
-https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fkingfu
+https://subcon.dlj.tf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fkingfu
 ```
 ```
-https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Forigamiboy
+https://subcon.dlj.tf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Forigamiboy
 ```
 ```
-https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fsspool
+https://subcon.dlj.tf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fsspool
 ```
 
 ## Subscribtions for Clash：
 ```
-https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fguobang&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fguobang&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
 ```
 ```
-https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fhellopool&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fhellopool&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
 ```
 ```
-https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fkingfu&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fkingfu&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
 ```
 ```
-https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Forigamiboy&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Forigamiboy&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
 ```
 ```
-https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fsspool&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fsspool&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
 ```
 
 ## Subscribtion for Clash:
