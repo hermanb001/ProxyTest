@@ -41,7 +41,7 @@ https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fcdn.jsdelivr.n
 https://raw.githubusercontent.com/hermanb001/ProxyTest/main/subscribe/clash.yml
 ```
   
-## 使用软件
+## Software and APP
 
 | Platform                | APP                                                         | Protocol                                                     |
 | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
