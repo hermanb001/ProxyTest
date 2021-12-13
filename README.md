@@ -2,7 +2,7 @@
 
 Automatically collect nodes and generate subscriptions via GitHub's Actions. For well-known reasons, nodes can be used and cherished at any time.
 
-## Subscribtions for Clash for V2ray：
+## Subscribtions for V2ray：
 ```
 https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fguobang
 ```
