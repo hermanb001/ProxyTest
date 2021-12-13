@@ -2,68 +2,56 @@
 
 通过GitHub的actions自动采集节点并生成订阅信息，因为众所周知的原因，节点可能随时BB，且用且珍惜。  
 
+## V2ray订阅地址：
+```
+https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fguobang
+```
+```
+https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fhellopool
+```
+```
+https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fkingfu
+```
+```
+https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Forigamiboy
+```
+```
+https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fsspool
+```
+
+## Clash订阅地址：
+```
+https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fguobang&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+```
+```
+https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fhellopool&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+```
+```
+https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fkingfu&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+```
+```
+https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Forigamiboy&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+```
+```
+https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhermanb001%2FProxyTest%40main%2Fsubscribe%2Fsspool&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+```
+
 ## CLASH软件订阅地址
 ```
 https://raw.githubusercontent.com/hermanb001/ProxyTest/main/subscribe/clash.yml
-```
-
-## 需要转换的CLASH订阅地址
-- 1. 复制下面的任一连接:
-```
-https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fguobang
-```
-```
-https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fhellopool
-```
-```
-https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fkingfu
-```
-```
-https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Forigamiboy
-```
-```
-https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fsspool
-```
-- 2. 在链接前面添加:
-```
-https://subcon.dlj.tf/sub?target=clash&new_name=true&url=
-``` 
-或者
-```
-https://pub-api-1.bianyuan.xyz/sub?target=clash&url=
-```
-- 3. 在链接后面后面添加:
-```
-&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
-```
-- 4. 然后拼接上面三段到一起在Clash使用。
-
-## 或者直接复制以下到Clash：
-```
-https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fguobang&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
-```
-```
-https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fhellopool&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
-```
-```
-https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fkingfu&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
-```
-```
-https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Forigamiboy&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
-```
-```
-https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fsspool&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
 ```
   
 ## 使用软件
 
 | 平台                    | 软件                                                         | 支持协议                                                     |
 | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Windows                 | [Clash CFW  **(推荐)**](https://github.com/Fndroid/clash_for_windows_pkg/releases) | SS、SSR、Trojan、Vmess、VLESS                                |
-| Windows                 | [Clash.Net](https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/) | SS、SSR、Trojan、Vmess、VLESS                                |
+| Windows                 | [:star:Clash CFW](https://github.com/Fndroid/clash_for_windows_pkg/releases) | SS、SSR、Trojan、Vmess、VLESS                 |
+| Windows                 | [:star:Clash.Net](https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/) | SS、SSR、Trojan、Vmess、VLESS   |
 | Windows                 | [WinXray](https://github.com/TheMRLL/winxray/releases)       | SS、SSR、Trojan、V2ray（Vmess、VLESS）Xray                   |
-| macOS                   | [ClashX  **(推荐)**](https://github.com/yichengchen/clashX/releases)     | SS、SSR、Trojan、V2ray                                       |
-| Android                 | [ClashForAndroid  **(推荐)**](https://github.com/Kr328/ClashForAndroid/releases) | SS、SSR、Trojan、Vmess、VLESS                                |
+| Windows                 | [v2rayN](https://github.com/2dust/v2rayN/releases)           | SS、SSR、Trojan、V2ray（Vmess、VLESS）Xray                   |
+| macOS                   | [ClashX](https://github.com/yichengchen/clashX/releases)     | SS、SSR、Trojan、V2ray                                       |
+| Android                 | [:star:ClashForAndroid  **(推荐)**](https://github.com/Kr328/ClashForAndroid/releases) | SS、SSR、Trojan、Vmess、VLESS       |
+| Android                 | [:star:v2rayNG](https://github.com/2dust/v2rayNG/releases) | SS、SSR、Trojan、V2ray（Vmess、VLESS）Xray                   |
 
 
 ## 免责申明
