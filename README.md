@@ -48,9 +48,9 @@ https://raw.githubusercontent.com/hermanb001/ProxyTest/main/subscribe/clash.yml
 | Windows                 | [:star:Clash CFW](https://github.com/Fndroid/clash_for_windows_pkg/releases) | SS、SSR、Trojan、Vmess、VLESS                 |
 | Windows                 | [:star:Clash.Net](https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases/) | SS、SSR、Trojan、Vmess、VLESS   |
 | Windows                 | [WinXray](https://github.com/TheMRLL/winxray/releases)       | SS、SSR、Trojan、V2ray（Vmess、VLESS）Xray                   |
-| Windows                 | [v2rayN](https://github.com/2dust/v2rayN/releases)           | SS、SSR、Trojan、V2ray（Vmess、VLESS）Xray                   |
+| Windows                 | [:star:v2rayN](https://github.com/2dust/v2rayN/releases)           | SS、SSR、Trojan、V2ray（Vmess、VLESS）Xray                |
 | macOS                   | [ClashX](https://github.com/yichengchen/clashX/releases)     | SS、SSR、Trojan、V2ray                                       |
-| Android                 | [:star:ClashForAndroid  **(推荐)**](https://github.com/Kr328/ClashForAndroid/releases) | SS、SSR、Trojan、Vmess、VLESS       |
+| Android                 | [:star:ClashForAndroid](https://github.com/Kr328/ClashForAndroid/releases) | SS、SSR、Trojan、Vmess、VLESS       |
 | Android                 | [:star:v2rayNG](https://github.com/2dust/v2rayNG/releases) | SS、SSR、Trojan、V2ray（Vmess、VLESS）Xray                   |
 
 
