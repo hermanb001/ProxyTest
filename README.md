@@ -34,6 +34,22 @@ https://subcon.dlj.tf/sub?target=clash&new_name=true&url=
 ```
 - 4. 然后拼接上面三段到一起在Clash使用。
 
+## 或者直接复制以下到Clash：
+```
+https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fguobang&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+```
+```
+https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fhellopool&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+```
+```
+https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fkingfu&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+```
+```
+https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Forigamiboy&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+```
+```
+https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fsspool&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
+```
   
 ## 使用软件
 
