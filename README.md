@@ -28,6 +28,10 @@ https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscr
 ```
 https://subcon.dlj.tf/sub?target=clash&new_name=true&url=
 ``` 
+或者
+```
+https://pub-api-1.bianyuan.xyz/sub?target=clash&url=
+```
 - 3. 在链接后面后面添加:
 ```
 &insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR.ini&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false
