@@ -1,4 +1,2 @@
 proxies:
-- {"name":"2021.12.27_Relay_🇫🇷FR-🇫🇷FR_21 |71.21Mb","server":"145.239.1.137","type":"ss","country":"🇫🇷FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"2021.12.27_🇫🇷FR_23 |59.99Mb","server":"217.182.199.168","type":"ss","country":"🇫🇷FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-- {"name":"2021.12.27_🇮🇱IL_29 |76.27Mb","server":"212.80.205.133","type":"vmess","country":"🇮🇱IL","port":31262,"uuid":"00415a68-d5eb-4573-b73e-2b21f6b45c5d","alterId":64,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2021.12.28_🇫🇷FR_11 |59.95Mb","server":"217.182.199.168","type":"ss","country":"🇫🇷FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
