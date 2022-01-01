@@ -1,5 +1,6 @@
 proxies:
-- {"name":"2022.01.01__05 |242.30Mb","server":"134.195.198.178","type":"ss","port":7307,"udp":true,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
-- {"name":"2022.01.01__10 |302.83Mb","server":"142.202.48.7","type":"ss","port":8091,"udp":true,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
-- {"name":"2022.01.01__11 |275.13Mb","server":"134.195.198.178","type":"ss","port":8090,"udp":true,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
-- {"name":"2022.01.01__12 |263.26Mb","server":"134.195.198.95","type":"ss","port":7306,"udp":true,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"2022.01.01__10 |281.47Mb","server":"142.202.48.7","type":"ss","port":8091,"udp":true,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"2022.01.01__19 |249.99Mb","server":"167.88.63.108","type":"ss","port":8091,"udp":true,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"2022.01.01__28 |239.42Mb","server":"142.202.48.58","type":"ss","port":5003,"udp":true,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"2022.01.01_🇨🇦CA_232 |206.98Mb","server":"51.161.118.38","type":"ss","country":"🇨🇦CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.01.01_🇨🇦CA_263 |212.44Mb","server":"51.161.118.38","type":"ss","country":"🇨🇦CA","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
