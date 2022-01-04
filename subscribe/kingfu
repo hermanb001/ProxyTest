@@ -1,11 +1,12 @@
 proxies:
-- {"name":"2022.01.04_ |225.13Mb","server":"51.79.178.17","type":"ss","country":"🇨🇦CA","port":4444,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
-- {"name":"2022.01.04_ |147.09Mb","server":"51.79.223.96","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
-- {"name":"2022.01.04_Pool_🇭🇰HK_547 |123.82Mb","server":"118.107.244.114","type":"ss","country":"🇭🇰HK","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
-- {"name":"2022.01.04_ |87.27Mb","server":"118.107.244.113","type":"ss","country":"🇭🇰HK","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
-- {"name":"2022.01.04_Pool_ |100.82Mb","server":"118.107.244.114","type":"ss","country":"🇭🇰HK","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
-- {"name":"2022.01.04_ |94.37Mb","server":"118.107.244.113","type":"ss","country":"🇭🇰HK","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
-- {"name":"2022.01.04_🇭🇰HK_580 |99.43Mb","server":"161.81.195.100","type":"vmess","country":"🇭🇰HK","port":443,"uuid":"65cac56d-4155-43c8-bae0-f368cb21f771","alterId":1,"cipher":"auto","network":"ws","ws-path":"/clientarea","servername":"cmhk04.xc188.net","ws-headers":{"HOST":"cmhk04.xc188.net"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"2022.01.04_Relay_ |140.03Mb","server":"45.133.181.58","type":"ss","country":"🇮🇩ID","port":8389,"password":"qzj5NqakK4YvYYU87eFF","cipher":"chacha20-ietf-poly1305"}
-- {"name":"2022.01.04_Relay_🇺🇸US-🇯🇵JP_2057 |117.66Mb","server":"share.softbank.mjj-home.com","type":"trojan","country":"🇺🇸US","port":443,"password":"share.mjj-home.com","skip-cert-verify":true,"udp":true}
-- {"name":"2022.01.04_Relay_ |83.51Mb","server":"188.214.152.194","type":"ss","country":"🇻🇳VN","port":8389,"password":"t8BFcaM3GSCw5FHbph27","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.01.04__176 |240.47Mb","server":"139.99.62.207","type":"ss","country":"🇨🇦CA","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"2022.01.04__193 |151.57Mb","server":"51.79.161.80","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.01.04__207 |229.42Mb","server":"51.79.178.17","type":"ss","country":"🇨🇦CA","port":4444,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"2022.01.04__253 |84.24Mb","server":"51.79.157.58","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.01.04__254 |171.51Mb","server":"51.79.241.247","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.01.04__256 |185.49Mb","server":"51.79.166.171","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.01.04_Pool__540 |107.27Mb","server":"118.107.244.114","type":"ss","country":"🇭🇰HK","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"2022.01.04_Pool__916 |413.17Mb","server":"103.253.26.134","type":"vmess","country":"🇸🇬SG","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"eeh7iewe.com","ws-headers":{"HOST":"eeh7iewe.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.01.04_Relay_-🇸🇬SG_924 |306.81Mb","server":"zecjk.com","type":"vmess","country":"🇸🇬SG","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"zecjk.com","ws-headers":{"HOST":"zecjk.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.01.04_Relay_-🇸🇬SG_925 |295.00Mb","server":"eeh7iewe.com","type":"vmess","country":"🇸🇬SG","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.01.04_Relay_-🇯🇵JP_2015 |117.66Mb","server":"share.softbank.mjj-home.com","type":"trojan","country":"🇺🇸US","port":443,"password":"share.mjj-home.com","skip-cert-verify":true,"udp":true}
