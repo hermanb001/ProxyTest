@@ -68,7 +68,7 @@ jobs:
          git add subscribe/hellopool
          git add subscribe/sspool
          git add subscribe/kingfu
-         git add subscribe/guobang
+         git add subscribe/guest997
          git add subscribe/ednovas
          git add subscribe/eu-proxypool
          git add subscribe/clash.yml
