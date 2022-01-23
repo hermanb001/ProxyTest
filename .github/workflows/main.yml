@@ -58,7 +58,10 @@ jobs:
         python main7.py
     - name: 执行任务8
       run: |
-        python main8.py     
+        python main8.py
+    - name: 执行任务9
+      run: |
+        python main9.py 
     - name: 提交更改
       run: |                 
          git config --local user.email "hermanbrayden001@gmail.com"
@@ -70,7 +73,8 @@ jobs:
          git add subscribe/guobang
          git add subscribe/guest997
          git add subscribe/eu-proxypool
-         git add subscribe/clash.yml
+         git add subscribe/ednovas
+         git add subscribe/clash.yml         
          git commit -m "更新订阅链接"
     - name: 推送更改
       uses:  ad-m/github-push-action@master
