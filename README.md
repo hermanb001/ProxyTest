@@ -5,8 +5,8 @@ Automatically collect nodes and generate subscriptions via GitHub's Actions. For
 ## Subscribtions for V2ray：
 
 
-| Pool                    |   Subscribtion address          |
-| ----------------------- |  -------------------------------|
+| Pool                      |   Subscribtion address          |
+| ------------------------- |  -------------------------------|
 |[guest997](https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fguest997)|https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fguest997 |
 |[hellopool](https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fhellopool)|https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fhellopool|
 |[kingfu](https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fkingfu)|https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fkingfu|
