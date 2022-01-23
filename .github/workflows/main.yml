@@ -53,7 +53,9 @@ jobs:
     - name: 执行任务6
       run: |
         python main6.py
-         
+    - name: 执行任务6
+      run: |
+        python main7.py        
          
     - name: 提交更改
       run: |                 
@@ -64,6 +66,7 @@ jobs:
          git add subscribe/sspool
          git add subscribe/kingfu
          git add subscribe/guobang
+         git add subscribe/guest997
          git add subscribe/clash.yml
          git commit -m "更新订阅链接"
     - name: 推送更改
