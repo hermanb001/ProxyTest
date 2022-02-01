@@ -44,7 +44,23 @@ Automatically collect nodes and generate subscriptions via GitHub's Actions. For
 | Android                 | [:star:v2rayNG](https://github.com/2dust/v2rayNG/releases) | SS、SSR、Trojan、V2ray（Vmess、VLESS）Xray                   |
 
 
-## Disclaimer
-#### - The subscription node is only used for learning and communication. It is used to find information and learn knowledge. Do not do any illegal behavior.
-#### - All resources are from the Internet, non-profit purpose, only for everyone to exchange learning use, illegal problems are not responsible.
+
+## Disclaimer：
+
+* Any content involved in related projects is only used for resource sharing and learning research, and its legality, accuracy, completeness and validity cannot be guaranteed, please judge according to the situation.
+
+* Any user who uses the script indirectly, including but not limited to establishing a VPS or disseminating it in the event that certain actions violate national laws or relevant regulations, we are not responsible for any privacy leakage or other consequences arising therefrom。
+
+* Do not use any content of this project for commercial or illegal purposes, otherwise you will be responsible for the consequences.
+
+* If any unit or individual believes that the project may be suspected of infringing their rights, they should promptly notify and provide proof of identity or ownership, and we will delete the relevant script after receiving the certification document.
+
+* We are not responsible for any project issues, including but not limited to any loss or damage caused by any content of this project.
+
+* You must completely delete the above from your computer or phone within 24 hours of downloading or using it.
+
+* Anyone viewing this project in any way or using any of its content, directly or indirectly, should read this notice carefully.
+
+* We reserve the right to change or supplement this disclaimer at any time. You are deemed to have accepted this disclaimer by using and copying the rules for any relevant item content.
+
 #### - Inspired by https://github.com/skywolf627/ProxiesActions.
