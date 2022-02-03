@@ -68,8 +68,8 @@ We are collecting some common node crawler project proxy pools and subscription 
 
 ## Subscription Converter
 
-| Website | 
-| :----------------: | 
+| Website                | 
+| ---------------------- | 
 | https://acl4ssr.netlify.app  |
 | https://acl4ssr-sub.github.io  |
 | https://agwa.page  |
