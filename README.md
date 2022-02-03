@@ -5,7 +5,7 @@ We are collecting some common node crawler project proxy pools and subscription 
 ## Node crawler proxy pool
 
 | Website               | Proxy Pool              |
-| :----------------: | :----------------: | 
+| --------------------- | ----------------------- | 
 | http://104.128.81.6:8080 | http://104.128.81.6:8080/clash/proxies |
 | http://111.229.220.110:5000 | http://111.229.220.110:5000/clash/proxies |
 | http://120.92.84.176:8080 | http://120.92.84.176:8080/clash/proxies |
