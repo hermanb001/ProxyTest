@@ -5,10 +5,89 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
+  - {name: Relay_🇨🇳CN-🇭🇰HK_38 | 4.36Mb, server: 183.232.56.161, port: 1611, type: vmess, uuid: 3a226645-c640-39a2-8177-000381e29f20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: 183.232.56.161}, udp: true}
+  - {name: Relay_🇨🇳CN-🇺🇸US_20 | 2.98Mb, server: 183.232.56.161, port: 8002, type: vmess, uuid: 3a226645-c640-39a2-8177-000381e29f20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: 183.232.56.161}, udp: true}
+  - {name: Relay_🇨🇳CN-🇮🇳IN_19 | 7.21Mb, server: 183.232.56.161, port: 8001, type: vmess, uuid: 3a226645-c640-39a2-8177-000381e29f20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: 183.232.56.161}, udp: true}
+  - {name: US_467, server: 167.88.63.28, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: "|72.02Mb", server: 134.195.196.68, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: CA_56 TG@peekfun, server: 198.57.27.241, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: "|62.98Mb", server: 134.195.198.178, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: "|59.20Mb", server: 142.202.48.83, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US_419 TG@peekfun, server: 167.88.63.28, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US_376 TG@peekfun, server: 38.68.134.191, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: US_1711, server: 38.68.134.190, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: "|73.38Mb", server: 134.195.196.202, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: "|74.01Mb", server: 134.195.196.199, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US_423 TG@peekfun, server: 38.86.135.27, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US_1569+|65.05Mb, server: 38.114.114.49, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US_1798+|184.69Mb, server: 167.88.63.60, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US_1137, server: 38.68.134.85, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US_1996 |316.46Mb, server: 38.91.102.96, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: CA_177, server: 198.57.27.191, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: "|71.18Mb", server: 134.195.196.52, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US_381 TG@peekfun, server: 38.107.226.241, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: "|61.15Mb", server: 134.195.198.250, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US_1775+|239.55Mb, server: 38.107.226.241, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: CA_186, server: 198.57.27.241, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: "|73.95Mb", server: 134.195.196.3, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US_152 |23.89Mb, server: 38.143.66.71, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: CA_53 TG@peekfun, server: 198.57.27.172, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: CA_209, server: 198.57.27.218, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: ZZ_2515 |139.59Mb, server: 169.197.142.39, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US_199 |24.37Mb, server: 167.88.61.109, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: "|30.19Mb", server: 212.38.189.174, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US_1164, server: 172.99.190.7, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: DE_306, server: 193.108.118.2, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ZZ_251 |11.77Mb, server: 169.197.142.39, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: "|72.55Mb", server: 134.195.196.44, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US_1306+|57.37Mb, server: 38.114.114.49, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: "|69.42Mb", server: 134.195.196.163, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US_1708, server: 38.91.102.86, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: GB_450, server: 145.239.7.164, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US_1167, server: 172.99.190.232, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US_1181, server: 38.91.100.207, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US_162 |27.31Mb, server: 38.143.66.71, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: US_1786+|21.33Mb, server: 192.53.169.116, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US_418 TG@peekfun, server: 38.68.134.190, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: DE_297, server: 193.108.118.34, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: NO_994+|+8.32Mb, server: 46.29.219.246, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: JP_92 | 8.70Mb, server: 141.164.62.67, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: Relay_🇨🇦CA-🇨🇦CA_10 |43.56Mb, server: v1.ssrsub.com, port: 166, type: vmess, uuid: 50a90339-8afa-4579-832d-f5d608a6f569, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /ssrsub, ws-headers: {Host: v1.ssrsub.com}, udp: true}
+  - {name: CA_61 TG@peekfun, server: 198.57.27.184, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: "|72.63Mb", server: 38.68.135.19, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US_1269+|96.30Mb, server: 38.68.134.23, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: ZZ_1817+|152.54Mb, server: 134.195.196.33, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: ZZ_245 |57.64Mb, server: 134.195.196.52, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: NO_989+|+6.28Mb, server: 46.29.219.246, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: HU_86 |37.59Mb, server: 185.225.69.134, port: 45081, type: vmess, uuid: 3c3bfd75-dc30-4e76-8940-47e1137e21f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: US_1791+|216.03Mb, server: 38.107.226.238, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: CA_37 TG@peekfun, server: 198.57.27.152, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: ZZ_1954, server: 169.197.143.157, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: "|14.45Mb", server: 142.202.48.105, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: "|62.00Mb", server: 142.202.48.83, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: ZZ_2294, server: 169.197.142.39, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: Relay_🇺🇸US-🇺🇸US_1897, server: cc.hciahciphcie.club, port: 443, type: vmess, uuid: 9a297bb1-06e3-4e6f-97fa-3d3202d46596, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /84c3f/, ws-headers: {Host: cc.hciahciphcie.club}, udp: true}
+  - {name: CA_181, server: 198.57.27.191, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: "|73.08Mb", server: 134.195.196.12, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ZZ_2157+|199.27Mb, server: 134.195.196.193, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US_1225, server: 142.202.48.74, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US_1872, server: 38.64.138.145, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US_1845, server: 38.68.134.191, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: "|21.20Mb", server: 38.68.134.191, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: ZZ_1955, server: 169.197.143.157, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US_1425+|187.14Mb, server: 167.88.63.71, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US_1870, server: 38.91.102.86, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: "|14.23Mb", server: 142.202.48.52, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: CA_193, server: 198.57.27.238, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: ZZ_1964, server: 169.197.143.157, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb, server: 183.232.56.161, port: 5018, type: vmess, uuid: 3a226645-c640-39a2-8177-000381e29f20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: 183.232.56.161}, udp: true}
+  - {name: ZZ_1957, server: 169.197.142.39, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ZZ_1965, server: 169.197.142.39, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US_1844, server: 38.91.102.86, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: US_1368+|90.80Mb, server: 38.68.134.190, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
   - {name: CA_151, server: 198.57.27.218, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: ZZ_2885 |14.80Mb, server: 134.195.196.71, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: CA_177, server: 198.57.27.191, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: CA_177 2, server: 198.57.27.191, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: US_2351+|136.98Mb, server: 38.68.134.37, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: US_1131, server: 38.114.114.69, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: US_181 |63.15Mb, server: 142.202.48.114, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
@@ -35,9 +114,9 @@ proxies:
   - {name: ZZ_2391, server: 134.195.196.200, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: ZZ_2502, server: 134.195.196.50, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: CA_58 TG@peekfun, server: 198.57.27.184, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: US_1845, server: 38.68.134.191, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US_1845 2, server: 38.68.134.191, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: ZZ_2800+|173.71Mb, server: 134.195.196.214, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-  - {name: CA_181, server: 198.57.27.191, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: CA_181 2, server: 198.57.27.191, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
   - {name: CA_45 TG@peekfun, server: 198.57.27.184, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: US_183 |32.45Mb, server: 167.88.61.130, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: CA_236, server: 134.195.196.214, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
@@ -60,7 +139,7 @@ proxies:
   - {name: ZZ_2781+|169.33Mb, server: 134.195.196.150, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
   - {name: ZZ_2041, server: 134.195.196.79, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: DE_60 |99.35Mb, server: 141.95.0.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
-  - {name: CA_61 TG@peekfun, server: 198.57.27.184, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: CA_61 TG@peekfun 2, server: 198.57.27.184, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: ZZ_2788+|97.81Mb, server: 134.195.196.150, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
   - {name: US_1002, server: 38.75.136.21, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: US_1206, server: 37.120.147.230, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
@@ -85,19 +164,19 @@ proxies:
   - {name: US_1162 2, server: 162.251.61.221, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: US_1882, server: 142.202.48.99, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: ZZ_2792+|188.75Mb, server: 134.195.196.150, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: "|62.00Mb", server: 142.202.48.83, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: "|62.00Mb 2", server: 142.202.48.83, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: US_1833, server: 142.202.48.43, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: US_657, server: 167.88.63.61, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: ZZ_2299, server: 134.195.196.133, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: US_260 TG@peekfun, server: 38.107.226.238, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: US_1167, server: 172.99.190.232, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US_1167 2, server: 172.99.190.232, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: ZZ_2295, server: 134.195.196.110, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: _49, server: 134.195.198.250, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: CA_51 2, server: 198.57.27.152, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: US_1896, server: 38.91.102.86, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
   - {name: _48, server: 134.195.198.252, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: ZZ_2721+|60.44Mb, server: 134.195.196.128, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: US_162 |27.31Mb, server: 38.143.66.71, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: US_162 |27.31Mb 2, server: 38.143.66.71, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
   - {name: "|55.16Mb", server: 167.88.63.114, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: NL_953 |35.14Mb, server: 85.208.110.2, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
   - {name: Pool_🇭🇰HK_50 |24.43Mb, server: 118.107.244.112, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
@@ -117,8 +196,8 @@ proxies:
   - {name: _54, server: 134.195.196.79, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: US_270 TG@peekfun, server: 172.99.190.109, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: NL_934 |34.56Mb, server: 85.208.108.106, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-  - {name: US_1996 |316.46Mb, server: 38.91.102.96, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-  - {name: US_1137, server: 38.68.134.85, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US_1996 |316.46Mb 2, server: 38.91.102.96, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US_1137 2, server: 38.68.134.85, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: ZZ_2784+|192.78Mb, server: 134.195.196.150, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
   - {name: US_1425 |146.85Mb, server: 38.68.134.37, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: ZZ_2728+|16.47Mb, server: 134.195.196.128, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
@@ -130,10 +209,89 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - Relay_🇨🇳CN-🇭🇰HK_38 | 4.36Mb
+      - Relay_🇨🇳CN-🇺🇸US_20 | 2.98Mb
+      - Relay_🇨🇳CN-🇮🇳IN_19 | 7.21Mb
+      - US_467
+      - "|72.02Mb"
+      - CA_56 TG@peekfun
+      - "|62.98Mb"
+      - "|59.20Mb"
+      - US_419 TG@peekfun
+      - US_376 TG@peekfun
+      - US_1711
+      - "|73.38Mb"
+      - "|74.01Mb"
+      - US_423 TG@peekfun
+      - US_1569+|65.05Mb
+      - US_1798+|184.69Mb
+      - US_1137
+      - US_1996 |316.46Mb
+      - CA_177
+      - "|71.18Mb"
+      - US_381 TG@peekfun
+      - "|61.15Mb"
+      - US_1775+|239.55Mb
+      - CA_186
+      - "|73.95Mb"
+      - US_152 |23.89Mb
+      - CA_53 TG@peekfun
+      - CA_209
+      - ZZ_2515 |139.59Mb
+      - US_199 |24.37Mb
+      - "|30.19Mb"
+      - US_1164
+      - DE_306
+      - ZZ_251 |11.77Mb
+      - "|72.55Mb"
+      - US_1306+|57.37Mb
+      - "|69.42Mb"
+      - US_1708
+      - GB_450
+      - US_1167
+      - US_1181
+      - US_162 |27.31Mb
+      - US_1786+|21.33Mb
+      - US_418 TG@peekfun
+      - DE_297
+      - NO_994+|+8.32Mb
+      - JP_92 | 8.70Mb
+      - Relay_🇨🇦CA-🇨🇦CA_10 |43.56Mb
+      - CA_61 TG@peekfun
+      - "|72.63Mb"
+      - US_1269+|96.30Mb
+      - ZZ_1817+|152.54Mb
+      - ZZ_245 |57.64Mb
+      - NO_989+|+6.28Mb
+      - HU_86 |37.59Mb
+      - US_1791+|216.03Mb
+      - CA_37 TG@peekfun
+      - ZZ_1954
+      - "|14.45Mb"
+      - "|62.00Mb"
+      - ZZ_2294
+      - Relay_🇺🇸US-🇺🇸US_1897
+      - CA_181
+      - "|73.08Mb"
+      - ZZ_2157+|199.27Mb
+      - US_1225
+      - US_1872
+      - US_1845
+      - "|21.20Mb"
+      - ZZ_1955
+      - US_1425+|187.14Mb
+      - US_1870
+      - "|14.23Mb"
+      - CA_193
+      - ZZ_1964
+      - Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb
+      - ZZ_1957
+      - ZZ_1965
+      - US_1844
       - US_1368+|90.80Mb
       - CA_151
       - ZZ_2885 |14.80Mb
-      - CA_177
+      - CA_177 2
       - US_2351+|136.98Mb
       - US_1131
       - US_181 |63.15Mb
@@ -160,9 +318,9 @@ proxy-groups:
       - ZZ_2391
       - ZZ_2502
       - CA_58 TG@peekfun
-      - US_1845
+      - US_1845 2
       - ZZ_2800+|173.71Mb
-      - CA_181
+      - CA_181 2
       - CA_45 TG@peekfun
       - US_183 |32.45Mb
       - CA_236
@@ -185,7 +343,7 @@ proxy-groups:
       - ZZ_2781+|169.33Mb
       - ZZ_2041
       - DE_60 |99.35Mb
-      - CA_61 TG@peekfun
+      - CA_61 TG@peekfun 2
       - ZZ_2788+|97.81Mb
       - US_1002
       - US_1206
@@ -210,19 +368,19 @@ proxy-groups:
       - US_1162 2
       - US_1882
       - ZZ_2792+|188.75Mb
-      - "|62.00Mb"
+      - "|62.00Mb 2"
       - US_1833
       - US_657
       - ZZ_2299
       - US_260 TG@peekfun
-      - US_1167
+      - US_1167 2
       - ZZ_2295
       - _49
       - CA_51 2
       - US_1896
       - _48
       - ZZ_2721+|60.44Mb
-      - US_162 |27.31Mb
+      - US_162 |27.31Mb 2
       - "|55.16Mb"
       - NL_953 |35.14Mb
       - Pool_🇭🇰HK_50 |24.43Mb
@@ -242,8 +400,8 @@ proxy-groups:
       - _54
       - US_270 TG@peekfun
       - NL_934 |34.56Mb
-      - US_1996 |316.46Mb
-      - US_1137
+      - US_1996 |316.46Mb 2
+      - US_1137 2
       - ZZ_2784+|192.78Mb
       - US_1425 |146.85Mb
       - ZZ_2728+|16.47Mb
@@ -255,10 +413,89 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - Relay_🇨🇳CN-🇭🇰HK_38 | 4.36Mb
+      - Relay_🇨🇳CN-🇺🇸US_20 | 2.98Mb
+      - Relay_🇨🇳CN-🇮🇳IN_19 | 7.21Mb
+      - US_467
+      - "|72.02Mb"
+      - CA_56 TG@peekfun
+      - "|62.98Mb"
+      - "|59.20Mb"
+      - US_419 TG@peekfun
+      - US_376 TG@peekfun
+      - US_1711
+      - "|73.38Mb"
+      - "|74.01Mb"
+      - US_423 TG@peekfun
+      - US_1569+|65.05Mb
+      - US_1798+|184.69Mb
+      - US_1137
+      - US_1996 |316.46Mb
+      - CA_177
+      - "|71.18Mb"
+      - US_381 TG@peekfun
+      - "|61.15Mb"
+      - US_1775+|239.55Mb
+      - CA_186
+      - "|73.95Mb"
+      - US_152 |23.89Mb
+      - CA_53 TG@peekfun
+      - CA_209
+      - ZZ_2515 |139.59Mb
+      - US_199 |24.37Mb
+      - "|30.19Mb"
+      - US_1164
+      - DE_306
+      - ZZ_251 |11.77Mb
+      - "|72.55Mb"
+      - US_1306+|57.37Mb
+      - "|69.42Mb"
+      - US_1708
+      - GB_450
+      - US_1167
+      - US_1181
+      - US_162 |27.31Mb
+      - US_1786+|21.33Mb
+      - US_418 TG@peekfun
+      - DE_297
+      - NO_994+|+8.32Mb
+      - JP_92 | 8.70Mb
+      - Relay_🇨🇦CA-🇨🇦CA_10 |43.56Mb
+      - CA_61 TG@peekfun
+      - "|72.63Mb"
+      - US_1269+|96.30Mb
+      - ZZ_1817+|152.54Mb
+      - ZZ_245 |57.64Mb
+      - NO_989+|+6.28Mb
+      - HU_86 |37.59Mb
+      - US_1791+|216.03Mb
+      - CA_37 TG@peekfun
+      - ZZ_1954
+      - "|14.45Mb"
+      - "|62.00Mb"
+      - ZZ_2294
+      - Relay_🇺🇸US-🇺🇸US_1897
+      - CA_181
+      - "|73.08Mb"
+      - ZZ_2157+|199.27Mb
+      - US_1225
+      - US_1872
+      - US_1845
+      - "|21.20Mb"
+      - ZZ_1955
+      - US_1425+|187.14Mb
+      - US_1870
+      - "|14.23Mb"
+      - CA_193
+      - ZZ_1964
+      - Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb
+      - ZZ_1957
+      - ZZ_1965
+      - US_1844
       - US_1368+|90.80Mb
       - CA_151
       - ZZ_2885 |14.80Mb
-      - CA_177
+      - CA_177 2
       - US_2351+|136.98Mb
       - US_1131
       - US_181 |63.15Mb
@@ -285,9 +522,9 @@ proxy-groups:
       - ZZ_2391
       - ZZ_2502
       - CA_58 TG@peekfun
-      - US_1845
+      - US_1845 2
       - ZZ_2800+|173.71Mb
-      - CA_181
+      - CA_181 2
       - CA_45 TG@peekfun
       - US_183 |32.45Mb
       - CA_236
@@ -310,7 +547,7 @@ proxy-groups:
       - ZZ_2781+|169.33Mb
       - ZZ_2041
       - DE_60 |99.35Mb
-      - CA_61 TG@peekfun
+      - CA_61 TG@peekfun 2
       - ZZ_2788+|97.81Mb
       - US_1002
       - US_1206
@@ -335,19 +572,19 @@ proxy-groups:
       - US_1162 2
       - US_1882
       - ZZ_2792+|188.75Mb
-      - "|62.00Mb"
+      - "|62.00Mb 2"
       - US_1833
       - US_657
       - ZZ_2299
       - US_260 TG@peekfun
-      - US_1167
+      - US_1167 2
       - ZZ_2295
       - _49
       - CA_51 2
       - US_1896
       - _48
       - ZZ_2721+|60.44Mb
-      - US_162 |27.31Mb
+      - US_162 |27.31Mb 2
       - "|55.16Mb"
       - NL_953 |35.14Mb
       - Pool_🇭🇰HK_50 |24.43Mb
@@ -367,8 +604,8 @@ proxy-groups:
       - _54
       - US_270 TG@peekfun
       - NL_934 |34.56Mb
-      - US_1996 |316.46Mb
-      - US_1137
+      - US_1996 |316.46Mb 2
+      - US_1137 2
       - ZZ_2784+|192.78Mb
       - US_1425 |146.85Mb
       - ZZ_2728+|16.47Mb
@@ -380,10 +617,89 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - Relay_🇨🇳CN-🇭🇰HK_38 | 4.36Mb
+      - Relay_🇨🇳CN-🇺🇸US_20 | 2.98Mb
+      - Relay_🇨🇳CN-🇮🇳IN_19 | 7.21Mb
+      - US_467
+      - "|72.02Mb"
+      - CA_56 TG@peekfun
+      - "|62.98Mb"
+      - "|59.20Mb"
+      - US_419 TG@peekfun
+      - US_376 TG@peekfun
+      - US_1711
+      - "|73.38Mb"
+      - "|74.01Mb"
+      - US_423 TG@peekfun
+      - US_1569+|65.05Mb
+      - US_1798+|184.69Mb
+      - US_1137
+      - US_1996 |316.46Mb
+      - CA_177
+      - "|71.18Mb"
+      - US_381 TG@peekfun
+      - "|61.15Mb"
+      - US_1775+|239.55Mb
+      - CA_186
+      - "|73.95Mb"
+      - US_152 |23.89Mb
+      - CA_53 TG@peekfun
+      - CA_209
+      - ZZ_2515 |139.59Mb
+      - US_199 |24.37Mb
+      - "|30.19Mb"
+      - US_1164
+      - DE_306
+      - ZZ_251 |11.77Mb
+      - "|72.55Mb"
+      - US_1306+|57.37Mb
+      - "|69.42Mb"
+      - US_1708
+      - GB_450
+      - US_1167
+      - US_1181
+      - US_162 |27.31Mb
+      - US_1786+|21.33Mb
+      - US_418 TG@peekfun
+      - DE_297
+      - NO_994+|+8.32Mb
+      - JP_92 | 8.70Mb
+      - Relay_🇨🇦CA-🇨🇦CA_10 |43.56Mb
+      - CA_61 TG@peekfun
+      - "|72.63Mb"
+      - US_1269+|96.30Mb
+      - ZZ_1817+|152.54Mb
+      - ZZ_245 |57.64Mb
+      - NO_989+|+6.28Mb
+      - HU_86 |37.59Mb
+      - US_1791+|216.03Mb
+      - CA_37 TG@peekfun
+      - ZZ_1954
+      - "|14.45Mb"
+      - "|62.00Mb"
+      - ZZ_2294
+      - Relay_🇺🇸US-🇺🇸US_1897
+      - CA_181
+      - "|73.08Mb"
+      - ZZ_2157+|199.27Mb
+      - US_1225
+      - US_1872
+      - US_1845
+      - "|21.20Mb"
+      - ZZ_1955
+      - US_1425+|187.14Mb
+      - US_1870
+      - "|14.23Mb"
+      - CA_193
+      - ZZ_1964
+      - Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb
+      - ZZ_1957
+      - ZZ_1965
+      - US_1844
       - US_1368+|90.80Mb
       - CA_151
       - ZZ_2885 |14.80Mb
-      - CA_177
+      - CA_177 2
       - US_2351+|136.98Mb
       - US_1131
       - US_181 |63.15Mb
@@ -410,9 +726,9 @@ proxy-groups:
       - ZZ_2391
       - ZZ_2502
       - CA_58 TG@peekfun
-      - US_1845
+      - US_1845 2
       - ZZ_2800+|173.71Mb
-      - CA_181
+      - CA_181 2
       - CA_45 TG@peekfun
       - US_183 |32.45Mb
       - CA_236
@@ -435,7 +751,7 @@ proxy-groups:
       - ZZ_2781+|169.33Mb
       - ZZ_2041
       - DE_60 |99.35Mb
-      - CA_61 TG@peekfun
+      - CA_61 TG@peekfun 2
       - ZZ_2788+|97.81Mb
       - US_1002
       - US_1206
@@ -460,19 +776,19 @@ proxy-groups:
       - US_1162 2
       - US_1882
       - ZZ_2792+|188.75Mb
-      - "|62.00Mb"
+      - "|62.00Mb 2"
       - US_1833
       - US_657
       - ZZ_2299
       - US_260 TG@peekfun
-      - US_1167
+      - US_1167 2
       - ZZ_2295
       - _49
       - CA_51 2
       - US_1896
       - _48
       - ZZ_2721+|60.44Mb
-      - US_162 |27.31Mb
+      - US_162 |27.31Mb 2
       - "|55.16Mb"
       - NL_953 |35.14Mb
       - Pool_🇭🇰HK_50 |24.43Mb
@@ -492,8 +808,8 @@ proxy-groups:
       - _54
       - US_270 TG@peekfun
       - NL_934 |34.56Mb
-      - US_1996 |316.46Mb
-      - US_1137
+      - US_1996 |316.46Mb 2
+      - US_1137 2
       - ZZ_2784+|192.78Mb
       - US_1425 |146.85Mb
       - ZZ_2728+|16.47Mb
@@ -504,10 +820,89 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - Relay_🇨🇳CN-🇭🇰HK_38 | 4.36Mb
+      - Relay_🇨🇳CN-🇺🇸US_20 | 2.98Mb
+      - Relay_🇨🇳CN-🇮🇳IN_19 | 7.21Mb
+      - US_467
+      - "|72.02Mb"
+      - CA_56 TG@peekfun
+      - "|62.98Mb"
+      - "|59.20Mb"
+      - US_419 TG@peekfun
+      - US_376 TG@peekfun
+      - US_1711
+      - "|73.38Mb"
+      - "|74.01Mb"
+      - US_423 TG@peekfun
+      - US_1569+|65.05Mb
+      - US_1798+|184.69Mb
+      - US_1137
+      - US_1996 |316.46Mb
+      - CA_177
+      - "|71.18Mb"
+      - US_381 TG@peekfun
+      - "|61.15Mb"
+      - US_1775+|239.55Mb
+      - CA_186
+      - "|73.95Mb"
+      - US_152 |23.89Mb
+      - CA_53 TG@peekfun
+      - CA_209
+      - ZZ_2515 |139.59Mb
+      - US_199 |24.37Mb
+      - "|30.19Mb"
+      - US_1164
+      - DE_306
+      - ZZ_251 |11.77Mb
+      - "|72.55Mb"
+      - US_1306+|57.37Mb
+      - "|69.42Mb"
+      - US_1708
+      - GB_450
+      - US_1167
+      - US_1181
+      - US_162 |27.31Mb
+      - US_1786+|21.33Mb
+      - US_418 TG@peekfun
+      - DE_297
+      - NO_994+|+8.32Mb
+      - JP_92 | 8.70Mb
+      - Relay_🇨🇦CA-🇨🇦CA_10 |43.56Mb
+      - CA_61 TG@peekfun
+      - "|72.63Mb"
+      - US_1269+|96.30Mb
+      - ZZ_1817+|152.54Mb
+      - ZZ_245 |57.64Mb
+      - NO_989+|+6.28Mb
+      - HU_86 |37.59Mb
+      - US_1791+|216.03Mb
+      - CA_37 TG@peekfun
+      - ZZ_1954
+      - "|14.45Mb"
+      - "|62.00Mb"
+      - ZZ_2294
+      - Relay_🇺🇸US-🇺🇸US_1897
+      - CA_181
+      - "|73.08Mb"
+      - ZZ_2157+|199.27Mb
+      - US_1225
+      - US_1872
+      - US_1845
+      - "|21.20Mb"
+      - ZZ_1955
+      - US_1425+|187.14Mb
+      - US_1870
+      - "|14.23Mb"
+      - CA_193
+      - ZZ_1964
+      - Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb
+      - ZZ_1957
+      - ZZ_1965
+      - US_1844
       - US_1368+|90.80Mb
       - CA_151
       - ZZ_2885 |14.80Mb
-      - CA_177
+      - CA_177 2
       - US_2351+|136.98Mb
       - US_1131
       - US_181 |63.15Mb
@@ -534,9 +929,9 @@ proxy-groups:
       - ZZ_2391
       - ZZ_2502
       - CA_58 TG@peekfun
-      - US_1845
+      - US_1845 2
       - ZZ_2800+|173.71Mb
-      - CA_181
+      - CA_181 2
       - CA_45 TG@peekfun
       - US_183 |32.45Mb
       - CA_236
@@ -559,7 +954,7 @@ proxy-groups:
       - ZZ_2781+|169.33Mb
       - ZZ_2041
       - DE_60 |99.35Mb
-      - CA_61 TG@peekfun
+      - CA_61 TG@peekfun 2
       - ZZ_2788+|97.81Mb
       - US_1002
       - US_1206
@@ -584,19 +979,19 @@ proxy-groups:
       - US_1162 2
       - US_1882
       - ZZ_2792+|188.75Mb
-      - "|62.00Mb"
+      - "|62.00Mb 2"
       - US_1833
       - US_657
       - ZZ_2299
       - US_260 TG@peekfun
-      - US_1167
+      - US_1167 2
       - ZZ_2295
       - _49
       - CA_51 2
       - US_1896
       - _48
       - ZZ_2721+|60.44Mb
-      - US_162 |27.31Mb
+      - US_162 |27.31Mb 2
       - "|55.16Mb"
       - NL_953 |35.14Mb
       - Pool_🇭🇰HK_50 |24.43Mb
@@ -616,8 +1011,8 @@ proxy-groups:
       - _54
       - US_270 TG@peekfun
       - NL_934 |34.56Mb
-      - US_1996 |316.46Mb
-      - US_1137
+      - US_1996 |316.46Mb 2
+      - US_1137 2
       - ZZ_2784+|192.78Mb
       - US_1425 |146.85Mb
       - ZZ_2728+|16.47Mb
@@ -628,10 +1023,89 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - Relay_🇨🇳CN-🇭🇰HK_38 | 4.36Mb
+      - Relay_🇨🇳CN-🇺🇸US_20 | 2.98Mb
+      - Relay_🇨🇳CN-🇮🇳IN_19 | 7.21Mb
+      - US_467
+      - "|72.02Mb"
+      - CA_56 TG@peekfun
+      - "|62.98Mb"
+      - "|59.20Mb"
+      - US_419 TG@peekfun
+      - US_376 TG@peekfun
+      - US_1711
+      - "|73.38Mb"
+      - "|74.01Mb"
+      - US_423 TG@peekfun
+      - US_1569+|65.05Mb
+      - US_1798+|184.69Mb
+      - US_1137
+      - US_1996 |316.46Mb
+      - CA_177
+      - "|71.18Mb"
+      - US_381 TG@peekfun
+      - "|61.15Mb"
+      - US_1775+|239.55Mb
+      - CA_186
+      - "|73.95Mb"
+      - US_152 |23.89Mb
+      - CA_53 TG@peekfun
+      - CA_209
+      - ZZ_2515 |139.59Mb
+      - US_199 |24.37Mb
+      - "|30.19Mb"
+      - US_1164
+      - DE_306
+      - ZZ_251 |11.77Mb
+      - "|72.55Mb"
+      - US_1306+|57.37Mb
+      - "|69.42Mb"
+      - US_1708
+      - GB_450
+      - US_1167
+      - US_1181
+      - US_162 |27.31Mb
+      - US_1786+|21.33Mb
+      - US_418 TG@peekfun
+      - DE_297
+      - NO_994+|+8.32Mb
+      - JP_92 | 8.70Mb
+      - Relay_🇨🇦CA-🇨🇦CA_10 |43.56Mb
+      - CA_61 TG@peekfun
+      - "|72.63Mb"
+      - US_1269+|96.30Mb
+      - ZZ_1817+|152.54Mb
+      - ZZ_245 |57.64Mb
+      - NO_989+|+6.28Mb
+      - HU_86 |37.59Mb
+      - US_1791+|216.03Mb
+      - CA_37 TG@peekfun
+      - ZZ_1954
+      - "|14.45Mb"
+      - "|62.00Mb"
+      - ZZ_2294
+      - Relay_🇺🇸US-🇺🇸US_1897
+      - CA_181
+      - "|73.08Mb"
+      - ZZ_2157+|199.27Mb
+      - US_1225
+      - US_1872
+      - US_1845
+      - "|21.20Mb"
+      - ZZ_1955
+      - US_1425+|187.14Mb
+      - US_1870
+      - "|14.23Mb"
+      - CA_193
+      - ZZ_1964
+      - Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb
+      - ZZ_1957
+      - ZZ_1965
+      - US_1844
       - US_1368+|90.80Mb
       - CA_151
       - ZZ_2885 |14.80Mb
-      - CA_177
+      - CA_177 2
       - US_2351+|136.98Mb
       - US_1131
       - US_181 |63.15Mb
@@ -658,9 +1132,9 @@ proxy-groups:
       - ZZ_2391
       - ZZ_2502
       - CA_58 TG@peekfun
-      - US_1845
+      - US_1845 2
       - ZZ_2800+|173.71Mb
-      - CA_181
+      - CA_181 2
       - CA_45 TG@peekfun
       - US_183 |32.45Mb
       - CA_236
@@ -683,7 +1157,7 @@ proxy-groups:
       - ZZ_2781+|169.33Mb
       - ZZ_2041
       - DE_60 |99.35Mb
-      - CA_61 TG@peekfun
+      - CA_61 TG@peekfun 2
       - ZZ_2788+|97.81Mb
       - US_1002
       - US_1206
@@ -708,19 +1182,19 @@ proxy-groups:
       - US_1162 2
       - US_1882
       - ZZ_2792+|188.75Mb
-      - "|62.00Mb"
+      - "|62.00Mb 2"
       - US_1833
       - US_657
       - ZZ_2299
       - US_260 TG@peekfun
-      - US_1167
+      - US_1167 2
       - ZZ_2295
       - _49
       - CA_51 2
       - US_1896
       - _48
       - ZZ_2721+|60.44Mb
-      - US_162 |27.31Mb
+      - US_162 |27.31Mb 2
       - "|55.16Mb"
       - NL_953 |35.14Mb
       - Pool_🇭🇰HK_50 |24.43Mb
@@ -740,8 +1214,8 @@ proxy-groups:
       - _54
       - US_270 TG@peekfun
       - NL_934 |34.56Mb
-      - US_1996 |316.46Mb
-      - US_1137
+      - US_1996 |316.46Mb 2
+      - US_1137 2
       - ZZ_2784+|192.78Mb
       - US_1425 |146.85Mb
       - ZZ_2728+|16.47Mb
@@ -752,10 +1226,89 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - Relay_🇨🇳CN-🇭🇰HK_38 | 4.36Mb
+      - Relay_🇨🇳CN-🇺🇸US_20 | 2.98Mb
+      - Relay_🇨🇳CN-🇮🇳IN_19 | 7.21Mb
+      - US_467
+      - "|72.02Mb"
+      - CA_56 TG@peekfun
+      - "|62.98Mb"
+      - "|59.20Mb"
+      - US_419 TG@peekfun
+      - US_376 TG@peekfun
+      - US_1711
+      - "|73.38Mb"
+      - "|74.01Mb"
+      - US_423 TG@peekfun
+      - US_1569+|65.05Mb
+      - US_1798+|184.69Mb
+      - US_1137
+      - US_1996 |316.46Mb
+      - CA_177
+      - "|71.18Mb"
+      - US_381 TG@peekfun
+      - "|61.15Mb"
+      - US_1775+|239.55Mb
+      - CA_186
+      - "|73.95Mb"
+      - US_152 |23.89Mb
+      - CA_53 TG@peekfun
+      - CA_209
+      - ZZ_2515 |139.59Mb
+      - US_199 |24.37Mb
+      - "|30.19Mb"
+      - US_1164
+      - DE_306
+      - ZZ_251 |11.77Mb
+      - "|72.55Mb"
+      - US_1306+|57.37Mb
+      - "|69.42Mb"
+      - US_1708
+      - GB_450
+      - US_1167
+      - US_1181
+      - US_162 |27.31Mb
+      - US_1786+|21.33Mb
+      - US_418 TG@peekfun
+      - DE_297
+      - NO_994+|+8.32Mb
+      - JP_92 | 8.70Mb
+      - Relay_🇨🇦CA-🇨🇦CA_10 |43.56Mb
+      - CA_61 TG@peekfun
+      - "|72.63Mb"
+      - US_1269+|96.30Mb
+      - ZZ_1817+|152.54Mb
+      - ZZ_245 |57.64Mb
+      - NO_989+|+6.28Mb
+      - HU_86 |37.59Mb
+      - US_1791+|216.03Mb
+      - CA_37 TG@peekfun
+      - ZZ_1954
+      - "|14.45Mb"
+      - "|62.00Mb"
+      - ZZ_2294
+      - Relay_🇺🇸US-🇺🇸US_1897
+      - CA_181
+      - "|73.08Mb"
+      - ZZ_2157+|199.27Mb
+      - US_1225
+      - US_1872
+      - US_1845
+      - "|21.20Mb"
+      - ZZ_1955
+      - US_1425+|187.14Mb
+      - US_1870
+      - "|14.23Mb"
+      - CA_193
+      - ZZ_1964
+      - Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb
+      - ZZ_1957
+      - ZZ_1965
+      - US_1844
       - US_1368+|90.80Mb
       - CA_151
       - ZZ_2885 |14.80Mb
-      - CA_177
+      - CA_177 2
       - US_2351+|136.98Mb
       - US_1131
       - US_181 |63.15Mb
@@ -782,9 +1335,9 @@ proxy-groups:
       - ZZ_2391
       - ZZ_2502
       - CA_58 TG@peekfun
-      - US_1845
+      - US_1845 2
       - ZZ_2800+|173.71Mb
-      - CA_181
+      - CA_181 2
       - CA_45 TG@peekfun
       - US_183 |32.45Mb
       - CA_236
@@ -807,7 +1360,7 @@ proxy-groups:
       - ZZ_2781+|169.33Mb
       - ZZ_2041
       - DE_60 |99.35Mb
-      - CA_61 TG@peekfun
+      - CA_61 TG@peekfun 2
       - ZZ_2788+|97.81Mb
       - US_1002
       - US_1206
@@ -832,19 +1385,19 @@ proxy-groups:
       - US_1162 2
       - US_1882
       - ZZ_2792+|188.75Mb
-      - "|62.00Mb"
+      - "|62.00Mb 2"
       - US_1833
       - US_657
       - ZZ_2299
       - US_260 TG@peekfun
-      - US_1167
+      - US_1167 2
       - ZZ_2295
       - _49
       - CA_51 2
       - US_1896
       - _48
       - ZZ_2721+|60.44Mb
-      - US_162 |27.31Mb
+      - US_162 |27.31Mb 2
       - "|55.16Mb"
       - NL_953 |35.14Mb
       - Pool_🇭🇰HK_50 |24.43Mb
@@ -864,8 +1417,8 @@ proxy-groups:
       - _54
       - US_270 TG@peekfun
       - NL_934 |34.56Mb
-      - US_1996 |316.46Mb
-      - US_1137
+      - US_1996 |316.46Mb 2
+      - US_1137 2
       - ZZ_2784+|192.78Mb
       - US_1425 |146.85Mb
       - ZZ_2728+|16.47Mb
@@ -893,10 +1446,89 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - Relay_🇨🇳CN-🇭🇰HK_38 | 4.36Mb
+      - Relay_🇨🇳CN-🇺🇸US_20 | 2.98Mb
+      - Relay_🇨🇳CN-🇮🇳IN_19 | 7.21Mb
+      - US_467
+      - "|72.02Mb"
+      - CA_56 TG@peekfun
+      - "|62.98Mb"
+      - "|59.20Mb"
+      - US_419 TG@peekfun
+      - US_376 TG@peekfun
+      - US_1711
+      - "|73.38Mb"
+      - "|74.01Mb"
+      - US_423 TG@peekfun
+      - US_1569+|65.05Mb
+      - US_1798+|184.69Mb
+      - US_1137
+      - US_1996 |316.46Mb
+      - CA_177
+      - "|71.18Mb"
+      - US_381 TG@peekfun
+      - "|61.15Mb"
+      - US_1775+|239.55Mb
+      - CA_186
+      - "|73.95Mb"
+      - US_152 |23.89Mb
+      - CA_53 TG@peekfun
+      - CA_209
+      - ZZ_2515 |139.59Mb
+      - US_199 |24.37Mb
+      - "|30.19Mb"
+      - US_1164
+      - DE_306
+      - ZZ_251 |11.77Mb
+      - "|72.55Mb"
+      - US_1306+|57.37Mb
+      - "|69.42Mb"
+      - US_1708
+      - GB_450
+      - US_1167
+      - US_1181
+      - US_162 |27.31Mb
+      - US_1786+|21.33Mb
+      - US_418 TG@peekfun
+      - DE_297
+      - NO_994+|+8.32Mb
+      - JP_92 | 8.70Mb
+      - Relay_🇨🇦CA-🇨🇦CA_10 |43.56Mb
+      - CA_61 TG@peekfun
+      - "|72.63Mb"
+      - US_1269+|96.30Mb
+      - ZZ_1817+|152.54Mb
+      - ZZ_245 |57.64Mb
+      - NO_989+|+6.28Mb
+      - HU_86 |37.59Mb
+      - US_1791+|216.03Mb
+      - CA_37 TG@peekfun
+      - ZZ_1954
+      - "|14.45Mb"
+      - "|62.00Mb"
+      - ZZ_2294
+      - Relay_🇺🇸US-🇺🇸US_1897
+      - CA_181
+      - "|73.08Mb"
+      - ZZ_2157+|199.27Mb
+      - US_1225
+      - US_1872
+      - US_1845
+      - "|21.20Mb"
+      - ZZ_1955
+      - US_1425+|187.14Mb
+      - US_1870
+      - "|14.23Mb"
+      - CA_193
+      - ZZ_1964
+      - Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb
+      - ZZ_1957
+      - ZZ_1965
+      - US_1844
       - US_1368+|90.80Mb
       - CA_151
       - ZZ_2885 |14.80Mb
-      - CA_177
+      - CA_177 2
       - US_2351+|136.98Mb
       - US_1131
       - US_181 |63.15Mb
@@ -923,9 +1555,9 @@ proxy-groups:
       - ZZ_2391
       - ZZ_2502
       - CA_58 TG@peekfun
-      - US_1845
+      - US_1845 2
       - ZZ_2800+|173.71Mb
-      - CA_181
+      - CA_181 2
       - CA_45 TG@peekfun
       - US_183 |32.45Mb
       - CA_236
@@ -948,7 +1580,7 @@ proxy-groups:
       - ZZ_2781+|169.33Mb
       - ZZ_2041
       - DE_60 |99.35Mb
-      - CA_61 TG@peekfun
+      - CA_61 TG@peekfun 2
       - ZZ_2788+|97.81Mb
       - US_1002
       - US_1206
@@ -973,19 +1605,19 @@ proxy-groups:
       - US_1162 2
       - US_1882
       - ZZ_2792+|188.75Mb
-      - "|62.00Mb"
+      - "|62.00Mb 2"
       - US_1833
       - US_657
       - ZZ_2299
       - US_260 TG@peekfun
-      - US_1167
+      - US_1167 2
       - ZZ_2295
       - _49
       - CA_51 2
       - US_1896
       - _48
       - ZZ_2721+|60.44Mb
-      - US_162 |27.31Mb
+      - US_162 |27.31Mb 2
       - "|55.16Mb"
       - NL_953 |35.14Mb
       - Pool_🇭🇰HK_50 |24.43Mb
@@ -1005,8 +1637,8 @@ proxy-groups:
       - _54
       - US_270 TG@peekfun
       - NL_934 |34.56Mb
-      - US_1996 |316.46Mb
-      - US_1137
+      - US_1996 |316.46Mb 2
+      - US_1137 2
       - ZZ_2784+|192.78Mb
       - US_1425 |146.85Mb
       - ZZ_2728+|16.47Mb
