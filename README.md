@@ -58,7 +58,7 @@ We are collecting some common node crawler project proxy pools and subscription 
 | https://ss.dswang.ga:8443 | https://ss.dswang.ga:8443/clash/proxies |
 | :star:https://sspool.herokuapp.com | https://sspool.herokuapp.com/clash/proxies |
 | https://sspool.nl | https://sspool.nl/clash/proxies |
-| https://us-proxypool.herokuapp.com | https://us-proxypool.herokuapp.com/clash/proxies |
+| :star:https://us-proxypool.herokuapp.com | https://us-proxypool.herokuapp.com/clash/proxies |
 | https://wtma.bb201.xyz | https://wtma.bb201.xyz/clash/proxies |
 | :star:https://www.joemt.tk | https://www.joemt.tk/clash/proxies |
 | :star:https://www.linbaoz.com | https://www.linbaoz.com/clash/proxies |
