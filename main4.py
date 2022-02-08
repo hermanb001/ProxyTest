@@ -16,7 +16,7 @@ def main(event, context):
     utils.initLog('log.txt')
     utils.clearLog()
     savePoint(
-        'https://free.kingfu.cf/clash/proxies?speed=80', 'kingfu')
+        'https://free.kingfu.cf/clash/proxies?speed=50', 'kingfu')
 
     # savePoint(
     #     'https://etproxypool.ga/clash/proxies?nc=CN&speed=30&type=ss', 'ss.txt')
