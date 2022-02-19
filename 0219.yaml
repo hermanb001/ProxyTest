@@ -5,6 +5,62 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
+  - {name: ZZ_2607, server: 169.197.143.219, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: ZZ_2831, server: 134.195.196.231, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: ZZ_2753, server: 134.195.196.60, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ZZ_2832, server: 134.195.196.97, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: ZZ_2628, server: 134.195.196.187, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ZZ_2748, server: 134.195.196.60, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: ZZ_2702, server: 134.195.196.44, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US_2289, server: 167.88.62.68, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: ZZ_2836, server: 134.195.196.202, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: ZZ_2728, server: 134.195.196.128, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ZZ_2827, server: 134.195.196.130, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: ZZ_2567, server: 134.195.196.24, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: ZZ_2633, server: 134.195.196.217, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: ZZ_2745, server: 134.195.196.51, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: ZZ_2713, server: 134.195.196.219, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ZZ_2411, server: 134.195.196.71, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: ZZ_2833, server: 134.195.196.44, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US_2285, server: 142.202.48.108, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: ZZ_2727, server: 134.195.196.149, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: ZZ_2754, server: 134.195.196.199, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: ZZ_2695, server: 134.195.196.199, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: ZZ_2399, server: 134.195.196.71, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ZZ_2696, server: 134.195.196.150, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ZZ_2632, server: 134.195.196.187, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ZZ_2749, server: 134.195.196.202, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: ZZ_2629, server: 134.195.198.95, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: ZZ_2834, server: 134.195.196.110, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: ZZ_2732, server: 134.195.196.36, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: ZZ_2752, server: 134.195.196.231, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: ZZ_2742, server: 134.195.196.199, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: ZZ_2401, server: 134.195.196.184, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ZZ_2737, server: 134.195.196.51, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ZZ_2746, server: 134.195.196.36, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: ZZ_2694, server: 134.195.196.110, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: ZZ_2736, server: 134.195.196.199, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_2286, server: 142.202.48.34, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: ZZ_2723, server: 134.195.196.50, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ZZ_2751, server: 134.195.196.36, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: ZZ_2739, server: 134.195.196.60, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: ZZ_2624, server: 134.195.196.187, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ZZ_2743, server: 134.195.196.179, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: ZZ_2735, server: 134.195.196.60, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: ZZ_2826, server: 134.195.196.200, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: ZZ_2710, server: 134.195.196.144, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: ZZ_2625, server: 134.195.196.154, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: ZZ_2837, server: 134.195.196.97, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: ZZ_2721, server: 134.195.196.227, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ZZ_2830, server: 134.195.196.163, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ZZ_2733, server: 134.195.196.36, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ZZ_2770, server: 134.195.196.217, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ZZ_2712, server: 134.195.196.149, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: ZZ_2750, server: 134.195.196.24, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: ZZ_2738, server: 134.195.196.24, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: ZZ_2838, server: 134.195.196.184, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: ZZ_2717, server: 134.195.196.68, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: ZZ_2747, server: 134.195.196.199, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: _59, server: 85.208.108.146, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: JP_793, server: 45.11.1.158, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: _36, server: 167.88.63.82, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
@@ -62,7 +118,6 @@ proxies:
   - {name: CN_49 TG@peekfun, server: hz.pbaplink.xyz, port: 47772, type: trojan, password: ad983854-167d-478f-88eb-5d494d3b2c24, sni: hz.pbaplink.xyz, skip-cert-verify: true, udp: true}
   - {name: CN_33 TG@peekfun, server: 117.28.243.220, port: 8186, type: ss, cipher: rc4-md5, password: passinfo123, udp: true}
   - {name: CN_30 TG@peekfun, server: 117.28.243.220, port: 8076, type: ss, cipher: rc4-md5, password: passinfo123, udp: true}
-  - {name: ZZ_256 TG@peekfun, server: 134.195.196.147, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: CN_29 TG@peekfun, server: 117.28.243.154, port: 6145, type: ss, cipher: rc4-md5, password: passinfo123, udp: true}
   - {name: ZZ_251 TG@peekfun, server: 134.195.196.200, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
   - {name: ZZ_250 TG@peekfun, server: 134.195.196.200, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
@@ -74,6 +129,62 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - ZZ_2607
+      - ZZ_2831
+      - ZZ_2753
+      - ZZ_2832
+      - ZZ_2628
+      - ZZ_2748
+      - ZZ_2702
+      - US_2289
+      - ZZ_2836
+      - ZZ_2728
+      - ZZ_2827
+      - ZZ_2567
+      - ZZ_2633
+      - ZZ_2745
+      - ZZ_2713
+      - ZZ_2411
+      - ZZ_2833
+      - US_2285
+      - ZZ_2727
+      - ZZ_2754
+      - ZZ_2695
+      - ZZ_2399
+      - ZZ_2696
+      - ZZ_2632
+      - ZZ_2749
+      - ZZ_2629
+      - ZZ_2834
+      - ZZ_2732
+      - ZZ_2752
+      - ZZ_2742
+      - ZZ_2401
+      - ZZ_2737
+      - ZZ_2746
+      - ZZ_2694
+      - ZZ_2736
+      - US_2286
+      - ZZ_2723
+      - ZZ_2751
+      - ZZ_2739
+      - ZZ_2624
+      - ZZ_2743
+      - ZZ_2735
+      - ZZ_2826
+      - ZZ_2710
+      - ZZ_2625
+      - ZZ_2837
+      - ZZ_2721
+      - ZZ_2830
+      - ZZ_2733
+      - ZZ_2770
+      - ZZ_2712
+      - ZZ_2750
+      - ZZ_2738
+      - ZZ_2838
+      - ZZ_2717
+      - ZZ_2747
       - _59
       - JP_793
       - _36
@@ -131,7 +242,6 @@ proxy-groups:
       - CN_49 TG@peekfun
       - CN_33 TG@peekfun
       - CN_30 TG@peekfun
-      - ZZ_256 TG@peekfun
       - CN_29 TG@peekfun
       - ZZ_251 TG@peekfun
       - ZZ_250 TG@peekfun
@@ -143,6 +253,62 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - ZZ_2607
+      - ZZ_2831
+      - ZZ_2753
+      - ZZ_2832
+      - ZZ_2628
+      - ZZ_2748
+      - ZZ_2702
+      - US_2289
+      - ZZ_2836
+      - ZZ_2728
+      - ZZ_2827
+      - ZZ_2567
+      - ZZ_2633
+      - ZZ_2745
+      - ZZ_2713
+      - ZZ_2411
+      - ZZ_2833
+      - US_2285
+      - ZZ_2727
+      - ZZ_2754
+      - ZZ_2695
+      - ZZ_2399
+      - ZZ_2696
+      - ZZ_2632
+      - ZZ_2749
+      - ZZ_2629
+      - ZZ_2834
+      - ZZ_2732
+      - ZZ_2752
+      - ZZ_2742
+      - ZZ_2401
+      - ZZ_2737
+      - ZZ_2746
+      - ZZ_2694
+      - ZZ_2736
+      - US_2286
+      - ZZ_2723
+      - ZZ_2751
+      - ZZ_2739
+      - ZZ_2624
+      - ZZ_2743
+      - ZZ_2735
+      - ZZ_2826
+      - ZZ_2710
+      - ZZ_2625
+      - ZZ_2837
+      - ZZ_2721
+      - ZZ_2830
+      - ZZ_2733
+      - ZZ_2770
+      - ZZ_2712
+      - ZZ_2750
+      - ZZ_2738
+      - ZZ_2838
+      - ZZ_2717
+      - ZZ_2747
       - _59
       - JP_793
       - _36
@@ -200,7 +366,6 @@ proxy-groups:
       - CN_49 TG@peekfun
       - CN_33 TG@peekfun
       - CN_30 TG@peekfun
-      - ZZ_256 TG@peekfun
       - CN_29 TG@peekfun
       - ZZ_251 TG@peekfun
       - ZZ_250 TG@peekfun
@@ -212,6 +377,62 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - ZZ_2607
+      - ZZ_2831
+      - ZZ_2753
+      - ZZ_2832
+      - ZZ_2628
+      - ZZ_2748
+      - ZZ_2702
+      - US_2289
+      - ZZ_2836
+      - ZZ_2728
+      - ZZ_2827
+      - ZZ_2567
+      - ZZ_2633
+      - ZZ_2745
+      - ZZ_2713
+      - ZZ_2411
+      - ZZ_2833
+      - US_2285
+      - ZZ_2727
+      - ZZ_2754
+      - ZZ_2695
+      - ZZ_2399
+      - ZZ_2696
+      - ZZ_2632
+      - ZZ_2749
+      - ZZ_2629
+      - ZZ_2834
+      - ZZ_2732
+      - ZZ_2752
+      - ZZ_2742
+      - ZZ_2401
+      - ZZ_2737
+      - ZZ_2746
+      - ZZ_2694
+      - ZZ_2736
+      - US_2286
+      - ZZ_2723
+      - ZZ_2751
+      - ZZ_2739
+      - ZZ_2624
+      - ZZ_2743
+      - ZZ_2735
+      - ZZ_2826
+      - ZZ_2710
+      - ZZ_2625
+      - ZZ_2837
+      - ZZ_2721
+      - ZZ_2830
+      - ZZ_2733
+      - ZZ_2770
+      - ZZ_2712
+      - ZZ_2750
+      - ZZ_2738
+      - ZZ_2838
+      - ZZ_2717
+      - ZZ_2747
       - _59
       - JP_793
       - _36
@@ -269,7 +490,6 @@ proxy-groups:
       - CN_49 TG@peekfun
       - CN_33 TG@peekfun
       - CN_30 TG@peekfun
-      - ZZ_256 TG@peekfun
       - CN_29 TG@peekfun
       - ZZ_251 TG@peekfun
       - ZZ_250 TG@peekfun
@@ -280,6 +500,62 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - ZZ_2607
+      - ZZ_2831
+      - ZZ_2753
+      - ZZ_2832
+      - ZZ_2628
+      - ZZ_2748
+      - ZZ_2702
+      - US_2289
+      - ZZ_2836
+      - ZZ_2728
+      - ZZ_2827
+      - ZZ_2567
+      - ZZ_2633
+      - ZZ_2745
+      - ZZ_2713
+      - ZZ_2411
+      - ZZ_2833
+      - US_2285
+      - ZZ_2727
+      - ZZ_2754
+      - ZZ_2695
+      - ZZ_2399
+      - ZZ_2696
+      - ZZ_2632
+      - ZZ_2749
+      - ZZ_2629
+      - ZZ_2834
+      - ZZ_2732
+      - ZZ_2752
+      - ZZ_2742
+      - ZZ_2401
+      - ZZ_2737
+      - ZZ_2746
+      - ZZ_2694
+      - ZZ_2736
+      - US_2286
+      - ZZ_2723
+      - ZZ_2751
+      - ZZ_2739
+      - ZZ_2624
+      - ZZ_2743
+      - ZZ_2735
+      - ZZ_2826
+      - ZZ_2710
+      - ZZ_2625
+      - ZZ_2837
+      - ZZ_2721
+      - ZZ_2830
+      - ZZ_2733
+      - ZZ_2770
+      - ZZ_2712
+      - ZZ_2750
+      - ZZ_2738
+      - ZZ_2838
+      - ZZ_2717
+      - ZZ_2747
       - _59
       - JP_793
       - _36
@@ -337,7 +613,6 @@ proxy-groups:
       - CN_49 TG@peekfun
       - CN_33 TG@peekfun
       - CN_30 TG@peekfun
-      - ZZ_256 TG@peekfun
       - CN_29 TG@peekfun
       - ZZ_251 TG@peekfun
       - ZZ_250 TG@peekfun
@@ -348,6 +623,62 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - ZZ_2607
+      - ZZ_2831
+      - ZZ_2753
+      - ZZ_2832
+      - ZZ_2628
+      - ZZ_2748
+      - ZZ_2702
+      - US_2289
+      - ZZ_2836
+      - ZZ_2728
+      - ZZ_2827
+      - ZZ_2567
+      - ZZ_2633
+      - ZZ_2745
+      - ZZ_2713
+      - ZZ_2411
+      - ZZ_2833
+      - US_2285
+      - ZZ_2727
+      - ZZ_2754
+      - ZZ_2695
+      - ZZ_2399
+      - ZZ_2696
+      - ZZ_2632
+      - ZZ_2749
+      - ZZ_2629
+      - ZZ_2834
+      - ZZ_2732
+      - ZZ_2752
+      - ZZ_2742
+      - ZZ_2401
+      - ZZ_2737
+      - ZZ_2746
+      - ZZ_2694
+      - ZZ_2736
+      - US_2286
+      - ZZ_2723
+      - ZZ_2751
+      - ZZ_2739
+      - ZZ_2624
+      - ZZ_2743
+      - ZZ_2735
+      - ZZ_2826
+      - ZZ_2710
+      - ZZ_2625
+      - ZZ_2837
+      - ZZ_2721
+      - ZZ_2830
+      - ZZ_2733
+      - ZZ_2770
+      - ZZ_2712
+      - ZZ_2750
+      - ZZ_2738
+      - ZZ_2838
+      - ZZ_2717
+      - ZZ_2747
       - _59
       - JP_793
       - _36
@@ -405,7 +736,6 @@ proxy-groups:
       - CN_49 TG@peekfun
       - CN_33 TG@peekfun
       - CN_30 TG@peekfun
-      - ZZ_256 TG@peekfun
       - CN_29 TG@peekfun
       - ZZ_251 TG@peekfun
       - ZZ_250 TG@peekfun
@@ -416,6 +746,62 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - ZZ_2607
+      - ZZ_2831
+      - ZZ_2753
+      - ZZ_2832
+      - ZZ_2628
+      - ZZ_2748
+      - ZZ_2702
+      - US_2289
+      - ZZ_2836
+      - ZZ_2728
+      - ZZ_2827
+      - ZZ_2567
+      - ZZ_2633
+      - ZZ_2745
+      - ZZ_2713
+      - ZZ_2411
+      - ZZ_2833
+      - US_2285
+      - ZZ_2727
+      - ZZ_2754
+      - ZZ_2695
+      - ZZ_2399
+      - ZZ_2696
+      - ZZ_2632
+      - ZZ_2749
+      - ZZ_2629
+      - ZZ_2834
+      - ZZ_2732
+      - ZZ_2752
+      - ZZ_2742
+      - ZZ_2401
+      - ZZ_2737
+      - ZZ_2746
+      - ZZ_2694
+      - ZZ_2736
+      - US_2286
+      - ZZ_2723
+      - ZZ_2751
+      - ZZ_2739
+      - ZZ_2624
+      - ZZ_2743
+      - ZZ_2735
+      - ZZ_2826
+      - ZZ_2710
+      - ZZ_2625
+      - ZZ_2837
+      - ZZ_2721
+      - ZZ_2830
+      - ZZ_2733
+      - ZZ_2770
+      - ZZ_2712
+      - ZZ_2750
+      - ZZ_2738
+      - ZZ_2838
+      - ZZ_2717
+      - ZZ_2747
       - _59
       - JP_793
       - _36
@@ -473,7 +859,6 @@ proxy-groups:
       - CN_49 TG@peekfun
       - CN_33 TG@peekfun
       - CN_30 TG@peekfun
-      - ZZ_256 TG@peekfun
       - CN_29 TG@peekfun
       - ZZ_251 TG@peekfun
       - ZZ_250 TG@peekfun
@@ -501,6 +886,62 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - ZZ_2607
+      - ZZ_2831
+      - ZZ_2753
+      - ZZ_2832
+      - ZZ_2628
+      - ZZ_2748
+      - ZZ_2702
+      - US_2289
+      - ZZ_2836
+      - ZZ_2728
+      - ZZ_2827
+      - ZZ_2567
+      - ZZ_2633
+      - ZZ_2745
+      - ZZ_2713
+      - ZZ_2411
+      - ZZ_2833
+      - US_2285
+      - ZZ_2727
+      - ZZ_2754
+      - ZZ_2695
+      - ZZ_2399
+      - ZZ_2696
+      - ZZ_2632
+      - ZZ_2749
+      - ZZ_2629
+      - ZZ_2834
+      - ZZ_2732
+      - ZZ_2752
+      - ZZ_2742
+      - ZZ_2401
+      - ZZ_2737
+      - ZZ_2746
+      - ZZ_2694
+      - ZZ_2736
+      - US_2286
+      - ZZ_2723
+      - ZZ_2751
+      - ZZ_2739
+      - ZZ_2624
+      - ZZ_2743
+      - ZZ_2735
+      - ZZ_2826
+      - ZZ_2710
+      - ZZ_2625
+      - ZZ_2837
+      - ZZ_2721
+      - ZZ_2830
+      - ZZ_2733
+      - ZZ_2770
+      - ZZ_2712
+      - ZZ_2750
+      - ZZ_2738
+      - ZZ_2838
+      - ZZ_2717
+      - ZZ_2747
       - _59
       - JP_793
       - _36
@@ -558,7 +999,6 @@ proxy-groups:
       - CN_49 TG@peekfun
       - CN_33 TG@peekfun
       - CN_30 TG@peekfun
-      - ZZ_256 TG@peekfun
       - CN_29 TG@peekfun
       - ZZ_251 TG@peekfun
       - ZZ_250 TG@peekfun
