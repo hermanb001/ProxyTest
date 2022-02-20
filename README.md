@@ -14,7 +14,7 @@ Automatically collect nodes and generate subscriptions via GitHub's Actions. For
 |[sspool](https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fsspool)|https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fsspool|
 |[endovas](https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fednovas)|https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fednovas|
 |[eu-proxypool](https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Feu-proxypool)|https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Feu-proxypool|
-|[us-proxypool](https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2us-proxypool)|https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2us-proxypool|
+|[us-proxypool](https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fus-proxypool)|https://suc.bihai.cf/sub?target=v2ray&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fhermanb001%2FProxyTest%2Fmain%2Fsubscribe%2Fus-proxypool|
 
 
 ## Subscribtions for Clash：
