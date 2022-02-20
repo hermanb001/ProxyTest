@@ -15,7 +15,7 @@ We are collecting some common node crawler project proxy pools and subscription 
 | http://193.123.234.61 | http://193.123.234.61/clash/proxies |
 | :star:http://213.188.195.234 | http://213.188.195.234/clash/proxies |
 | http://39.106.12.141:8081 | http://39.106.12.141:8081/clash/proxies |
-| :star:http://8.135.91.61 | http://8.135.91.61/clash/proxies |
+| http://8.135.91.61 | http://8.135.91.61/clash/proxies |
 | http://emby.luoml.eu.org | http://emby.luoml.eu.org/clash/proxies |
 | http://guobang.herokuapp.com | http://guobang.herokuapp.com/clash/proxies |
 | http://www.antg.xyz | http://www.antg.xyz/clash/proxies |
@@ -32,7 +32,7 @@ We are collecting some common node crawler project proxy pools and subscription 
 | :star:https://ednovas.design | https://ednovas.design/clash/proxies |
 | https://emby.luoml.eu.org | https://emby.luoml.eu.org/clash/proxies |
 | https://etproxypool.ga | https://etproxypool.ga/clash/proxies |
-| https://eu-proxypool.herokuapp.com | https://eu-proxypool.herokuapp.com/clash/proxies |
+| :star:https://eu-proxypool.herokuapp.com | https://eu-proxypool.herokuapp.com/clash/proxies |
 | :star:https://free.zdl.im | https://free.zdl.im/clash/proxies |
 | :star:https://dl.zjzj.xyz | https://dl.zjzj.xyz/clash/proxies |
 | :star:https://fq.lonxin.net | https://fq.lonxin.net/clash/proxies |
@@ -57,7 +57,6 @@ We are collecting some common node crawler project proxy pools and subscription 
 | :star:https://smart.zxcyec.top | https://smart.zxcyec.top/clash/proxies |
 | https://ss.dswang.ga:8443 | https://ss.dswang.ga:8443/clash/proxies |
 | :star:https://sspool.herokuapp.com | https://sspool.herokuapp.com/clash/proxies |
-| https://sspool.nl | https://sspool.nl/clash/proxies |
 | :star:https://us-proxypool.herokuapp.com | https://us-proxypool.herokuapp.com/clash/proxies |
 | https://wtma.bb201.xyz | https://wtma.bb201.xyz/clash/proxies |
 | :star:https://www.joemt.tk | https://www.joemt.tk/clash/proxies |
