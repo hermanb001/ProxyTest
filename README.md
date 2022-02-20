@@ -27,7 +27,6 @@ We are collecting some common node crawler project proxy pools and subscription 
 | https://185.161.70.4 | https://185.161.70.4/clash/proxies |
 | :star:https://998988.xyz | https://998988.xyz/clash/proxies |
 | https://alexproxy003.herokuapp.com | https://alexproxy003.herokuapp.com/clash/proxies |
-| https://bihai.cf | https://bihai.cf/clash/proxies |
 | :star:http://clash.3wking.com:12580 | http://clash.3wking.com:12580/clash/proxies |
 | :star:https://ednovas.design | https://ednovas.design/clash/proxies |
 | https://emby.luoml.eu.org | https://emby.luoml.eu.org/clash/proxies |
