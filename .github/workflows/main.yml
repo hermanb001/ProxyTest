@@ -62,6 +62,9 @@ jobs:
     - name: 执行任务9
       run: |
         python ednovas.py 
+    - name: 执行任务10
+      run: |
+        python us-proxypool.py
     - name: 提交更改
       run: |                 
          git config --local user.email "hermanbrayden001@gmail.com"
@@ -74,6 +77,7 @@ jobs:
          git add subscribe/guest997
          git add subscribe/eu-proxypool
          git add subscribe/ednovas
+         git add subscribe/us-proxypool
          git add subscribe/clash.yml         
          git commit -m "更新订阅链接"
     - name: 推送更改
