@@ -130,27 +130,6 @@ proxies:
   - {name: _35 | 1.80Mb, server: t7.ssrsub.com, port: 8443, type: trojan, password: b2015918-4a70-4250-8afa-dba8a5be97f4, sni: t7.ssrsub.com, skip-cert-verify: true, udp: true}
   - {name: ZZ_3524 | 6.38Mb, server: 134.195.196.200, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: ZZ_2013+|17.72Mb, server: 134.195.196.193, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: Relay_🇺🇸US-🇺🇸US_148 |23.94Mb 2, server: chun2.515223.xyz, port: 43992, type: vmess, uuid: 99e191b5-6515-47b8-f0c0-f6053afeb75a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: JP_110+|+7.61Mb, server: 172.105.244.165, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: JP+|26.25Mb, server: 172.105.244.165, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: JP_tg@freevpn8_668 |16.34Mb, server: 172.105.244.165, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: JP_201, server: 172.105.244.165, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-  - {name: JP_553+|25.25Mb, server: 172.105.244.165, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: Relay_🇺🇸US-🇺🇸US_163 |77.44Mb, server: oioooo.tk, port: 443, type: trojan, password: 54ea0e82-64e4-486c-848c-8b95be9f0010, sni: oioooo.tk, skip-cert-verify: true, udp: true}
-  - {name: JP_547+|57.22Mb, server: 172.105.244.165, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-  - {name: "|42.36Mb", server: 198.57.27.172, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-  - {name: US_1827+|19.77Mb, server: 38.91.100.27, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
-  - {name: CA_215 |15.81Mb, server: 198.57.27.172, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: CA_201 |55.70Mb, server: 198.57.27.172, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: CA_105, server: 198.57.27.172, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: CA_176+|59.98Mb, server: 198.57.27.172, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: CA_07 |60.27Mb, server: 198.57.27.172, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: DE_78 | 6.62Mb, server: 141.95.0.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
-  - {name: JP_568, server: 172.105.244.165, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: CA_06 |19.64Mb, server: 198.57.27.172, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: FR_571 |22.22Mb, server: 149.202.82.172, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-  - {name: Relay_🇯🇵JP-🇯🇵JP_82 |31.84Mb, server: 11.earths.team, port: 443, type: trojan, password: 6593b778-e45e-4f94-b5ae-641d4b7b02ae, sni: 11.earths.team, skip-cert-verify: true, udp: true}
-  - {name: FR_136+|+9.74Mb, server: 149.202.82.172, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -282,27 +261,6 @@ proxy-groups:
       - _35 | 1.80Mb
       - ZZ_3524 | 6.38Mb
       - ZZ_2013+|17.72Mb
-      - Relay_🇺🇸US-🇺🇸US_148 |23.94Mb 2
-      - JP_110+|+7.61Mb
-      - JP+|26.25Mb
-      - JP_tg@freevpn8_668 |16.34Mb
-      - JP_201
-      - JP_553+|25.25Mb
-      - Relay_🇺🇸US-🇺🇸US_163 |77.44Mb
-      - JP_547+|57.22Mb
-      - "|42.36Mb"
-      - US_1827+|19.77Mb
-      - CA_215 |15.81Mb
-      - CA_201 |55.70Mb
-      - CA_105
-      - CA_176+|59.98Mb
-      - CA_07 |60.27Mb
-      - DE_78 | 6.62Mb
-      - JP_568
-      - CA_06 |19.64Mb
-      - FR_571 |22.22Mb
-      - Relay_🇯🇵JP-🇯🇵JP_82 |31.84Mb
-      - FR_136+|+9.74Mb
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -434,27 +392,6 @@ proxy-groups:
       - _35 | 1.80Mb
       - ZZ_3524 | 6.38Mb
       - ZZ_2013+|17.72Mb
-      - Relay_🇺🇸US-🇺🇸US_148 |23.94Mb 2
-      - JP_110+|+7.61Mb
-      - JP+|26.25Mb
-      - JP_tg@freevpn8_668 |16.34Mb
-      - JP_201
-      - JP_553+|25.25Mb
-      - Relay_🇺🇸US-🇺🇸US_163 |77.44Mb
-      - JP_547+|57.22Mb
-      - "|42.36Mb"
-      - US_1827+|19.77Mb
-      - CA_215 |15.81Mb
-      - CA_201 |55.70Mb
-      - CA_105
-      - CA_176+|59.98Mb
-      - CA_07 |60.27Mb
-      - DE_78 | 6.62Mb
-      - JP_568
-      - CA_06 |19.64Mb
-      - FR_571 |22.22Mb
-      - Relay_🇯🇵JP-🇯🇵JP_82 |31.84Mb
-      - FR_136+|+9.74Mb
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -586,27 +523,6 @@ proxy-groups:
       - _35 | 1.80Mb
       - ZZ_3524 | 6.38Mb
       - ZZ_2013+|17.72Mb
-      - Relay_🇺🇸US-🇺🇸US_148 |23.94Mb 2
-      - JP_110+|+7.61Mb
-      - JP+|26.25Mb
-      - JP_tg@freevpn8_668 |16.34Mb
-      - JP_201
-      - JP_553+|25.25Mb
-      - Relay_🇺🇸US-🇺🇸US_163 |77.44Mb
-      - JP_547+|57.22Mb
-      - "|42.36Mb"
-      - US_1827+|19.77Mb
-      - CA_215 |15.81Mb
-      - CA_201 |55.70Mb
-      - CA_105
-      - CA_176+|59.98Mb
-      - CA_07 |60.27Mb
-      - DE_78 | 6.62Mb
-      - JP_568
-      - CA_06 |19.64Mb
-      - FR_571 |22.22Mb
-      - Relay_🇯🇵JP-🇯🇵JP_82 |31.84Mb
-      - FR_136+|+9.74Mb
   - name: 📲 电报信息
     type: select
     proxies:
@@ -737,27 +653,6 @@ proxy-groups:
       - _35 | 1.80Mb
       - ZZ_3524 | 6.38Mb
       - ZZ_2013+|17.72Mb
-      - Relay_🇺🇸US-🇺🇸US_148 |23.94Mb 2
-      - JP_110+|+7.61Mb
-      - JP+|26.25Mb
-      - JP_tg@freevpn8_668 |16.34Mb
-      - JP_201
-      - JP_553+|25.25Mb
-      - Relay_🇺🇸US-🇺🇸US_163 |77.44Mb
-      - JP_547+|57.22Mb
-      - "|42.36Mb"
-      - US_1827+|19.77Mb
-      - CA_215 |15.81Mb
-      - CA_201 |55.70Mb
-      - CA_105
-      - CA_176+|59.98Mb
-      - CA_07 |60.27Mb
-      - DE_78 | 6.62Mb
-      - JP_568
-      - CA_06 |19.64Mb
-      - FR_571 |22.22Mb
-      - Relay_🇯🇵JP-🇯🇵JP_82 |31.84Mb
-      - FR_136+|+9.74Mb
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -888,27 +783,6 @@ proxy-groups:
       - _35 | 1.80Mb
       - ZZ_3524 | 6.38Mb
       - ZZ_2013+|17.72Mb
-      - Relay_🇺🇸US-🇺🇸US_148 |23.94Mb 2
-      - JP_110+|+7.61Mb
-      - JP+|26.25Mb
-      - JP_tg@freevpn8_668 |16.34Mb
-      - JP_201
-      - JP_553+|25.25Mb
-      - Relay_🇺🇸US-🇺🇸US_163 |77.44Mb
-      - JP_547+|57.22Mb
-      - "|42.36Mb"
-      - US_1827+|19.77Mb
-      - CA_215 |15.81Mb
-      - CA_201 |55.70Mb
-      - CA_105
-      - CA_176+|59.98Mb
-      - CA_07 |60.27Mb
-      - DE_78 | 6.62Mb
-      - JP_568
-      - CA_06 |19.64Mb
-      - FR_571 |22.22Mb
-      - Relay_🇯🇵JP-🇯🇵JP_82 |31.84Mb
-      - FR_136+|+9.74Mb
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -1039,27 +913,6 @@ proxy-groups:
       - _35 | 1.80Mb
       - ZZ_3524 | 6.38Mb
       - ZZ_2013+|17.72Mb
-      - Relay_🇺🇸US-🇺🇸US_148 |23.94Mb 2
-      - JP_110+|+7.61Mb
-      - JP+|26.25Mb
-      - JP_tg@freevpn8_668 |16.34Mb
-      - JP_201
-      - JP_553+|25.25Mb
-      - Relay_🇺🇸US-🇺🇸US_163 |77.44Mb
-      - JP_547+|57.22Mb
-      - "|42.36Mb"
-      - US_1827+|19.77Mb
-      - CA_215 |15.81Mb
-      - CA_201 |55.70Mb
-      - CA_105
-      - CA_176+|59.98Mb
-      - CA_07 |60.27Mb
-      - DE_78 | 6.62Mb
-      - JP_568
-      - CA_06 |19.64Mb
-      - FR_571 |22.22Mb
-      - Relay_🇯🇵JP-🇯🇵JP_82 |31.84Mb
-      - FR_136+|+9.74Mb
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1207,27 +1060,6 @@ proxy-groups:
       - _35 | 1.80Mb
       - ZZ_3524 | 6.38Mb
       - ZZ_2013+|17.72Mb
-      - Relay_🇺🇸US-🇺🇸US_148 |23.94Mb 2
-      - JP_110+|+7.61Mb
-      - JP+|26.25Mb
-      - JP_tg@freevpn8_668 |16.34Mb
-      - JP_201
-      - JP_553+|25.25Mb
-      - Relay_🇺🇸US-🇺🇸US_163 |77.44Mb
-      - JP_547+|57.22Mb
-      - "|42.36Mb"
-      - US_1827+|19.77Mb
-      - CA_215 |15.81Mb
-      - CA_201 |55.70Mb
-      - CA_105
-      - CA_176+|59.98Mb
-      - CA_07 |60.27Mb
-      - DE_78 | 6.62Mb
-      - JP_568
-      - CA_06 |19.64Mb
-      - FR_571 |22.22Mb
-      - Relay_🇯🇵JP-🇯🇵JP_82 |31.84Mb
-      - FR_136+|+9.74Mb
 rules:
  - DOMAIN-KEYWORD,outlook,🎯 全球直连
  - DOMAIN-KEYWORD,plateau,🎯 全球直连
