@@ -16,7 +16,7 @@ def main(event, context):
     utils.initLog('log.txt')
     utils.clearLog()
     savePoint(
-        'https://ednovas.design/clash/proxies?speed=80', 'ednovas')
+        'https://ednovas.design/clash/proxies?speed=60', 'ednovas')
 
 def savePoint(url, name):
     resp = requests.get(url)
