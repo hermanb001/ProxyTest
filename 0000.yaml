@@ -5,9 +5,32 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
+  - {name: BA_102 |33.72Mb, server: 185.212.111.59, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x, udp: true}
+  - {name: FR_543 |55.85Mb, server: 145.239.1.100, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: Relay_🇨🇳CN-🇩🇪DE_273 |16.08Mb, server: gz2.52168.xyz, port: 2101, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:y711wfz6uln, obfs-param: 30a2a149.baidu.com, udp: true}
+  - {name: "|24.88Mb", server: 172.104.168.83, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: Relay_🇺🇸US |109.53Mb, server: 138.197.236.77, port: 443, type: vmess, uuid: 3579436c-b37e-11eb-8529-0242ac130003, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /ray, ws-headers: {Host: 138.197.236.77}, udp: true}
+  - {name: "|65.12Mb", server: 142.202.48.99, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: Relay_ |28.75Mb, server: vincent-jackson2022.ml, port: 443, type: trojan, password: 188741f2-1f14-43cb-be7a-1200a9f4332e, sni: vincent-jackson2022.ml, skip-cert-verify: true, udp: true}
+  - {name: "|24.69Mb", server: 38.91.102.86, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: "|19.00Mb", server: 134.195.196.68, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: "|14.33Mb", server: 134.195.196.68, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: "|26.09Mb", server: 38.86.135.36, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: "|21.76Mb", server: 169.197.142.187, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: "|18.75Mb", server: 38.91.102.86, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: "|18.89Mb", server: 169.197.142.187, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: "|13.17Mb", server: 169.197.142.187, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: IR_106 | 5.85Mb, server: 185.148.14.58, port: 53514, type: trojan, password: 3r90JDGBYA, skip-cert-verify: true, udp: true}
+  - {name: US_276 |18.98Mb, server: 38.143.66.71, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: Relay_🇨🇳CN-🇩🇪DE_26 | 9.26Mb, server: gz2.52168.xyz, port: 2104, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:y711wfz6uln, obfs-param: 30a2a149.baidu.com, udp: true}
+  - {name: Relay_🇨🇳CN-🇩🇪DE_25 | 3.62Mb, server: gz1.52168.xyz, port: 1102, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:y711wfz6uln, obfs-param: 30a2a149.baidu.com, udp: true}
+  - {name: Relay_🇺🇸US-🇺🇸US_301 |27.75Mb, server: us-am11.eqnode.net, port: 8080, type: ssr, cipher: aes-256-cfb, password: vGndzdmPB, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: releases.ubuntu.com, udp: true}
+  - {name: US_323 |34.17Mb, server: 209.141.47.137, port: 443, type: trojan, password: b3d27d09-77fe-431d-9829-6eba7dce20b0, skip-cert-verify: true, udp: true}
+  - {name: JP_124 |10.46Mb, server: 160.16.115.151, port: 443, type: vmess, uuid: fb8ed8a9-ad61-4a12-90c6-55670a4a3332, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /neuromancer, ws-headers: {Host: 160.16.115.151}, udp: true}
+  - {name: Relay_🇪🇪EE-🇯🇵JP_376, server: os2-4.sstr-api.xyz, port: 443, type: trojan, password: MhPG7g9x2Etb4Hspsb, sni: os2-4.sstr-api.xyz, skip-cert-verify: true, udp: true}
+  - {name: EE_462 |29.14Mb, server: os2-7.sstr-api.xyz, port: 443, type: trojan, password: MhPG7g9x2Etb4Hspsb, sni: os2-7.sstr-api.xyz, skip-cert-verify: true, udp: true}
   - {name: Relay_ |21.69Mb, server: 32.earths.team, port: 443, type: trojan, password: 6593b778-e45e-4f94-b5ae-641d4b7b02ae, sni: 32.earths.team, skip-cert-verify: true, udp: true}
   - {name: JP_47, server: 172.105.222.98, port: 80, type: vmess, uuid: 4e1d0b12-25f0-363f-8659-9c6a3ca1fcda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: 172.105.222.98}, udp: true}
-  - {name: US_2560 |20.20Mb, server: vincent-jackson2022.ml, port: 443, type: trojan, password: 188741f2-1f14-43cb-be7a-1200a9f4332e, sni: vincent-jackson2022.ml, skip-cert-verify: true, udp: true}
   - {name: Relay_🇪🇪EE-🇯🇵JP_379, server: os2-1.sstr-api.xyz, port: 443, type: trojan, password: MhPG7g9x2Etb4Hspsb, sni: os2-1.sstr-api.xyz, skip-cert-verify: true, udp: true}
   - {name: "|+2.92Mb", server: 172.99.190.149, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
   - {name: _03, server: 213.174.129.4, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
@@ -16,7 +39,6 @@ proxies:
   - {name: "|17.49Mb", server: 38.75.136.21, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
   - {name: Relay_🇨🇳CN-🇺🇸US_294, server: 117.28.243.173, port: 4173, type: ss, cipher: rc4-md5, password: passinfo123, udp: true}
   - {name: "|19.26Mb", server: 38.75.136.21, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-  - {name: Relay_🇨🇳CN-🇩🇪DE_288, server: gz1.52168.xyz, port: 1102, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 149:y711wfz6uln, obfs-param: 30a2a149.baidu.com, udp: true}
   - {name: "|+8.84Mb", server: 38.68.134.71, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: "|13.41Mb", server: 38.68.134.71, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: "|18.12Mb", server: 38.75.136.21, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
@@ -43,9 +65,32 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - BA_102 |33.72Mb
+      - FR_543 |55.85Mb
+      - Relay_🇨🇳CN-🇩🇪DE_273 |16.08Mb
+      - "|24.88Mb"
+      - Relay_🇺🇸US |109.53Mb
+      - "|65.12Mb"
+      - Relay_ |28.75Mb
+      - "|24.69Mb"
+      - "|19.00Mb"
+      - "|14.33Mb"
+      - "|26.09Mb"
+      - "|21.76Mb"
+      - "|18.75Mb"
+      - "|18.89Mb"
+      - "|13.17Mb"
+      - IR_106 | 5.85Mb
+      - US_276 |18.98Mb
+      - Relay_🇨🇳CN-🇩🇪DE_26 | 9.26Mb
+      - Relay_🇨🇳CN-🇩🇪DE_25 | 3.62Mb
+      - Relay_🇺🇸US-🇺🇸US_301 |27.75Mb
+      - US_323 |34.17Mb
+      - JP_124 |10.46Mb
+      - Relay_🇪🇪EE-🇯🇵JP_376
+      - EE_462 |29.14Mb
       - Relay_ |21.69Mb
       - JP_47
-      - US_2560 |20.20Mb
       - Relay_🇪🇪EE-🇯🇵JP_379
       - "|+2.92Mb"
       - _03
@@ -54,7 +99,6 @@ proxy-groups:
       - "|17.49Mb"
       - Relay_🇨🇳CN-🇺🇸US_294
       - "|19.26Mb"
-      - Relay_🇨🇳CN-🇩🇪DE_288
       - "|+8.84Mb"
       - "|13.41Mb"
       - "|18.12Mb"
@@ -81,9 +125,32 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - BA_102 |33.72Mb
+      - FR_543 |55.85Mb
+      - Relay_🇨🇳CN-🇩🇪DE_273 |16.08Mb
+      - "|24.88Mb"
+      - Relay_🇺🇸US |109.53Mb
+      - "|65.12Mb"
+      - Relay_ |28.75Mb
+      - "|24.69Mb"
+      - "|19.00Mb"
+      - "|14.33Mb"
+      - "|26.09Mb"
+      - "|21.76Mb"
+      - "|18.75Mb"
+      - "|18.89Mb"
+      - "|13.17Mb"
+      - IR_106 | 5.85Mb
+      - US_276 |18.98Mb
+      - Relay_🇨🇳CN-🇩🇪DE_26 | 9.26Mb
+      - Relay_🇨🇳CN-🇩🇪DE_25 | 3.62Mb
+      - Relay_🇺🇸US-🇺🇸US_301 |27.75Mb
+      - US_323 |34.17Mb
+      - JP_124 |10.46Mb
+      - Relay_🇪🇪EE-🇯🇵JP_376
+      - EE_462 |29.14Mb
       - Relay_ |21.69Mb
       - JP_47
-      - US_2560 |20.20Mb
       - Relay_🇪🇪EE-🇯🇵JP_379
       - "|+2.92Mb"
       - _03
@@ -92,7 +159,6 @@ proxy-groups:
       - "|17.49Mb"
       - Relay_🇨🇳CN-🇺🇸US_294
       - "|19.26Mb"
-      - Relay_🇨🇳CN-🇩🇪DE_288
       - "|+8.84Mb"
       - "|13.41Mb"
       - "|18.12Mb"
@@ -119,9 +185,32 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - BA_102 |33.72Mb
+      - FR_543 |55.85Mb
+      - Relay_🇨🇳CN-🇩🇪DE_273 |16.08Mb
+      - "|24.88Mb"
+      - Relay_🇺🇸US |109.53Mb
+      - "|65.12Mb"
+      - Relay_ |28.75Mb
+      - "|24.69Mb"
+      - "|19.00Mb"
+      - "|14.33Mb"
+      - "|26.09Mb"
+      - "|21.76Mb"
+      - "|18.75Mb"
+      - "|18.89Mb"
+      - "|13.17Mb"
+      - IR_106 | 5.85Mb
+      - US_276 |18.98Mb
+      - Relay_🇨🇳CN-🇩🇪DE_26 | 9.26Mb
+      - Relay_🇨🇳CN-🇩🇪DE_25 | 3.62Mb
+      - Relay_🇺🇸US-🇺🇸US_301 |27.75Mb
+      - US_323 |34.17Mb
+      - JP_124 |10.46Mb
+      - Relay_🇪🇪EE-🇯🇵JP_376
+      - EE_462 |29.14Mb
       - Relay_ |21.69Mb
       - JP_47
-      - US_2560 |20.20Mb
       - Relay_🇪🇪EE-🇯🇵JP_379
       - "|+2.92Mb"
       - _03
@@ -130,7 +219,6 @@ proxy-groups:
       - "|17.49Mb"
       - Relay_🇨🇳CN-🇺🇸US_294
       - "|19.26Mb"
-      - Relay_🇨🇳CN-🇩🇪DE_288
       - "|+8.84Mb"
       - "|13.41Mb"
       - "|18.12Mb"
@@ -156,9 +244,32 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - BA_102 |33.72Mb
+      - FR_543 |55.85Mb
+      - Relay_🇨🇳CN-🇩🇪DE_273 |16.08Mb
+      - "|24.88Mb"
+      - Relay_🇺🇸US |109.53Mb
+      - "|65.12Mb"
+      - Relay_ |28.75Mb
+      - "|24.69Mb"
+      - "|19.00Mb"
+      - "|14.33Mb"
+      - "|26.09Mb"
+      - "|21.76Mb"
+      - "|18.75Mb"
+      - "|18.89Mb"
+      - "|13.17Mb"
+      - IR_106 | 5.85Mb
+      - US_276 |18.98Mb
+      - Relay_🇨🇳CN-🇩🇪DE_26 | 9.26Mb
+      - Relay_🇨🇳CN-🇩🇪DE_25 | 3.62Mb
+      - Relay_🇺🇸US-🇺🇸US_301 |27.75Mb
+      - US_323 |34.17Mb
+      - JP_124 |10.46Mb
+      - Relay_🇪🇪EE-🇯🇵JP_376
+      - EE_462 |29.14Mb
       - Relay_ |21.69Mb
       - JP_47
-      - US_2560 |20.20Mb
       - Relay_🇪🇪EE-🇯🇵JP_379
       - "|+2.92Mb"
       - _03
@@ -167,7 +278,6 @@ proxy-groups:
       - "|17.49Mb"
       - Relay_🇨🇳CN-🇺🇸US_294
       - "|19.26Mb"
-      - Relay_🇨🇳CN-🇩🇪DE_288
       - "|+8.84Mb"
       - "|13.41Mb"
       - "|18.12Mb"
@@ -193,9 +303,32 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - BA_102 |33.72Mb
+      - FR_543 |55.85Mb
+      - Relay_🇨🇳CN-🇩🇪DE_273 |16.08Mb
+      - "|24.88Mb"
+      - Relay_🇺🇸US |109.53Mb
+      - "|65.12Mb"
+      - Relay_ |28.75Mb
+      - "|24.69Mb"
+      - "|19.00Mb"
+      - "|14.33Mb"
+      - "|26.09Mb"
+      - "|21.76Mb"
+      - "|18.75Mb"
+      - "|18.89Mb"
+      - "|13.17Mb"
+      - IR_106 | 5.85Mb
+      - US_276 |18.98Mb
+      - Relay_🇨🇳CN-🇩🇪DE_26 | 9.26Mb
+      - Relay_🇨🇳CN-🇩🇪DE_25 | 3.62Mb
+      - Relay_🇺🇸US-🇺🇸US_301 |27.75Mb
+      - US_323 |34.17Mb
+      - JP_124 |10.46Mb
+      - Relay_🇪🇪EE-🇯🇵JP_376
+      - EE_462 |29.14Mb
       - Relay_ |21.69Mb
       - JP_47
-      - US_2560 |20.20Mb
       - Relay_🇪🇪EE-🇯🇵JP_379
       - "|+2.92Mb"
       - _03
@@ -204,7 +337,6 @@ proxy-groups:
       - "|17.49Mb"
       - Relay_🇨🇳CN-🇺🇸US_294
       - "|19.26Mb"
-      - Relay_🇨🇳CN-🇩🇪DE_288
       - "|+8.84Mb"
       - "|13.41Mb"
       - "|18.12Mb"
@@ -230,9 +362,32 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - BA_102 |33.72Mb
+      - FR_543 |55.85Mb
+      - Relay_🇨🇳CN-🇩🇪DE_273 |16.08Mb
+      - "|24.88Mb"
+      - Relay_🇺🇸US |109.53Mb
+      - "|65.12Mb"
+      - Relay_ |28.75Mb
+      - "|24.69Mb"
+      - "|19.00Mb"
+      - "|14.33Mb"
+      - "|26.09Mb"
+      - "|21.76Mb"
+      - "|18.75Mb"
+      - "|18.89Mb"
+      - "|13.17Mb"
+      - IR_106 | 5.85Mb
+      - US_276 |18.98Mb
+      - Relay_🇨🇳CN-🇩🇪DE_26 | 9.26Mb
+      - Relay_🇨🇳CN-🇩🇪DE_25 | 3.62Mb
+      - Relay_🇺🇸US-🇺🇸US_301 |27.75Mb
+      - US_323 |34.17Mb
+      - JP_124 |10.46Mb
+      - Relay_🇪🇪EE-🇯🇵JP_376
+      - EE_462 |29.14Mb
       - Relay_ |21.69Mb
       - JP_47
-      - US_2560 |20.20Mb
       - Relay_🇪🇪EE-🇯🇵JP_379
       - "|+2.92Mb"
       - _03
@@ -241,7 +396,6 @@ proxy-groups:
       - "|17.49Mb"
       - Relay_🇨🇳CN-🇺🇸US_294
       - "|19.26Mb"
-      - Relay_🇨🇳CN-🇩🇪DE_288
       - "|+8.84Mb"
       - "|13.41Mb"
       - "|18.12Mb"
@@ -284,9 +438,32 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - BA_102 |33.72Mb
+      - FR_543 |55.85Mb
+      - Relay_🇨🇳CN-🇩🇪DE_273 |16.08Mb
+      - "|24.88Mb"
+      - Relay_🇺🇸US |109.53Mb
+      - "|65.12Mb"
+      - Relay_ |28.75Mb
+      - "|24.69Mb"
+      - "|19.00Mb"
+      - "|14.33Mb"
+      - "|26.09Mb"
+      - "|21.76Mb"
+      - "|18.75Mb"
+      - "|18.89Mb"
+      - "|13.17Mb"
+      - IR_106 | 5.85Mb
+      - US_276 |18.98Mb
+      - Relay_🇨🇳CN-🇩🇪DE_26 | 9.26Mb
+      - Relay_🇨🇳CN-🇩🇪DE_25 | 3.62Mb
+      - Relay_🇺🇸US-🇺🇸US_301 |27.75Mb
+      - US_323 |34.17Mb
+      - JP_124 |10.46Mb
+      - Relay_🇪🇪EE-🇯🇵JP_376
+      - EE_462 |29.14Mb
       - Relay_ |21.69Mb
       - JP_47
-      - US_2560 |20.20Mb
       - Relay_🇪🇪EE-🇯🇵JP_379
       - "|+2.92Mb"
       - _03
@@ -295,7 +472,6 @@ proxy-groups:
       - "|17.49Mb"
       - Relay_🇨🇳CN-🇺🇸US_294
       - "|19.26Mb"
-      - Relay_🇨🇳CN-🇩🇪DE_288
       - "|+8.84Mb"
       - "|13.41Mb"
       - "|18.12Mb"
