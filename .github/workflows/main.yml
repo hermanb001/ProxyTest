@@ -44,9 +44,9 @@ jobs:
     - name: 执行任务3
       run: |
         python sspool.py
-    - name: 执行任务4
-      run: |
-        python kingfu.py
+  #  - name: 执行任务4
+  #    run: |
+  #      python kingfu.py
     - name: 执行任务5
       run: |
         python guobang.py
