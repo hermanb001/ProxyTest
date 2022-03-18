@@ -39,5 +39,6 @@ proxies:
 - {"name":"2022.03.18_Pool_🇺🇸US_98 |56.68Mb","server":"154.31.41.10","type":"vmess","country":"🇺🇸US","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"chuch3go.com","ws-headers":{"HOST":"chuch3go.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.03.18_Relay_🇺🇸US-🇺🇸US_101 |75.45Mb","server":"lvuft.com","type":"vmess","country":"🇺🇸US","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"lvuft.com","ws-headers":{"HOST":"lvuft.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.03.18_🏁ZZ_116 |35.54Mb","server":"134.195.196.68","type":"ss","country":"🏁ZZ","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"2022.03.18_🏁ZZ_133 |34.78Mb","server":"134.195.196.81","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
 - {"name":"2022.03.18_🏁ZZ_137 |33.58Mb","server":"134.195.196.81","type":"ss","country":"🏁ZZ","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
 - {"name":"2022.03.18_🏁ZZ_139 |31.43Mb","server":"134.195.196.3","type":"ss","country":"🏁ZZ","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
