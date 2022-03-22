@@ -5,9 +5,32 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
+  - {name: _08 |169.07Mb, server: 142.202.48.7, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: IR_847 |45.21Mb, server: 185.148.14.58, port: 53514, type: trojan, password: 3r90JDGBYA, skip-cert-verify: true, udp: true}
+  - {name: "|26.56Mb 2", server: 158.247.208.102, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_1399, server: 38.75.137.187, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US_1308, server: 38.75.137.66, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: 新加坡(欢迎订阅Youtube破解资源君) 8, server: 183.232.56.161, port: 3002, type: vmess, uuid: 3a226645-c640-39a2-8177-000381e29f20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: microsoft.com}, udp: true}
+  - {name: _07 |68.07Mb, server: 38.75.137.66, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US_905 2, server: 142.202.48.7, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb, server: 183.232.56.161, port: 5018, type: vmess, uuid: 3a226645-c640-39a2-8177-000381e29f20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: 183.232.56.161}, udp: true}
+  - {name: US_1064, server: 142.202.48.7, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: "|56.96Mb", server: 142.202.48.7, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 31 15, server: niaop.tk, port: 443, type: vmess, uuid: a0b0df87-bda2-440e-830f-347da6cc7760, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /wsssdr1, ws-headers: {Host: niaop.tk}, udp: true}
+  - {name: US_547, server: 38.75.137.66, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: 美国(欢迎订阅Youtube破解资源君) 5 2, server: 198.41.221.169, port: 443, type: vmess, uuid: a8910831-f56b-4ac4-c68f-e4dd83f71e60, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /sakura/, ws-headers: {Host: zero1.a-yu.xyz}, udp: true}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 43 11, server: 198.41.212.3, port: 443, type: vmess, uuid: a8910831-f56b-4ac4-c68f-e4dd83f71e60, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /sakura/, ws-headers: {Host: zero1.a-yu.xyz}, udp: true}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 26 2, server: 198.41.212.234, port: 443, type: vmess, uuid: a8910831-f56b-4ac4-c68f-e4dd83f71e60, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /sakura/, ws-headers: {Host: 2022-world-1.a-yu.xyz}, udp: true}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 13 17, server: 198.41.212.9, port: 443, type: vmess, uuid: a8910831-f56b-4ac4-c68f-e4dd83f71e60, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /sakura/, ws-headers: {Host: zero1.a-yu.xyz}, udp: true}
+  - {name: Relay_🇨🇳CN-🇯🇵JP_40 | 7.44Mb, server: 183.232.56.161, port: 1203, type: vmess, uuid: 3a226645-c640-39a2-8177-000381e29f20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: 183.232.56.161}, udp: true}
+  - {name: 新加坡(欢迎订阅Youtube破解资源君) 5 2, server: 183.232.56.161, port: 3001, type: vmess, uuid: 3a226645-c640-39a2-8177-000381e29f20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: microsoft.com}, udp: true}
+  - {name: US_928, server: 142.202.48.7, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: Relay_🇨🇳CN-🇹🇼TW_29 | 3.18Mb, server: 183.232.56.161, port: 4099, type: vmess, uuid: 3a226645-c640-39a2-8177-000381e29f20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: 183.232.56.161}, udp: true}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 4 16, server: 183.232.56.161, port: 4099, type: vmess, uuid: 3a226645-c640-39a2-8177-000381e29f20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: microsoft.com}, udp: true}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 8 16, server: 183.232.56.161, port: 5018, type: vmess, uuid: 3a226645-c640-39a2-8177-000381e29f20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: microsoft.com}, udp: true}
+  - {name: 欧洲(欢迎订阅Youtube破解资源君) 6 19, server: 183.232.56.161, port: 1301, type: vmess, uuid: 3a226645-c640-39a2-8177-000381e29f20, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: microsoft.com}, udp: true}
   - {name: US_1096, server: azhk.relay.qchwnd.moe, port: 44604, type: trojan, password: b7a8698e-09f0-4e6e-a197-d27337a22171, sni: azhk.relay.qchwnd.moe, skip-cert-verify: true, udp: true}
   - {name: NL_877 |36.64Mb, server: 85.208.108.234, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-  - {name: IR_783 |68.61Mb, server: 185.148.14.58, port: 53514, type: trojan, password: 3r90JDGBYA, skip-cert-verify: true, udp: true}
   - {name: US_1095, server: us2.tcpbbr.net, port: 443, type: trojan, password: 2e5f2a78-14d8-11eb-ad8c-f23c9164ca5d, sni: us2.tcpbbr.net, skip-cert-verify: true, udp: true}
   - {name: US_1097, server: us2.tcpbbr.net, port: 443, type: trojan, password: 5a3d9b78-cb5b-11ea-82ef-f23c9164ca5d, sni: us2.tcpbbr.net, skip-cert-verify: true, udp: true}
   - {name: US_2790, server: 45.61.184.3, port: 40435, type: vmess, uuid: eca12e73-8f74-439f-b918-624e832422d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -61,7 +84,6 @@ proxies:
   - {name: "|17.85Mb", server: 134.195.196.68, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
   - {name: "| 8.39Mb", server: 134.195.196.3, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
   - {name: Relay_🇨🇳CN-🇺🇸US_287, server: 117.28.243.165, port: 8050, type: ss, cipher: rc4-md5, password: passinfo123, udp: true}
-  - {name: 欧洲(欢迎订阅Youtube破解资源君) 31 15, server: niaop.tk, port: 443, type: vmess, uuid: a0b0df87-bda2-440e-830f-347da6cc7760, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /wsssdr1, ws-headers: {Host: niaop.tk}, udp: true}
   - {name: Relay_🇨🇳CN-🇺🇸US_304, server: 117.28.243.173, port: 4173, type: ss, cipher: rc4-md5, password: passinfo123, udp: true}
   - {name: US_3142, server: 45.32.94.166, port: 31676, type: vmess, uuid: 6f3ec45c-5283-40e8-aea9-7749f4c75753, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: http, http-opts: {method: GET, path: [/], headers: {Host: [45.32.94.166]}}, udp: true}
   - {name: US_3165, server: 152.70.188.10, port: 443, type: vmess, uuid: 6ae16454-de6a-4113-c64e-0549be488f15, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
@@ -84,9 +106,32 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - _08 |169.07Mb
+      - IR_847 |45.21Mb
+      - "|26.56Mb 2"
+      - US_1399
+      - US_1308
+      - 新加坡(欢迎订阅Youtube破解资源君) 8
+      - _07 |68.07Mb
+      - US_905 2
+      - Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb
+      - US_1064
+      - "|56.96Mb"
+      - 欧洲(欢迎订阅Youtube破解资源君) 31 15
+      - US_547
+      - 美国(欢迎订阅Youtube破解资源君) 5 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 43 11
+      - 欧洲(欢迎订阅Youtube破解资源君) 26 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 13 17
+      - Relay_🇨🇳CN-🇯🇵JP_40 | 7.44Mb
+      - 新加坡(欢迎订阅Youtube破解资源君) 5 2
+      - US_928
+      - Relay_🇨🇳CN-🇹🇼TW_29 | 3.18Mb
+      - 欧洲(欢迎订阅Youtube破解资源君) 4 16
+      - 欧洲(欢迎订阅Youtube破解资源君) 8 16
+      - 欧洲(欢迎订阅Youtube破解资源君) 6 19
       - US_1096
       - NL_877 |36.64Mb
-      - IR_783 |68.61Mb
       - US_1095
       - US_1097
       - US_2790
@@ -140,7 +185,6 @@ proxy-groups:
       - "|17.85Mb"
       - "| 8.39Mb"
       - Relay_🇨🇳CN-🇺🇸US_287
-      - 欧洲(欢迎订阅Youtube破解资源君) 31 15
       - Relay_🇨🇳CN-🇺🇸US_304
       - US_3142
       - US_3165
@@ -163,9 +207,32 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - _08 |169.07Mb
+      - IR_847 |45.21Mb
+      - "|26.56Mb 2"
+      - US_1399
+      - US_1308
+      - 新加坡(欢迎订阅Youtube破解资源君) 8
+      - _07 |68.07Mb
+      - US_905 2
+      - Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb
+      - US_1064
+      - "|56.96Mb"
+      - 欧洲(欢迎订阅Youtube破解资源君) 31 15
+      - US_547
+      - 美国(欢迎订阅Youtube破解资源君) 5 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 43 11
+      - 欧洲(欢迎订阅Youtube破解资源君) 26 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 13 17
+      - Relay_🇨🇳CN-🇯🇵JP_40 | 7.44Mb
+      - 新加坡(欢迎订阅Youtube破解资源君) 5 2
+      - US_928
+      - Relay_🇨🇳CN-🇹🇼TW_29 | 3.18Mb
+      - 欧洲(欢迎订阅Youtube破解资源君) 4 16
+      - 欧洲(欢迎订阅Youtube破解资源君) 8 16
+      - 欧洲(欢迎订阅Youtube破解资源君) 6 19
       - US_1096
       - NL_877 |36.64Mb
-      - IR_783 |68.61Mb
       - US_1095
       - US_1097
       - US_2790
@@ -219,7 +286,6 @@ proxy-groups:
       - "|17.85Mb"
       - "| 8.39Mb"
       - Relay_🇨🇳CN-🇺🇸US_287
-      - 欧洲(欢迎订阅Youtube破解资源君) 31 15
       - Relay_🇨🇳CN-🇺🇸US_304
       - US_3142
       - US_3165
@@ -242,9 +308,32 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - _08 |169.07Mb
+      - IR_847 |45.21Mb
+      - "|26.56Mb 2"
+      - US_1399
+      - US_1308
+      - 新加坡(欢迎订阅Youtube破解资源君) 8
+      - _07 |68.07Mb
+      - US_905 2
+      - Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb
+      - US_1064
+      - "|56.96Mb"
+      - 欧洲(欢迎订阅Youtube破解资源君) 31 15
+      - US_547
+      - 美国(欢迎订阅Youtube破解资源君) 5 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 43 11
+      - 欧洲(欢迎订阅Youtube破解资源君) 26 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 13 17
+      - Relay_🇨🇳CN-🇯🇵JP_40 | 7.44Mb
+      - 新加坡(欢迎订阅Youtube破解资源君) 5 2
+      - US_928
+      - Relay_🇨🇳CN-🇹🇼TW_29 | 3.18Mb
+      - 欧洲(欢迎订阅Youtube破解资源君) 4 16
+      - 欧洲(欢迎订阅Youtube破解资源君) 8 16
+      - 欧洲(欢迎订阅Youtube破解资源君) 6 19
       - US_1096
       - NL_877 |36.64Mb
-      - IR_783 |68.61Mb
       - US_1095
       - US_1097
       - US_2790
@@ -298,7 +387,6 @@ proxy-groups:
       - "|17.85Mb"
       - "| 8.39Mb"
       - Relay_🇨🇳CN-🇺🇸US_287
-      - 欧洲(欢迎订阅Youtube破解资源君) 31 15
       - Relay_🇨🇳CN-🇺🇸US_304
       - US_3142
       - US_3165
@@ -320,9 +408,32 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - _08 |169.07Mb
+      - IR_847 |45.21Mb
+      - "|26.56Mb 2"
+      - US_1399
+      - US_1308
+      - 新加坡(欢迎订阅Youtube破解资源君) 8
+      - _07 |68.07Mb
+      - US_905 2
+      - Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb
+      - US_1064
+      - "|56.96Mb"
+      - 欧洲(欢迎订阅Youtube破解资源君) 31 15
+      - US_547
+      - 美国(欢迎订阅Youtube破解资源君) 5 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 43 11
+      - 欧洲(欢迎订阅Youtube破解资源君) 26 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 13 17
+      - Relay_🇨🇳CN-🇯🇵JP_40 | 7.44Mb
+      - 新加坡(欢迎订阅Youtube破解资源君) 5 2
+      - US_928
+      - Relay_🇨🇳CN-🇹🇼TW_29 | 3.18Mb
+      - 欧洲(欢迎订阅Youtube破解资源君) 4 16
+      - 欧洲(欢迎订阅Youtube破解资源君) 8 16
+      - 欧洲(欢迎订阅Youtube破解资源君) 6 19
       - US_1096
       - NL_877 |36.64Mb
-      - IR_783 |68.61Mb
       - US_1095
       - US_1097
       - US_2790
@@ -376,7 +487,6 @@ proxy-groups:
       - "|17.85Mb"
       - "| 8.39Mb"
       - Relay_🇨🇳CN-🇺🇸US_287
-      - 欧洲(欢迎订阅Youtube破解资源君) 31 15
       - Relay_🇨🇳CN-🇺🇸US_304
       - US_3142
       - US_3165
@@ -398,9 +508,32 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - _08 |169.07Mb
+      - IR_847 |45.21Mb
+      - "|26.56Mb 2"
+      - US_1399
+      - US_1308
+      - 新加坡(欢迎订阅Youtube破解资源君) 8
+      - _07 |68.07Mb
+      - US_905 2
+      - Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb
+      - US_1064
+      - "|56.96Mb"
+      - 欧洲(欢迎订阅Youtube破解资源君) 31 15
+      - US_547
+      - 美国(欢迎订阅Youtube破解资源君) 5 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 43 11
+      - 欧洲(欢迎订阅Youtube破解资源君) 26 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 13 17
+      - Relay_🇨🇳CN-🇯🇵JP_40 | 7.44Mb
+      - 新加坡(欢迎订阅Youtube破解资源君) 5 2
+      - US_928
+      - Relay_🇨🇳CN-🇹🇼TW_29 | 3.18Mb
+      - 欧洲(欢迎订阅Youtube破解资源君) 4 16
+      - 欧洲(欢迎订阅Youtube破解资源君) 8 16
+      - 欧洲(欢迎订阅Youtube破解资源君) 6 19
       - US_1096
       - NL_877 |36.64Mb
-      - IR_783 |68.61Mb
       - US_1095
       - US_1097
       - US_2790
@@ -454,7 +587,6 @@ proxy-groups:
       - "|17.85Mb"
       - "| 8.39Mb"
       - Relay_🇨🇳CN-🇺🇸US_287
-      - 欧洲(欢迎订阅Youtube破解资源君) 31 15
       - Relay_🇨🇳CN-🇺🇸US_304
       - US_3142
       - US_3165
@@ -476,9 +608,32 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - _08 |169.07Mb
+      - IR_847 |45.21Mb
+      - "|26.56Mb 2"
+      - US_1399
+      - US_1308
+      - 新加坡(欢迎订阅Youtube破解资源君) 8
+      - _07 |68.07Mb
+      - US_905 2
+      - Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb
+      - US_1064
+      - "|56.96Mb"
+      - 欧洲(欢迎订阅Youtube破解资源君) 31 15
+      - US_547
+      - 美国(欢迎订阅Youtube破解资源君) 5 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 43 11
+      - 欧洲(欢迎订阅Youtube破解资源君) 26 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 13 17
+      - Relay_🇨🇳CN-🇯🇵JP_40 | 7.44Mb
+      - 新加坡(欢迎订阅Youtube破解资源君) 5 2
+      - US_928
+      - Relay_🇨🇳CN-🇹🇼TW_29 | 3.18Mb
+      - 欧洲(欢迎订阅Youtube破解资源君) 4 16
+      - 欧洲(欢迎订阅Youtube破解资源君) 8 16
+      - 欧洲(欢迎订阅Youtube破解资源君) 6 19
       - US_1096
       - NL_877 |36.64Mb
-      - IR_783 |68.61Mb
       - US_1095
       - US_1097
       - US_2790
@@ -532,7 +687,6 @@ proxy-groups:
       - "|17.85Mb"
       - "| 8.39Mb"
       - Relay_🇨🇳CN-🇺🇸US_287
-      - 欧洲(欢迎订阅Youtube破解资源君) 31 15
       - Relay_🇨🇳CN-🇺🇸US_304
       - US_3142
       - US_3165
@@ -571,9 +725,32 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - _08 |169.07Mb
+      - IR_847 |45.21Mb
+      - "|26.56Mb 2"
+      - US_1399
+      - US_1308
+      - 新加坡(欢迎订阅Youtube破解资源君) 8
+      - _07 |68.07Mb
+      - US_905 2
+      - Relay_🇨🇳CN-🇲🇾MY_31 | 7.73Mb
+      - US_1064
+      - "|56.96Mb"
+      - 欧洲(欢迎订阅Youtube破解资源君) 31 15
+      - US_547
+      - 美国(欢迎订阅Youtube破解资源君) 5 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 43 11
+      - 欧洲(欢迎订阅Youtube破解资源君) 26 2
+      - 欧洲(欢迎订阅Youtube破解资源君) 13 17
+      - Relay_🇨🇳CN-🇯🇵JP_40 | 7.44Mb
+      - 新加坡(欢迎订阅Youtube破解资源君) 5 2
+      - US_928
+      - Relay_🇨🇳CN-🇹🇼TW_29 | 3.18Mb
+      - 欧洲(欢迎订阅Youtube破解资源君) 4 16
+      - 欧洲(欢迎订阅Youtube破解资源君) 8 16
+      - 欧洲(欢迎订阅Youtube破解资源君) 6 19
       - US_1096
       - NL_877 |36.64Mb
-      - IR_783 |68.61Mb
       - US_1095
       - US_1097
       - US_2790
@@ -627,7 +804,6 @@ proxy-groups:
       - "|17.85Mb"
       - "| 8.39Mb"
       - Relay_🇨🇳CN-🇺🇸US_287
-      - 欧洲(欢迎订阅Youtube破解资源君) 31 15
       - Relay_🇨🇳CN-🇺🇸US_304
       - US_3142
       - US_3165
