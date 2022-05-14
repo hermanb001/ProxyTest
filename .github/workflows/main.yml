@@ -44,9 +44,9 @@ jobs:
     - name: 执行任务3
       run: |
         python sspool.py
-  #  - name: 执行任务4
-  #    run: |
-  #      python kingfu.py
+    - name: 执行任务4
+      run: |
+        python jingfu.py
     - name: 执行任务5
       run: |
         python guobang.py
@@ -72,7 +72,7 @@ jobs:
          git add subscribe/origamiboy
          git add subscribe/hellopool
          git add subscribe/sspool
-         git add subscribe/kingfu
+         git add subscribe/jingfu
          git add subscribe/guobang
          git add subscribe/guest997
          git add subscribe/eu-proxypool
