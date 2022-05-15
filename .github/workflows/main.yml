@@ -38,9 +38,9 @@ jobs:
     - name: 执行任务1
       run: |
         python hellopool.py
-    - name: 执行任务2
-      run: |
-        python mattkaydiary.py
+  #  - name: 执行任务2
+  #    run: |
+  #      python mattkaydiary.py
     - name: 执行任务3
       run: |
         python sspool.py
