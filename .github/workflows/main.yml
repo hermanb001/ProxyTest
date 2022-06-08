@@ -74,7 +74,6 @@ jobs:
          git add subscribe/sspool
          git add subscribe/jingfu
          git add subscribe/guobang
-         git add subscribe/guest997
          git add subscribe/eu-proxypool
          git add subscribe/ednovas
          git add subscribe/us-proxypool
