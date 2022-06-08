@@ -53,9 +53,9 @@ jobs:
     - name: 执行任务6
       run: |
         python origamiboy.py
-#    - name: 执行任务7
-#      run: |
-#        python guest997.py
+    - name: 执行任务7
+      run: |
+        python 3wking.py
     - name: 执行任务8
       run: |
         python eu-proxypool.py
@@ -71,11 +71,12 @@ jobs:
          git config --local user.name "hermanb001"
          git add subscribe/origamiboy
          git add subscribe/hellopool
+         git add subscribe/3wking
          git add subscribe/sspool
          git add subscribe/jingfu
          git add subscribe/guobang
          git add subscribe/eu-proxypool
-         git add subscribe/clash.yml         
+         git add subscribe/clash.yml
          git commit -m "更新订阅链接"
     - name: 推送更改
       uses:  ad-m/github-push-action@master
