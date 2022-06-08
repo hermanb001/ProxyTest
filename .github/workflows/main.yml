@@ -74,7 +74,6 @@ jobs:
          git config --local user.name "hermanb001"
          git add subscribe/origamiboy
          git add subscribe/hellopool
- #        git add subscribe/3wking
          git add subscribe/sspool
          git add subscribe/jingfu
          git add subscribe/guobang
