@@ -75,8 +75,6 @@ jobs:
          git add subscribe/jingfu
          git add subscribe/guobang
          git add subscribe/eu-proxypool
-         git add subscribe/ednovas
-         git add subscribe/us-proxypool
          git add subscribe/clash.yml         
          git commit -m "更新订阅链接"
     - name: 推送更改
