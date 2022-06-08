@@ -16,7 +16,7 @@ def main(event, context):
     utils.initLog('log.txt')
     utils.clearLog()
     savePoint(
-        'https://sspool.herokuapp.com/clash/proxies?nc=CN&speed=150', 'sspool')
+        'https://sspool.herokuapp.com/clash/proxies?nc=CN&speed=50', 'sspool')
 
     # savePoint(
     #     'https://etproxypool.ga/clash/proxies?nc=CN&speed=30&type=ss', 'ss.txt')
