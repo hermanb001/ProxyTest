@@ -59,12 +59,12 @@ jobs:
     - name: 执行任务8
       run: |
         python eu-proxypool.py
-    - name: 执行任务9
-      run: |
-        python ednovas.py 
-    - name: 执行任务10
-      run: |
-        python us-proxypool.py
+#    - name: 执行任务9
+#      run: |
+#        python ednovas.py 
+#    - name: 执行任务10
+#      run: |
+#        python us-proxypool.py
     - name: 提交更改
       run: |                 
          git config --local user.email "hermanbrayden001@gmail.com"
