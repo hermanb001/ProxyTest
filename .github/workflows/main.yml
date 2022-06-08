@@ -65,6 +65,9 @@ jobs:
     - name: 执行任务10
       run: |
         python lonxin.py
+    - name: 执行任务11
+      run: |
+        python free886.py
     - name: 提交更改
       run: |                 
          git config --local user.email "hermanbrayden001@gmail.com"
@@ -79,6 +82,7 @@ jobs:
          git add subscribe/cloudkingzst
          git add subscribe/lonxin
          git add subscribe/clash.yml
+         git add subscribe/free886
          git commit -m "更新订阅链接"
     - name: 推送更改
       uses:  ad-m/github-push-action@master
