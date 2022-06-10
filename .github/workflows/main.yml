@@ -42,16 +42,16 @@ jobs:
       run: |                 
          git config --local user.email "hermanbrayden001@gmail.com"
          git config --local user.name "hermanb001"
-         git add subscribe/origamiboy
-         git add subscribe/hellopool
-         git add subscribe/sspool
-         git add subscribe/jingfu
-         git add subscribe/guobang
          git add subscribe/eu-proxypool
-         git add subscribe/cloudkingzst
-         git add subscribe/lonxin
-         git add subscribe/clash.yml
          git add subscribe/free886
+         git add subscribe/guobang
+         git add subscribe/hellopool
+         git add subscribe/jingfu
+         git add subscribe/lonxin
+         git add subscribe/sspool
+         git add subscribe/origamiboy
+         git add subscribe/cloudkingzst
+         git add subscribe/clash.yml
          git commit -m "更新订阅链接"
     - name: 推送更改
       uses:  ad-m/github-push-action@master
