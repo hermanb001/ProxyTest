@@ -40,13 +40,13 @@ def main(event, context):
         'https://sspool.herokuapp.com/clash/proxies?nc=CN&speed=50', 'sspool')
     
 #    savePoint(
-#        'http://guobang.herokuapp.com/clash/proxies?nc=CN&speed=30', 'guobang-30')
+#        'http://clash.3wking.com:12580/clash/proxies?nc=CN', '3wking')
     
 #    savePoint(
-#        'http://guobang.herokuapp.com/clash/proxies?nc=CN&speed=30', 'guobang-30')
+#        'https://proxy.cloudkingzst.xyz/clash/proxies?c=US&type=ss', 'cloudkingzst')
     
 #    savePoint(
-#        'http://guobang.herokuapp.com/clash/proxies?nc=CN&speed=30', 'guobang-30')
+#        'https://ednovas.design/clash/proxies?nc=CN&speed=40', 'ednovas')
     
 
 # 获取文章地址
