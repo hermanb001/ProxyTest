@@ -35,42 +35,9 @@ jobs:
     - name: 安装依赖
       run: |
         pip install -r requirements.txt
-    - name: 执行任务1
+    - name: 执行任务0
       run: |
-        python hellopool.py
-  #  - name: 执行任务2
-  #    run: |
-  #      python mattkaydiary.py
-    - name: 执行任务3
-      run: |
-        python sspool.py
-    - name: 执行任务4
-      run: |
-        python jingfu.py
-    - name: 执行任务5
-      run: |
-        python guobang.py
-    - name: 执行任务6
-      run: |
-        python origamiboy.py
-    - name: 执行任务7
-      run: |
-        python 3wking.py
-    - name: 执行任务8
-      run: |
-        python eu-proxypool.py
-#    - name: 执行任务9
-#      run: |
-#        python cloudkingzst.py 
-    - name: 执行任务10
-      run: |
-        python lonxin.py
-    - name: 执行任务11
-      run: |
-        python free886.py
-    - name: 执行任务12
-      run: |
-        python test.py
+        python main0.py
     - name: 提交更改
       run: |                 
          git config --local user.email "hermanbrayden001@gmail.com"
@@ -85,9 +52,6 @@ jobs:
          git add subscribe/lonxin
          git add subscribe/clash.yml
          git add subscribe/free886
-         git add subscribe/free886-00
-         git add subscribe/guest997-50
-         git add subscribe/guobang-30
          git commit -m "更新订阅链接"
     - name: 推送更改
       uses:  ad-m/github-push-action@master
