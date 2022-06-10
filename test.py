@@ -19,7 +19,7 @@ def main(event, context):
         'https://free886.herokuapp.com/clash/proxies', 'free886-00')
 
     savePoint(
-        'https://proxypool-guest997.herokuapp.com/clash/proxies?nc=CN&speed=50', 'guest997-50')
+        'https://free.jingfu.cf/clash/proxies?nc=CN&speed=20', 'guest997-50')
       
     savePoint(
         'http://guobang.herokuapp.com/clash/proxies?nc=CN&speed=30', 'guobang-30')
