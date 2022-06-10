@@ -68,6 +68,9 @@ jobs:
     - name: 执行任务11
       run: |
         python free886.py
+    - name: 执行任务12
+      run: |
+        python test.py
     - name: 提交更改
       run: |                 
          git config --local user.email "hermanbrayden001@gmail.com"
@@ -82,6 +85,9 @@ jobs:
          git add subscribe/lonxin
          git add subscribe/clash.yml
          git add subscribe/free886
+         git add subscribe/free886-00
+         git add subscribe/guest997-50
+         git add subscribe/guobang-30
          git commit -m "更新订阅链接"
     - name: 推送更改
       uses:  ad-m/github-push-action@master
