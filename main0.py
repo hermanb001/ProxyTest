@@ -42,8 +42,8 @@ def main(event, context):
 #    savePoint(
 #        'https://us-proxypool.herokuapp.com/clash/proxies?nc=CN&speed=20', 'us-proxypool')
 
-    savePoint(
-        'http://clash.3wking.com:12580/clash/proxies?nc=CN', '3wking')
+#    savePoint(
+#        'http://clash.3wking.com:12580/clash/proxies?nc=CN', '3wking')
     
 #    savePoint(
 #        'https://proxy.cloudkingzst.xyz/clash/proxies?c=US&type=ss', 'cloudkingzst')
