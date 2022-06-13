@@ -50,6 +50,7 @@ jobs:
          git add subscribe/lonxin
          git add subscribe/sspool
          git add subscribe/origamiboy
+         git add subscribe/us-proxypool
          git add subscribe/3wking
          git add subscribe/cloudkingzst
          git add subscribe/clash.yml
