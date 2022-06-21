@@ -11,7 +11,8 @@ on:
     # - cron: '*/5 * * * *'
     # 表达式生成  https://crontab.guru/
     # 此处是UTC时间 即北京时间 -8小时
-    - cron: '40 2,12 * * *'
+    # - cron: '40 2,12 * * *'
+    - cron: '8 */8 * * *'
 
 jobs:
   deploy:
