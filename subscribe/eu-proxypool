@@ -1,14 +1,13 @@
 proxies:
-- {"name":"2022.07.05_🇬🇧GB_25 |73.39Mb","server":"178.62.16.161","type":"ss","country":"🇬🇧GB","port":811,"password":"Ultr@r00t_2017","cipher":"chacha20-ietf-poly1305"}
-- {"name":"2022.07.05_Relay_🇬🇧GB-🇬🇧GB_26 |164.74Mb","server":"jgwld1.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
-- {"name":"2022.07.05_Relay_🇬🇧GB-🇬🇧GB_27 |75.28Mb","server":"jgwld3.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"71b55a84-3fac-4458-abff-eaad79219c91","skip-cert-verify":true,"udp":true}
-- {"name":"2022.07.05_Relay_🇬🇧GB-🇬🇧GB_28 |148.45Mb","server":"jgwld2.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"d7fd8aaa-4581-4281-80aa-4b63e5e1f157","skip-cert-verify":true,"udp":true}
-- {"name":"2022.07.05_🇺🇸US_45 |35.09Mb","server":"164.92.99.255","type":"ss","country":"🇺🇸US","port":4649,"password":"3f411e87-3e93-4f23-bc22-263a748bc8c5","cipher":"aes-256-gcm"}
-- {"name":"2022.07.05_Relay_🇺🇸US-🇺🇸US_47 |32.77Mb","server":"fhcamd2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
-- {"name":"2022.07.05_Relay_🇺🇸US-🇺🇸US_52 |32.15Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.05_🇬🇧GB_23 |73.39Mb","server":"178.62.16.161","type":"ss","country":"🇬🇧GB","port":811,"password":"Ultr@r00t_2017","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.05_Relay_🇬🇧GB-🇬🇧GB_24 |164.74Mb","server":"jgwld1.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.05_Relay_🇬🇧GB-🇬🇧GB_25 |148.45Mb","server":"jgwld2.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"d7fd8aaa-4581-4281-80aa-4b63e5e1f157","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.05_🇺🇸US_42 |35.09Mb","server":"164.92.99.255","type":"ss","country":"🇺🇸US","port":4649,"password":"3f411e87-3e93-4f23-bc22-263a748bc8c5","cipher":"aes-256-gcm"}
+- {"name":"2022.07.05_Relay_🇺🇸US-🇺🇸US_51 |32.15Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.05_Relay_🇺🇸US-🇺🇸US_59 |33.14Mb","server":"rooms.starspace.link","type":"trojan","country":"🇺🇸US","port":443,"password":"5HfENR8nt2PR8reH","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.05_Relay_🇺🇸US-🇺🇸US_60 |32.18Mb","server":"silicon.starspace.link","type":"trojan","country":"🇺🇸US","port":443,"password":"4ZPDeqJ6g766UKDJ","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.05_Relay_🇺🇸US-🇺🇸US_61 |35.39Mb","server":"ussc.scsevers.cf","type":"trojan","country":"🇺🇸US","port":443,"password":"sharecentre","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.05_Relay_🇺🇸US-🇺🇸US_62 |35.31Mb","server":"wireless.starspace.link","type":"trojan","country":"🇺🇸US","port":443,"password":"5LN8SGTqxk336nFg","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.05_Relay_🇺🇸US-🇺🇸US_64 |32.58Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.05_Relay_🇺🇸US-🇺🇸US_65 |31.54Mb","server":"lsj02.wangxd.life","type":"trojan","country":"🇺🇸US","port":3052,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.05_Relay_🇺🇸US-🇺🇸US_66 |39.26Mb","server":"usfree1.jiantian.xyz","type":"trojan","country":"🇺🇸US","port":23425,"password":"eecb88a3-d8c1-4fc3-bea0-8a4f13aa42be","skip-cert-verify":true,"udp":true}
