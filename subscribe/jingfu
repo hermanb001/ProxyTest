@@ -91,8 +91,8 @@ proxies:
 - {"name":"2022.07.06_Relay_ |47.21Mb","server":"jgwdb4.gaox.ml","type":"trojan","country":"🇯🇵JP","port":443,"password":"d06a3f01-1ff0-4792-9b8e-a5a604bc74a2","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.06_🇯🇵JP_717 |51.73Mb","server":"164.70.68.67","type":"trojan","country":"🇯🇵JP","port":28000,"password":"52a98419-efab-4c34-b4cc-4e2a7bc37029","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.06_ |23.18Mb","server":"203.138.98.199","type":"trojan","country":"🇯🇵JP","port":28000,"password":"52a98419-efab-4c34-b4cc-4e2a7bc37029","skip-cert-verify":true,"udp":true}
-- {"name":"2022.07.06_ |43.81Mb","server":"203.138.98.199","type":"trojan","country":"🇯🇵JP","port":28000,"password":"c35ff7bd-3596-48df-8cfc-41f8c576ab4e","skip-cert-verify":true,"udp":true}
-- {"name":"2022.07.06_Relay_ |44.90Mb","server":"jgwdb3.gaox.ml","type":"trojan","country":"🇯🇵JP","port":443,"password":"8d2d5953-d649-4034-94f2-72f2df2623da","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.06_ |33.39Mb","server":"203.138.98.199","type":"trojan","country":"🇯🇵JP","port":28000,"password":"c35ff7bd-3596-48df-8cfc-41f8c576ab4e","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.06_Relay_ |42.01Mb","server":"jgwdb3.gaox.ml","type":"trojan","country":"🇯🇵JP","port":443,"password":"8d2d5953-d649-4034-94f2-72f2df2623da","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.06_ |24.40Mb","server":"83.229.73.60","type":"ss","country":"🇳🇬NG","port":50003,"password":"8460400130","cipher":"aes-256-cfb"}
 - {"name":"2022.07.06_ |30.58Mb","server":"85.208.108.18","type":"ss","country":"🇳🇱NL","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.07.06_ |29.90Mb","server":"85.208.108.18","type":"ss","country":"🇳🇱NL","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
