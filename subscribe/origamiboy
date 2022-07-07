@@ -219,6 +219,7 @@ proxies:
 - {"name":"2022.07.08_🇱🇹LT_584 |16.80Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9031,"password":"BwcAUZk8hUFAkDGN","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_🇱🇹LT_585 |58.37Mb","server":"213.183.63.219","type":"ss","country":"🇱🇹LT","port":9079,"password":"TPqX8edgbAURcAMb","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_🇱🇹LT_588 |64.47Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9056,"password":"rNBfNuuANFCAk7KB","cipher":"aes-256-cfb"}
+- {"name":"2022.07.08_🇱🇹LT_589 |39.90Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9060,"password":"ueLXVkvh4hckhErQ","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_🇱🇹LT_594 |70.26Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9088,"password":"f8npKgNzdkss2ytn","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_🇱🇹LT_597 |44.41Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9093,"password":"wfLC2y7rzZyCmuyt","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_🇱🇹LT_598 |38.07Mb","server":"213.183.53.207","type":"ss","country":"🇱🇹LT","port":9019,"password":"GA9KzeEgvfxNrgmM","cipher":"aes-256-cfb"}
@@ -299,6 +300,7 @@ proxies:
 - {"name":"2022.07.08_🇳🇱NL_691 |12.50Mb","server":"85.208.108.58","type":"ss","country":"🇳🇱NL","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
 - {"name":"2022.07.08_🇳🇱NL_692 |58.37Mb","server":"185.246.155.46","type":"ss","country":"🇳🇱NL","port":9006,"password":"FAdUvMJUq5vDgKEq","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_🇳🇱NL_694 |12.25Mb","server":"85.208.108.18","type":"ss","country":"🇳🇱NL","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.07.08_🇳🇱NL_696 |33.72Mb","server":"185.246.155.29","type":"ss","country":"🇳🇱NL","port":9008,"password":"y9VURyNzJWNRYEGQ","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_Pool_🇳🇱NL_697 |12.35Mb","server":"85.208.108.20","type":"ss","country":"🇳🇱NL","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
 - {"name":"2022.07.08_🇳🇱NL_698 |36.86Mb","server":"185.246.155.35","type":"ss","country":"🇳🇱NL","port":9070,"password":"bf7v334KKDV3YDhH","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_Pool_🇳🇱NL_699 |12.16Mb","server":"85.208.108.20","type":"ss","country":"🇳🇱NL","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
@@ -357,6 +359,7 @@ proxies:
 - {"name":"2022.07.08_🇳🇱NL_759 |33.17Mb","server":"213.183.59.211","type":"ssr","country":"🇳🇱NL","port":9041,"password":"U6qnYRhfyDmn8sgn","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
 - {"name":"2022.07.08_🇳🇱NL_760 |52.49Mb","server":"213.183.59.206","type":"ssr","country":"🇳🇱NL","port":9059,"password":"9XwYyZsK8SNzQDtY","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
 - {"name":"2022.07.08_🇳🇱NL_761 |58.30Mb","server":"213.183.59.229","type":"ssr","country":"🇳🇱NL","port":9046,"password":"NvS8N4Vf8qAGPSCL","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"2022.07.08_🇳🇱NL_762 |10.58Mb","server":"41.216.177.41","type":"trojan","country":"🇳🇱NL","port":443,"password":"274c1b23-2bfe-40ac-943c-ebc1aa044b22","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.08_🇵🇱PL_771 |55.32Mb","server":"51.77.53.200","type":"ss","country":"🇵🇱PL","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
 - {"name":"2022.07.08_🇵🇱PL_772 |55.10Mb","server":"51.77.53.200","type":"ss","country":"🇵🇱PL","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
 - {"name":"2022.07.08_🇵🇱PL_773 |55.16Mb","server":"51.77.53.200","type":"ss","country":"🇵🇱PL","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
@@ -421,6 +424,7 @@ proxies:
 - {"name":"2022.07.08_🇷🇺RU_848 |95.16Mb","server":"217.30.10.67","type":"ss","country":"🇷🇺RU","port":9094,"password":"rpgbNnU9rDDU4aWZ","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_🇷🇺RU_849 |100.88Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9006,"password":"FAdUvMJUq5vDgKEq","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_🇷🇺RU_850 |12.51Mb","server":"217.30.10.68","type":"ss","country":"🇷🇺RU","port":9001,"password":"UkXRsXvR6buDMG2Y","cipher":"aes-256-cfb"}
+- {"name":"2022.07.08_🇷🇺RU_851 |79.91Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9019,"password":"GA9KzeEgvfxNrgmM","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_🇷🇺RU_852 |130.01Mb","server":"217.30.10.67","type":"ss","country":"🇷🇺RU","port":9056,"password":"rNBfNuuANFCAk7KB","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_🇷🇺RU_853 |128.88Mb","server":"217.30.10.67","type":"ss","country":"🇷🇺RU","port":9041,"password":"U6qnYRhfyDmn8sgn","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_🇷🇺RU_854 |21.19Mb","server":"217.30.10.68","type":"ss","country":"🇷🇺RU","port":9098,"password":"aLpQtfEZe445QyHk","cipher":"aes-256-cfb"}
@@ -721,6 +725,9 @@ proxies:
 - {"name":"2022.07.08_🇺🇸US_1261 |17.51Mb","server":"38.64.138.145","type":"ss","country":"🇺🇸US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
 - {"name":"2022.07.08_🇺🇸US_1263 |30.26Mb","server":"38.114.114.69","type":"ss","country":"🇺🇸US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
 - {"name":"2022.07.08_🇺🇸US_1264 |29.15Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸US","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"2022.07.08_🇺🇸US_1265 |26.42Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"2022.07.08_🇺🇸US_1266 |12.30Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.07.08_🇺🇸US_1269 |28.10Mb","server":"167.88.61.60","type":"ss","country":"🇺🇸US","port":5600,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.07.08_🇺🇸US_1280 |28.20Mb","server":"38.114.114.69","type":"ss","country":"🇺🇸US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.07.08_🇺🇸US_1281 |30.96Mb","server":"38.114.114.69","type":"ss","country":"🇺🇸US","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
 - {"name":"2022.07.08_🇺🇸US_1282 |22.09Mb","server":"38.114.114.69","type":"ss","country":"🇺🇸US","port":9101,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
