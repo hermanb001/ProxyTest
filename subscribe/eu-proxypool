@@ -3,6 +3,7 @@ proxies:
 - {"name":"2022.07.08_Relay_🇬🇧GB-🇬🇧GB_27 |257.30Mb","server":"jgwld1.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.08_Relay_🇬🇧GB-🇬🇧GB_28 |325.79Mb","server":"jgwld3.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"71b55a84-3fac-4458-abff-eaad79219c91","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.08_Relay_🇬🇧GB-🇬🇧GB_29 |187.57Mb","server":"jgwld2.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"d7fd8aaa-4581-4281-80aa-4b63e5e1f157","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.08_Relay_🇸🇬SG-🇸🇬SG_36 |30.62Mb","server":"sg1.jjzgy.live","type":"trojan","country":"🇸🇬SG","port":32333,"password":"78234ff5-7ddb-3b20-b797-d430b0d4a7b9","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.08_🇺🇸US_43 |34.89Mb","server":"164.92.99.255","type":"ss","country":"🇺🇸US","port":4649,"password":"3f411e87-3e93-4f23-bc22-263a748bc8c5","cipher":"aes-256-gcm"}
 - {"name":"2022.07.08_Relay_🇺🇸US-🇺🇸US_49 |33.59Mb","server":"tj-us01.yiyodns.xyz","type":"trojan","country":"🇺🇸US","port":443,"password":"7dafe71e-2be6-302f-bdfc-e6319a3299bc","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.08_Relay_🇺🇸US-🇺🇸US_51 |30.39Mb","server":"s3.hazz.win","type":"trojan","country":"🇺🇸US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
