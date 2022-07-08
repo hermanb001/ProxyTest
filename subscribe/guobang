@@ -134,6 +134,14 @@ proxies:
 - {"name":"2022.07.08_🇭🇺HU_249 |34.08Mb","server":"194.71.130.194","type":"ss","country":"🇭🇺HU","port":50003,"password":"8460400130","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_🇮🇱IL_251 |32.10Mb","server":"31.133.100.49","type":"ss","country":"🇮🇱IL","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_🇮🇱IL_253 |30.39Mb","server":"185.162.125.91","type":"ss","country":"🇮🇱IL","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.07.08_🇱🇹LT_287 |44.38Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9008,"password":"y9VURyNzJWNRYEGQ","cipher":"aes-256-cfb"}
+- {"name":"2022.07.08_🇱🇹LT_295 |38.43Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9030,"password":"GeregetR8cvQHzYr","cipher":"aes-256-cfb"}
+- {"name":"2022.07.08_🇱🇹LT_318 |40.84Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9045,"password":"Lp27rqyJq72bZsqX","cipher":"aes-256-cfb"}
+- {"name":"2022.07.08_🇱🇹LT_319 |39.07Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9031,"password":"BwcAUZk8hUFAkDGN","cipher":"aes-256-cfb"}
+- {"name":"2022.07.08_🇱🇹LT_321 |44.58Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9056,"password":"rNBfNuuANFCAk7KB","cipher":"aes-256-cfb"}
+- {"name":"2022.07.08_🇱🇹LT_324 |43.87Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9040,"password":"p9z5BVADH2YFs3MN","cipher":"aes-256-cfb"}
+- {"name":"2022.07.08_🇱🇹LT_330 |44.98Mb","server":"213.183.53.177","type":"ss","country":"🇱🇹LT","port":9084,"password":"c3NtHJ5ujV2tGDfj","cipher":"aes-256-cfb"}
+- {"name":"2022.07.08_🇱🇹LT_337 |41.18Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9041,"password":"U6qnYRhfyDmn8sgn","cipher":"aes-256-cfb"}
 - {"name":"2022.07.08_🇺🇸US_588 |76.22Mb","server":"164.92.99.255","type":"ss","country":"🇺🇸US","port":4649,"password":"3f411e87-3e93-4f23-bc22-263a748bc8c5","cipher":"aes-256-gcm"}
 - {"name":"2022.07.08_🇺🇸US_589 |48.47Mb","server":"138.68.248.130","type":"ss","country":"🇺🇸US","port":811,"password":"Ultr@r00t_2017","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.08_Relay_🇺🇸US-🇺🇸US_1089 |393.95Mb","server":"usa-washington.lvuft.com","type":"vmess","country":"🇺🇸US","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
