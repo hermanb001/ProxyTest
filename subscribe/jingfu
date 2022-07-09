@@ -53,6 +53,7 @@ proxies:
 - {"name":"2022.07.09_Relay_ |36.58Mb","server":"14.29.124.174","type":"ss","country":"🇨🇳CN","port":11036,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
 - {"name":"2022.07.09_ |41.68Mb","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25241,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
 - {"name":"2022.07.09_ |53.68Mb","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":25267,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"2022.07.09_Relay_ |25.39Mb","server":"14.29.124.168","type":"ssr","country":"🇨🇳CN","port":24001,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb","protocol":"origin","obfs":"plain"}
 - {"name":"2022.07.09_Relay_ |23.93Mb","server":"gzyd2.52147.top","type":"trojan","country":"🇨🇳CN","port":30130,"password":"52a98419-efab-4c34-b4cc-4e2a7bc37029","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.09_Relay_ |21.95Mb","server":"gzyd1.52147.top","type":"trojan","country":"🇨🇳CN","port":30130,"password":"52a98419-efab-4c34-b4cc-4e2a7bc37029","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.09_Relay_ |22.20Mb","server":"hnyd.52147.top","type":"trojan","country":"🇨🇳CN","port":30130,"password":"52a98419-efab-4c34-b4cc-4e2a7bc37029","skip-cert-verify":true,"udp":true}
