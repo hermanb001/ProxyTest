@@ -18,6 +18,7 @@ proxies:
 - {"name":"2022.07.09_🇨🇦CA_156 |109.51Mb","server":"51.161.118.38","type":"ss","country":"🇨🇦CA","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.09_🇨🇦CA_161 |156.17Mb","server":"51.161.118.38","type":"ss","country":"🇨🇦CA","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.09_🇨🇦CA_165 |55.11Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.09_🇨🇦CA_182 |83.05Mb","server":"625us.ok365.cyou","type":"trojan","country":"🇨🇦CA","port":443,"password":"54f4dd9a-6a6c-4c84-b328-4a51da70793e","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.09_🇨🇭CH_206 |52.71Mb","server":"37.120.213.230","type":"ss","country":"🇨🇭CH","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.07.09_🇫🇷FR_329 |57.68Mb","server":"62.210.213.6","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.07.09_🇫🇷FR_336 |72.84Mb","server":"51.195.217.22","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
@@ -103,6 +104,7 @@ proxies:
 - {"name":"2022.07.09_🇺🇸US_1113 |89.67Mb","server":"38.68.134.196","type":"ss","country":"🇺🇸US","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.09_🇺🇸US_1122 |58.46Mb","server":"38.107.226.146","type":"ss","country":"🇺🇸US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
 - {"name":"2022.07.09_🇺🇸US_1127 |52.06Mb","server":"38.64.138.145","type":"ss","country":"🇺🇸US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.07.09_🇺🇸US_1134 |66.31Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸US","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
 - {"name":"2022.07.09_🇺🇸US_1149 |58.48Mb","server":"167.88.63.82","type":"ss","country":"🇺🇸US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
 - {"name":"2022.07.09_🇺🇸US_1151 |54.69Mb","server":"38.107.226.238","type":"ss","country":"🇺🇸US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
 - {"name":"2022.07.09_🇺🇸US_1161 |57.93Mb","server":"167.88.63.82","type":"ss","country":"🇺🇸US","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
@@ -125,6 +127,7 @@ proxies:
 - {"name":"2022.07.09_🇺🇸US_1228 |72.87Mb","server":"51.81.223.18","type":"vmess","country":"🇺🇸US","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.07.09_🇺🇸US_1230 |71.97Mb","server":"51.81.223.26","type":"vmess","country":"🇺🇸US","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp","ws-path":"/a185d5dc-c726-466c-98f2-ba494e63695f","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.07.09_🇺🇸US_1232 |54.78Mb","server":"34.215.130.186","type":"vmess","country":"🇺🇸US","port":10089,"uuid":"3608c9dc-1eeb-48b0-b570-43074b4a0c9e","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.07.09_🇺🇸US_1233 |67.37Mb","server":"51.81.223.21","type":"vmess","country":"🇺🇸US","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.07.09_🇺🇸US_1238 |53.55Mb","server":"51.81.223.25","type":"vmess","country":"🇺🇸US","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.07.09_🇺🇸US_1242 |58.04Mb","server":"vpnu.loungers.cc","type":"vmess","country":"🇺🇸US","port":56830,"uuid":"d2e92a19-f50c-426e-cd15-03ece7f4f3b1","alterId":32,"cipher":"auto","network":"ws","ws-path":"/ws/x-ui","servername":"vpnu.loungers.cc","ws-headers":{"HOST":"vpnu.loungers.cc"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.07.09_🇺🇸US_1244 |59.61Mb","server":"23.94.120.19","type":"vmess","country":"🇺🇸US","port":28554,"uuid":"4a4c96c5-7b8b-4612-c715-6b91a9c34d07","alterId":64,"cipher":"auto","ws-path":"/","servername":"23.94.120.19","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
