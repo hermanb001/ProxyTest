@@ -54,6 +54,7 @@ proxies:
 - {"name":"2022.07.10_🇩🇪DE_138 |49.87Mb","server":"193.108.117.24","type":"ss","country":"🇩🇪DE","port":7001,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
 - {"name":"2022.07.10_🇩🇪DE_139 |60.61Mb","server":"193.108.118.36","type":"ss","country":"🇩🇪DE","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
 - {"name":"2022.07.10_🇩🇪DE_140 |31.14Mb","server":"193.108.117.24","type":"ss","country":"🇩🇪DE","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"2022.07.10_🇩🇪DE_141 |11.12Mb","server":"165.22.73.126","type":"ss","country":"🇩🇪DE","port":23335,"password":"7d99ae502227454ea998d71e4b62a388","cipher":"aes-256-cfb"}
 - {"name":"2022.07.10_🇩🇪DE_142 |60.13Mb","server":"193.108.117.75","type":"ss","country":"🇩🇪DE","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
 - {"name":"2022.07.10_🇩🇪DE_143 |61.04Mb","server":"193.108.117.75","type":"ss","country":"🇩🇪DE","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
 - {"name":"2022.07.10_🇩🇪DE_144 |61.68Mb","server":"193.108.118.36","type":"ss","country":"🇩🇪DE","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
@@ -198,6 +199,7 @@ proxies:
 - {"name":"2022.07.10_🇱🇹LT_324 |84.13Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9060,"password":"ueLXVkvh4hckhErQ","cipher":"aes-256-cfb"}
 - {"name":"2022.07.10_🇱🇹LT_325 |11.25Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9059,"password":"9XwYyZsK8SNzQDtY","cipher":"aes-256-cfb"}
 - {"name":"2022.07.10_🇱🇹LT_326 |18.61Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
+- {"name":"2022.07.10_🇱🇹LT_330 |27.30Mb","server":"213.183.63.217","type":"ss","country":"🇱🇹LT","port":9064,"password":"cp8pRSUAyLhTfVWH","cipher":"aes-256-cfb"}
 - {"name":"2022.07.10_🇱🇹LT_331 |12.81Mb","server":"213.183.63.217","type":"ss","country":"🇱🇹LT","port":9070,"password":"bf7v334KKDV3YDhH","cipher":"aes-256-cfb"}
 - {"name":"2022.07.10_🇱🇹LT_333 |21.54Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9094,"password":"rpgbNnU9rDDU4aWZ","cipher":"aes-256-cfb"}
 - {"name":"2022.07.10_🇱🇹LT_334 |39.38Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9097,"password":"Sn5B7jTqr76aCJT8","cipher":"aes-256-cfb"}
