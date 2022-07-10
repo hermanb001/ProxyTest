@@ -61,6 +61,8 @@ proxies:
 - {"name":"2022.07.11_ |27.18Mb","server":"72.140.224.197","type":"ss","country":"🇨🇦CA","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.11_ |37.58Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.11_ |148.73Mb","server":"37.120.213.230","type":"ss","country":"🇨🇭CH","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.07.11_Relay_ |10.51Mb","server":"gzyd2.52147.top","type":"trojan","country":"🇨🇳CN","port":20020,"password":"a3da3376-881c-4f5a-93cd-e3289e853475","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.11_Relay_ |11.65Mb","server":"gzyd1.52147.top","type":"trojan","country":"🇨🇳CN","port":30010,"password":"4cb63fcd-23e1-46e4-b55b-0d4b9bb4d2a3","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.11_ |60.22Mb","server":"193.108.117.75","type":"ss","country":"🇩🇪DE","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
 - {"name":"2022.07.11_ |57.73Mb","server":"193.108.118.36","type":"ss","country":"🇩🇪DE","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
 - {"name":"2022.07.11_ |59.50Mb","server":"193.108.118.36","type":"ss","country":"🇩🇪DE","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
@@ -900,6 +902,7 @@ proxies:
 - {"name":"2022.07.11_Relay_ |32.74Mb","server":"tj-us01.yiyodns.xyz","type":"trojan","country":"🇺🇸US","port":443,"password":"7dafe71e-2be6-302f-bdfc-e6319a3299bc","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.11_Relay_🇺🇸US-🇺🇸US_1171 |33.85Mb","server":"fhcamd1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"e23f408a-012e-4030-8b31-02022031cb50","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.11_Relay_ |19.78Mb","server":"usfree1.jiantian.xyz","type":"trojan","country":"🇺🇸US","port":23425,"password":"eecb88a3-d8c1-4fc3-bea0-8a4f13aa42be","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.11_Relay_🇺🇸US-🇺🇸US_1175 |12.43Mb","server":"32.72img.xyz","type":"trojan","country":"🇺🇸US","port":443,"password":"b605dc8f-249f-4f08-9793-571acf746dab","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.11_Relay_🇺🇸US-🇺🇸US_1176 |39.77Mb","server":"v5.tgfaka.com","type":"trojan","country":"🇺🇸US","port":48443,"password":"ec3e47e9-8dd7-4302-aa1a-a5658d34e931","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.11_ |12.38Mb","server":"102.130.118.99","type":"ss","country":"🇿🇦ZA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.07.11_ |14.33Mb","server":"169.197.142.48","type":"ss","country":"🏁ZZ","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
