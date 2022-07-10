@@ -63,6 +63,8 @@ proxies:
 - {"name":"2022.07.10_ |38.97Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":802,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.10_Pool_ |37.41Mb","server":"196.247.59.156","type":"ss","country":"🇨🇦CA","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.10_ |148.73Mb","server":"37.120.213.230","type":"ss","country":"🇨🇭CH","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.07.10_Relay_ |11.14Mb","server":"gzyd1.52147.top","type":"trojan","country":"🇨🇳CN","port":20170,"password":"a3da3376-881c-4f5a-93cd-e3289e853475","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.10_Relay_ |10.51Mb","server":"gzyd2.52147.top","type":"trojan","country":"🇨🇳CN","port":20020,"password":"a3da3376-881c-4f5a-93cd-e3289e853475","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.10_ |33.91Mb","server":"193.108.117.75","type":"ss","country":"🇩🇪DE","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
 - {"name":"2022.07.10_Relay_ |22.25Mb","server":"93.186.201.158","type":"ss","country":"🇩🇪DE","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.10_ |12.93Mb","server":"193.108.118.79","type":"ss","country":"🇩🇪DE","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
@@ -350,6 +352,7 @@ proxies:
 - {"name":"2022.07.10_Relay_ |22.71Mb","server":"v1.tgfaka.com","type":"vmess","country":"🇷🇺RU","port":48443,"uuid":"6f48efb9-3817-4652-832f-fd04d93ebbc1","alterId":0,"cipher":"auto","network":"ws","ws-path":"/api/v3/download.getFile","servername":"douyincdn.com","ws-headers":{"HOST":"douyincdn.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.07.10_Relay_ |28.06Mb","server":"v1.tgfaka.com","type":"vmess","country":"🇷🇺RU","port":48443,"uuid":"ec3e47e9-8dd7-4302-aa1a-a5658d34e931","alterId":0,"cipher":"auto","network":"ws","ws-path":"/api/v3/download.getFile","servername":"douyincdn.com","ws-headers":{"HOST":"douyincdn.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.07.10_ |24.86Mb","server":"91.243.81.248","type":"trojan","country":"🇷🇺RU","port":28000,"password":"4cb63fcd-23e1-46e4-b55b-0d4b9bb4d2a3","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.10_🇷🇺RU_482 |35.16Mb","server":"141.98.168.251","type":"trojan","country":"🇷🇺RU","port":443,"password":"LiX1tV","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.10_ |15.08Mb","server":"81.90.189.18","type":"ss","country":"🇸🇬SG","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.10_ |10.35Mb","server":"81.90.189.18","type":"ss","country":"🇸🇬SG","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.10_ |18.22Mb","server":"81.90.189.18","type":"ss","country":"🇸🇬SG","port":812,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
