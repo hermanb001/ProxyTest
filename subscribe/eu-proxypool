@@ -150,6 +150,7 @@ proxies:
 - {"name":"2022.07.10_🇮🇱IL_268 |70.15Mb","server":"185.162.125.91","type":"ss","country":"🇮🇱IL","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.07.10_🇮🇹IT_272 |62.61Mb","server":"92.223.79.76","type":"ss","country":"🇮🇹IT","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.07.10_🇮🇹IT_273 |92.50Mb","server":"92.223.93.233","type":"ss","country":"🇮🇹IT","port":1035,"password":")1N1E6v0SU_rGTpg","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.10_🇱🇹LT_314 |46.61Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9060,"password":"ueLXVkvh4hckhErQ","cipher":"aes-256-cfb"}
 - {"name":"2022.07.10_🇱🇹LT_319 |30.70Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9097,"password":"Sn5B7jTqr76aCJT8","cipher":"aes-256-cfb"}
 - {"name":"2022.07.10_🇱🇹LT_337 |40.20Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9030,"password":"GeregetR8cvQHzYr","cipher":"aes-256-cfb"}
 - {"name":"2022.07.10_🇱🇹LT_338 |54.64Mb","server":"213.183.53.212","type":"ss","country":"🇱🇹LT","port":9038,"password":"gYCYXfkUQEs2TaJQ","cipher":"aes-256-cfb"}
