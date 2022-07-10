@@ -34,3 +34,13 @@ proxies:
 - {"name":"2022.07.11_🇬🇧GB_457 |71.99Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.11_🇬🇧GB_466 |62.83Mb","server":"jgwld3.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"71b55a84-3fac-4458-abff-eaad79219c91","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.11_🇬🇧GB_468 |65.82Mb","server":"jgwld2.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"d7fd8aaa-4581-4281-80aa-4b63e5e1f157","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.11_🇱🇹LT_660 |65.38Mb","server":"45.137.97.205","type":"trojan","country":"🇱🇹LT","port":58000,"password":"b2bee5c6-5a07-481e-ac2e-e57ca07bad82","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.11_🇳🇱 NL_662 |53.75Mb","server":"213.183.51.171","type":"ss","country":"🇳🇱 NL","port":9008,"password":"y9VURyNzJWNRYEGQ","cipher":"aes-256-cfb"}
+- {"name":"2022.07.11_🇳🇱NL_685 |51.97Mb","server":"51.15.0.113","type":"ss","country":"🇳🇱NL","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}
+- {"name":"2022.07.11_🇳🇱NL_687 |61.69Mb","server":"213.183.51.171","type":"ss","country":"🇳🇱NL","port":9064,"password":"cp8pRSUAyLhTfVWH","cipher":"aes-256-cfb"}
+- {"name":"2022.07.11_🇷🇴RO_741 |74.76Mb","server":"91.193.6.66","type":"ss","country":"🇷🇴RO","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.07.11_🇷🇺 RU_754 |52.14Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺 RU","port":9010,"password":"f63gg8EruDnUrmz4","cipher":"aes-256-cfb"}
+- {"name":"2022.07.11_🇷🇺RU_846 |52.17Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺RU","port":9046,"password":"NvS8N4Vf8qAGPSCL","cipher":"aes-256-cfb"}
+- {"name":"2022.07.11_🇷🇺RU_847 |51.59Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺RU","port":9019,"password":"GA9KzeEgvfxNrgmM","cipher":"aes-256-cfb"}
+- {"name":"2022.07.11_🇷🇺RU_848 |52.30Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺RU","port":9025,"password":"XPtzA9sCug3SPR4c","cipher":"aes-256-cfb"}
+- {"name":"2022.07.11_🇷🇺RU_849 |52.39Mb","server":"217.30.10.67","type":"ss","country":"🇷🇺RU","port":9041,"password":"U6qnYRhfyDmn8sgn","cipher":"aes-256-cfb"}
