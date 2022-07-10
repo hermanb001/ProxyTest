@@ -33,6 +33,7 @@ proxies:
 - {"name":"2022.07.11_🇫🇷FR_379 |63.15Mb","server":"193.178.210.29","type":"trojan","country":"🇫🇷FR","port":443,"password":"iKR3Ft","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.11_🇬🇧GB_402 |75.68Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.11_Relay_🇬🇧GB-🇬🇧GB_406 |64.21Mb","server":"jgwld2.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"d7fd8aaa-4581-4281-80aa-4b63e5e1f157","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.11_Relay_🇬🇧GB-🇬🇧GB_407 |63.42Mb","server":"jgwld3.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"71b55a84-3fac-4458-abff-eaad79219c91","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.11_Relay_🇬🇧GB-🇬🇧GB_410 |68.27Mb","server":"jgwld1.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.11_🇳🇱NL_585 |67.95Mb","server":"213.183.51.171","type":"ss","country":"🇳🇱NL","port":9031,"password":"BwcAUZk8hUFAkDGN","cipher":"aes-256-cfb"}
 - {"name":"2022.07.11_🇳🇱NL_586 |67.94Mb","server":"213.183.51.171","type":"ss","country":"🇳🇱NL","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
