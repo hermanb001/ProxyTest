@@ -548,3 +548,4 @@ proxies:
 - {"name":"2022.07.10_🏁ZZ_1196 |60.38Mb","server":"134.195.196.200","type":"ss","country":"🏁ZZ","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
 - {"name":"2022.07.10_🏁ZZ_1197 |62.04Mb","server":"134.195.196.200","type":"ss","country":"🏁ZZ","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
 - {"name":"2022.07.10_🏁ZZ_1199 |60.70Mb","server":"134.195.196.128","type":"ss","country":"🏁ZZ","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"2022.07.10_🏁ZZ_1200 |60.34Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
