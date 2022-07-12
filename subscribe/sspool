@@ -54,3 +54,4 @@ proxies:
 - {"name":"2022.07.13_🇷🇺 RU_706 |50.29Mb","server":"217.30.10.67","type":"ss","country":"🇷🇺 RU","port":9043,"password":"HSZuyJQcWe8dxNdF","cipher":"aes-256-cfb"}
 - {"name":"2022.07.13_🇷🇺RU_717 |50.24Mb","server":"217.30.10.67","type":"ss","country":"🇷🇺RU","port":9020,"password":"BNmAXXxAHYpTRdzu","cipher":"aes-256-cfb"}
 - {"name":"2022.07.13_🇷🇺RU_732 |50.44Mb","server":"217.30.10.67","type":"ss","country":"🇷🇺RU","port":9079,"password":"TPqX8edgbAURcAMb","cipher":"aes-256-cfb"}
+- {"name":"2022.07.13_🇷🇺RU_791 |71.93Mb","server":"141.98.168.251","type":"trojan","country":"🇷🇺RU","port":443,"password":"LiX1tV","skip-cert-verify":true,"udp":true}
