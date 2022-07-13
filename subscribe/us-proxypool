@@ -681,4 +681,6 @@ proxies:
 - {"name":"2022.07.13_ |40.56Mb","server":"134.195.196.128","type":"ss","country":"🏁ZZ","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
 - {"name":"2022.07.13_ |23.87Mb","server":"134.195.196.128","type":"ss","country":"🏁ZZ","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
 - {"name":"2022.07.13_ |59.68Mb","server":"134.195.196.200","type":"ss","country":"🏁ZZ","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"2022.07.13_🏁ZZ_1098 |22.42Mb","server":"134.195.196.128","type":"ss","country":"🏁ZZ","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
 - {"name":"2022.07.13_🏁ZZ_1100 |48.21Mb","server":"134.195.196.128","type":"ss","country":"🏁ZZ","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"2022.07.13_🏁ZZ_1107 |24.58Mb","server":"134.195.196.128","type":"ss","country":"🏁ZZ","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
