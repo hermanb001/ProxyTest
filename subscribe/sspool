@@ -3,3 +3,13 @@ proxies:
 - {"name":"2022.07.14__18 |148.01Mb","server":"51.161.118.38","type":"ss","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.14__19 |167.93Mb","server":"51.161.118.38","type":"ss","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.14__20 |173.02Mb","server":"51.161.118.38","type":"ss","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.14__34 |73.73Mb","server":"v5.tgfaka.com","type":"trojan","port":48443,"password":"6f48efb9-3817-4652-832f-fd04d93ebbc1","sni":"d76bb35696.laowanxiang.com","skip-cert-verify":true}
+- {"name":"2022.07.14__35 |70.47Mb","server":"v5.tgfaka.com","type":"trojan","port":48443,"password":"ec3e47e9-8dd7-4302-aa1a-a5658d34e931","sni":"d76bb35696.laowanxiang.com","skip-cert-verify":true}
+- {"name":"2022.07.14_🇨🇦CA_128 |71.49Mb","server":"51.161.118.38","type":"ss","country":"🇨🇦CA","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.14_🇨🇦CA_135 |58.16Mb","server":"196.247.59.156","type":"ss","country":"🇨🇦CA","port":803,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.14_🇨🇦CA_136 |51.78Mb","server":"196.247.59.156","type":"ss","country":"🇨🇦CA","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.14_🇨🇦CA_137 |55.94Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.14_🇨🇦CA_139 |55.61Mb","server":"51.161.118.38","type":"ss","country":"🇨🇦CA","port":812,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.14_🇨🇦CA_140 |62.43Mb","server":"51.161.118.38","type":"ss","country":"🇨🇦CA","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.14_🇨🇦CA_141 |158.21Mb","server":"72.140.224.197","type":"ss","country":"🇨🇦CA","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.14_🇨🇦CA_145 |79.35Mb","server":"51.161.118.38","type":"ss","country":"🇨🇦CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
