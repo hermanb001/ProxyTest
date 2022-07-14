@@ -136,6 +136,7 @@ proxies:
 - {"name":"2022.07.14_🇱🇹LT_243 |23.64Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9056,"password":"rNBfNuuANFCAk7KB","cipher":"aes-256-cfb"}
 - {"name":"2022.07.14_🇱🇹LT_244 |37.96Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9031,"password":"BwcAUZk8hUFAkDGN","cipher":"aes-256-cfb"}
 - {"name":"2022.07.14_🇱🇹LT_245 |20.11Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9046,"password":"NvS8N4Vf8qAGPSCL","cipher":"aes-256-cfb"}
+- {"name":"2022.07.14_🇱🇹LT_249 |26.34Mb","server":"213.183.63.217","type":"ss","country":"🇱🇹LT","port":9045,"password":"Lp27rqyJq72bZsqX","cipher":"aes-256-cfb"}
 - {"name":"2022.07.14_🇱🇹LT_254 |20.07Mb","server":"213.183.63.221","type":"ss","country":"🇱🇹LT","port":9010,"password":"f63gg8EruDnUrmz4","cipher":"aes-256-cfb"}
 - {"name":"2022.07.14_🇱🇹LT_264 |35.33Mb","server":"213.183.53.208","type":"ss","country":"🇱🇹LT","port":9070,"password":"bf7v334KKDV3YDhH","cipher":"aes-256-cfb"}
 - {"name":"2022.07.14_🇳🇬NG_271 |35.90Mb","server":"83.229.73.60","type":"ss","country":"🇳🇬NG","port":50003,"password":"8460400130","cipher":"aes-256-cfb"}
@@ -587,6 +588,7 @@ proxies:
 - {"name":"2022.07.14_Relay_🇺🇸US-🇺🇸US_884 |93.92Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.14_Relay_🇺🇸US-🇺🇸US_885 |96.00Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.14_Relay_🇺🇸US-🇺🇸US_886 |77.48Mb","server":"lsj02.wangxd.life","type":"trojan","country":"🇺🇸US","port":3052,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.14_Relay_🇺🇸US-🇺🇸US_887 |23.51Mb","server":"jgwhdlb2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"54080134-2cba-4535-8599-95650bd9aa54","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.14_Relay_🇺🇸US-🇺🇸US_890 |83.70Mb","server":"trus.moonfree.top","type":"trojan","country":"🇺🇸US","port":443,"password":"4863e1b2-ec2f-4c71-b862-ce533028e57e","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.14_🏁ZZ_894 |60.34Mb","server":"134.195.196.128","type":"ss","country":"🏁ZZ","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
 - {"name":"2022.07.14_🏁ZZ_895 |60.49Mb","server":"134.195.196.227","type":"ss","country":"🏁ZZ","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
