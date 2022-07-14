@@ -43,3 +43,13 @@ proxies:
 - {"name":"2022.07.14_🇳🇱NL_561 |64.90Mb","server":"213.183.59.211","type":"ssr","country":"🇳🇱NL","port":9079,"password":"TPqX8edgbAURcAMb","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
 - {"name":"2022.07.14_Relay_🇳🇱NL-🇳🇱NL_564 |59.39Mb","server":"youtube-bai-piao-wang-zhe.nl.884899.cf","type":"trojan","country":"🇳🇱NL","port":41196,"password":"94afcc56-cc1c-4cd4-8c82-1215cd052795","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.14_🇷🇴RO_585 |59.92Mb","server":"91.193.6.66","type":"ss","country":"🇷🇴RO","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.07.14_🇺🇸US_724 |111.40Mb","server":"162.251.61.47","type":"ss","country":"🇺🇸US","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.14_🇺🇸US_735 |62.32Mb","server":"167.88.63.82","type":"ss","country":"🇺🇸US","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"2022.07.14_🇺🇸US_738 |65.42Mb","server":"142.202.48.7","type":"ss","country":"🇺🇸US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.07.14_🇺🇸US_740 |57.07Mb","server":"38.68.135.19","type":"ss","country":"🇺🇸US","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
+- {"name":"2022.07.14_🇺🇸US_742 |61.42Mb","server":"38.107.226.49","type":"ss","country":"🇺🇸US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"2022.07.14_🇺🇸US_743 |51.99Mb","server":"38.64.138.145","type":"ss","country":"🇺🇸US","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"2022.07.14_🇺🇸US_745 |55.78Mb","server":"38.68.134.85","type":"ss","country":"🇺🇸US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"2022.07.14_🇺🇸US_747 |55.85Mb","server":"37.120.219.218","type":"ss","country":"🇺🇸US","port":812,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.14_🇺🇸US_751 |63.81Mb","server":"142.202.48.52","type":"ss","country":"🇺🇸US","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.07.14_Pool_🇺🇸US_770 |106.34Mb","server":"38.68.134.135","type":"ss","country":"🇺🇸US","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
