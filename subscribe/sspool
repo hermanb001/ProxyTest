@@ -1,5 +1,6 @@
 proxies:
-- {"name":"2022.07.16__03 |97.76Mb","server":"51.161.118.38","type":"ss","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.16__02 |124.80Mb","server":"51.161.118.38","type":"ss","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.16__03 |148.26Mb","server":"51.161.118.38","type":"ss","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.16__31 |72.76Mb","server":"v5.tgfaka.com","type":"trojan","port":48443,"password":"6938c10f-c1a0-43e3-8321-099055f79853","sni":"d76bb35696.laowanxiang.com","skip-cert-verify":true}
 - {"name":"2022.07.16_🇨🇦CA_203 |51.91Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.16_🇨🇦CA_205 |50.87Mb","server":"196.247.59.156","type":"ss","country":"🇨🇦CA","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
