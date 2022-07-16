@@ -1,2 +1,11 @@
 proxies:
-- {"name":"2022.07.17_NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"2022.07.17_🇫🇷FR_49 |58.73Mb","server":"195.154.200.150","type":"ss","country":"🇫🇷FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"2022.07.17_Relay_🇬🇧GB-🇬🇧GB_53 |349.10Mb","server":"jgwld4.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"58d32c66-43b1-4561-9951-d87c9123774e","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.17_Relay_🇬🇧GB-🇬🇧GB_54 |295.81Mb","server":"jgwld2.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"d7fd8aaa-4581-4281-80aa-4b63e5e1f157","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.17_Relay_🇬🇧GB-🇬🇧GB_56 |294.81Mb","server":"jgwld1.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.17_Relay_🇳🇱NL-🇳🇱NL_86 |230.93Mb","server":"youtube-bai-piao-wang-zhe.nl.884899.cf","type":"trojan","country":"🇳🇱NL","port":41196,"password":"94afcc56-cc1c-4cd4-8c82-1215cd052795","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.17_Relay_🇷🇺RU-🇷🇺RU_89 |57.04Mb","server":"usa23.884899.cf","type":"trojan","country":"🇷🇺RU","port":443,"password":"3df66137-a428-429c-a858-8b150721b354","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.17_Relay_🇸🇬SG-🇸🇬SG_90 |30.99Mb","server":"sg-02.licom.ml","type":"trojan","country":"🇸🇬SG","port":8443,"password":"ce433528-39fa-4711-bc0d-25a5b1579574","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.17_Relay_🇸🇬SG-🇸🇬SG_94 |30.76Mb","server":"trojan3.udpgw.com","type":"trojan","country":"🇸🇬SG","port":443,"password":"8db1b560-019d-11ed-8bdf-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.17_Relay_🇸🇬SG-🇸🇬SG_95 |30.00Mb","server":"sg-03.licom.ml","type":"trojan","country":"🇸🇬SG","port":8443,"password":"ce433528-39fa-4711-bc0d-25a5b1579574","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.17_🇺🇸US_105 |42.17Mb","server":"5.188.0.151","type":"ss","country":"🇺🇸US","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
