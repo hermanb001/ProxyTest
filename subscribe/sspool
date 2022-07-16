@@ -33,6 +33,7 @@ proxies:
 - {"name":"2022.07.16_🇳🇱NL_670 |55.93Mb","server":"213.183.59.211","type":"ssr","country":"🇳🇱NL","port":9079,"password":"TPqX8edgbAURcAMb","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
 - {"name":"2022.07.16_🇷🇺RU_703 |51.59Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9084,"password":"c3NtHJ5ujV2tGDfj","cipher":"aes-256-cfb"}
 - {"name":"2022.07.16_🇷🇺RU_704 |50.88Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9057,"password":"wjTugX3ZtHMB9c3Z","cipher":"aes-256-cfb"}
+- {"name":"2022.07.16_🇺🇸 US_851 |82.58Mb","server":"b-t.us.hyperlinkvpn.xyz","type":"trojan","country":"🇺🇸 US","port":50500,"password":"dacbc926-ea36-4be2-9f52-f343d353a2de","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.16_🇺🇸US_862 |156.52Mb","server":"162.251.61.221","type":"ss","country":"🇺🇸US","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.16_🇺🇸US_875 |53.57Mb","server":"167.88.63.82","type":"ss","country":"🇺🇸US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
 - {"name":"2022.07.16_🇺🇸US_987 |52.06Mb","server":"38.107.226.49","type":"ss","country":"🇺🇸US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
