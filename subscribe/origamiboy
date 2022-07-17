@@ -25,6 +25,7 @@ proxies:
 - {"name":"2022.07.17_ |25.39Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9042,"password":"S7KwUu7yBy58S3Ga","cipher":"aes-256-cfb"}
 - {"name":"2022.07.17_🇳🇱NL_88 |10.04Mb","server":"213.183.59.229","type":"ss","country":"🇳🇱NL","port":9079,"password":"TPqX8edgbAURcAMb","cipher":"aes-256-cfb"}
 - {"name":"2022.07.17_Pool_🇳🇱NL_89 |11.58Mb","server":"85.208.108.93","type":"ss","country":"🇳🇱NL","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"2022.07.17_🇳🇱NL_90 |12.74Mb","server":"213.183.59.229","type":"ss","country":"🇳🇱NL","port":9007,"password":"kSPmvwdFzGMMW5pY","cipher":"aes-256-cfb"}
 - {"name":"2022.07.17_Relay_ |238.37Mb","server":"youtube-bai-piao-wang-zhe.nl.884899.cf","type":"trojan","country":"🇳🇱NL","port":41196,"password":"94afcc56-cc1c-4cd4-8c82-1215cd052795","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.17_ |120.35Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9084,"password":"c3NtHJ5ujV2tGDfj","cipher":"aes-256-cfb"}
 - {"name":"2022.07.17_ |123.94Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9053,"password":"SBM7R883jBmnqe6C","cipher":"aes-256-cfb"}
