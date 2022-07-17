@@ -21,3 +21,4 @@ proxies:
 - {"name":"2022.07.17_Relay_🇺🇸US-🇺🇸US_144 |87.96Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.17_Relay_🇺🇸US-🇺🇸US_147 |66.57Mb","server":"b-t.us.hyperlinkvpn.xyz","type":"trojan","country":"🇺🇸US","port":50500,"password":"dacbc926-ea36-4be2-9f52-f343d353a2de","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.17_Relay_🇺🇸US-🇺🇸US_148 |33.87Mb","server":"listener.freetrade.link","type":"trojan","country":"🇺🇸US","port":443,"password":"Z9TS0AeB8S5ZlpFNRea3aypDaXISOyzY67xCO33lF4gKq38jw2uDEnDYRCCxAc","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.17_Relay_🇺🇸US-🇺🇸US_154 |31.57Mb","server":"v5.tgfaka.com","type":"trojan","country":"🇺🇸US","port":48443,"password":"00b19c02-bc00-440a-a397-faf70ac3f44e","skip-cert-verify":true,"udp":true}
