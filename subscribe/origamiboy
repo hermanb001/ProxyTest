@@ -2,6 +2,7 @@ proxies:
 - {"name":"2022.07.20_🇨🇦CA_07 |32.87Mb","server":"138.197.166.205","type":"ss","country":"🇨🇦CA","port":811,"password":"Ultr@r00t_2017","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.20_🇨🇦CA_08 |25.91Mb","server":"72.140.224.195","type":"ss","country":"🇨🇦CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.20_🇨🇦CA_09 |26.00Mb","server":"72.140.224.195","type":"ss","country":"🇨🇦CA","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.20_🇩🇪DE_63 |89.03Mb","server":"52.58.249.78","type":"ss","country":"🇩🇪DE","port":57824,"password":"pryhyxya","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.20_🇫🇷FR_64 |57.88Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
 - {"name":"2022.07.20_🇫🇷FR_65 |58.99Mb","server":"195.154.200.150","type":"ss","country":"🇫🇷FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
 - {"name":"2022.07.20_Relay_🇫🇷FR-🇫🇷FR_66 |170.01Mb","server":"51.195.35.134","type":"vmess","country":"🇫🇷FR","port":443,"uuid":"9f58234c-355b-4065-ae21-d4a63099aba5","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/273213070933","servername":"www.98272029.xyz","ws-headers":{"HOST":"www.98272029.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
