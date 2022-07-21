@@ -58,3 +58,4 @@ proxies:
 - {"name":"2022.07.22_Relay_🇺🇸US-🇺🇸US_147 |36.18Mb","server":"jgwhdlb3.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"006baa3f-4bc3-4915-b60d-c8c5dae11a11","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.22_Relay_🇺🇸US-🇺🇸US_148 |30.97Mb","server":"fhcamd1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"e23f408a-012e-4030-8b31-02022031cb50","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.22_Relay_🇺🇸US-🇺🇸US_149 |32.96Mb","server":"fhcamd2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.22_🏁ZZ_153 |43.58Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
