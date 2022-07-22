@@ -39,6 +39,7 @@ proxies:
 - {"name":"2022.07.22_Relay_ |45.99Mb","server":"jgwxn3.gaox.ml","type":"trojan","country":"🇦🇺AU","port":443,"password":"cb43b7c2-b744-41c5-bcc2-fd7467b332cf","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.22_🇨🇦CA_241 |65.36Mb","server":"51.79.166.171","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.07.22_🇨🇦CA_257 |20.96Mb","server":"51.79.241.247","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.07.22_Relay_ |35.78Mb","server":"zz6.91js.pw","type":"trojan","country":"🇨🇳CN","port":10051,"password":"a13820c547fa34c5c45515c12f0cd576","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.22_🇩🇪DE_381 |23.50Mb","server":"162.55.231.78","type":"ssr","country":"🇩🇪DE","port":443,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-128-ctr","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth"}
 - {"name":"2022.07.22_Relay_ |320.24Mb","server":"s4.hazz.win","type":"trojan","country":"🇩🇪DE","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.22_🇫🇷FR_389 |23.46Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
