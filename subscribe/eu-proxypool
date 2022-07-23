@@ -27,3 +27,9 @@ proxies:
 - {"name":"2022.07.23_Relay_🇺🇸US-🇺🇸US_88 |33.94Mb","server":"fhcamd2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.23_Relay_🇺🇸US-🇺🇸US_91 |34.03Mb","server":"fhcamd1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"e23f408a-012e-4030-8b31-02022031cb50","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.23_Relay_🇺🇸US-🇺🇸US_93 |34.15Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.23_Relay_🇺🇸US-🇺🇸US_95 |35.07Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.23_Relay_🇺🇸US-🇺🇸US_97 |36.24Mb","server":"trus.moonfree.top","type":"trojan","country":"🇺🇸US","port":443,"password":"4863e1b2-ec2f-4c71-b862-ce533028e57e","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.23_Relay_🇺🇸US-🇺🇸US_99 |34.97Mb","server":"lsj02.wangxd.life","type":"trojan","country":"🇺🇸US","port":3052,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.23_Relay_🇺🇸US-🇺🇸US_103 |35.41Mb","server":"jgwhdlb1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"e05c749b-7c6b-41b8-9c71-9dcf685edf4a","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.23_🏁ZZ_105 |43.60Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"2022.07.23_🏁ZZ_106 |43.98Mb","server":"134.195.198.95","type":"ss","country":"🏁ZZ","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
