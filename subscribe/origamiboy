@@ -48,7 +48,11 @@ proxies:
 - {"name":"2022.07.25_🇷🇺RU_95 |13.37Mb","server":"45.144.176.135","type":"ss","country":"🇷🇺RU","port":3001,"password":"qazplmn1236547dr42q","cipher":"aes-256-cfb"}
 - {"name":"2022.07.25_🇷🇺RU_96 |86.02Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9064,"password":"cp8pRSUAyLhTfVWH","cipher":"aes-256-cfb"}
 - {"name":"2022.07.25_🇷🇺RU_97 |103.75Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9040,"password":"p9z5BVADH2YFs3MN","cipher":"aes-256-cfb"}
+- {"name":"2022.07.25_🇷🇺RU_98 |38.26Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9038,"password":"gYCYXfkUQEs2TaJQ","cipher":"aes-256-cfb"}
+- {"name":"2022.07.25_🇷🇺RU_99 |36.51Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9045,"password":"Lp27rqyJq72bZsqX","cipher":"aes-256-cfb"}
+- {"name":"2022.07.25_🇷🇺RU_100 |33.77Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9037,"password":"TN2YqghxeFDKZfLU","cipher":"aes-256-cfb"}
 - {"name":"2022.07.25_🇷🇺RU_102 |94.64Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9011,"password":"M3t2ZEQcMGRWBjRa","cipher":"aes-256-cfb"}
+- {"name":"2022.07.25_🇷🇺RU_103 |98.63Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9097,"password":"Sn5B7jTqr76aCJT8","cipher":"aes-256-cfb"}
 - {"name":"2022.07.25_🇷🇺RU_105 |29.06Mb","server":"195.133.53.192","type":"vmess","country":"🇷🇺RU","port":43688,"uuid":"bd1c8b57-0a9e-4e9f-a261-48e90c871e41","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"YouTube-aweikeji","ws-headers":{"HOST":"YouTube-aweikeji"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.07.25_Relay_🇸🇬SG-🇸🇬SG_108 |30.60Mb","server":"sg-01.licom.ml","type":"trojan","country":"🇸🇬SG","port":8443,"password":"ce433528-39fa-4711-bc0d-25a5b1579574","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.25_Relay_🇸🇬SG-🇸🇬SG_109 |29.90Mb","server":"s4.hazz.win","type":"trojan","country":"🇸🇬SG","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
