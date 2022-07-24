@@ -164,6 +164,7 @@ proxies:
 - {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_1310 |56.77Mb","server":"wireless.starspace.link","type":"trojan","country":"🇺🇸US","port":443,"password":"5LN8SGTqxk336nFg","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_1311 |62.47Mb","server":"silicon.starspace.link","type":"trojan","country":"🇺🇸US","port":443,"password":"4ZPDeqJ6g766UKDJ","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_1312 |72.75Mb","server":"s1.hazz.win","type":"trojan","country":"🇺🇸US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_1316 |62.81Mb","server":"storage.starspace.link","type":"trojan","country":"🇺🇸US","port":443,"password":"W8gVbKNAZlFzgGPn","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_1318 |75.14Mb","server":"trus.moonfree.top","type":"trojan","country":"🇺🇸US","port":443,"password":"4863e1b2-ec2f-4c71-b862-ce533028e57e","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_1323 |84.68Mb","server":"fhcamd1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"e23f408a-012e-4030-8b31-02022031cb50","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_1336 |90.71Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
