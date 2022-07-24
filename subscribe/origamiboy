@@ -133,6 +133,10 @@ proxies:
 - {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_223 |34.52Mb","server":"jgwhdlb1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"e05c749b-7c6b-41b8-9c71-9dcf685edf4a","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_225 |35.22Mb","server":"jgwhdlb3.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"006baa3f-4bc3-4915-b60d-c8c5dae11a11","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_226 |33.38Mb","server":"fhcamd2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_229 |36.24Mb","server":"rooms.starspace.link","type":"trojan","country":"🇺🇸US","port":443,"password":"5HfENR8nt2PR8reH","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_230 |34.96Mb","server":"silicon.starspace.link","type":"trojan","country":"🇺🇸US","port":443,"password":"4ZPDeqJ6g766UKDJ","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_231 |36.27Mb","server":"wireless.starspace.link","type":"trojan","country":"🇺🇸US","port":443,"password":"5LN8SGTqxk336nFg","skip-cert-verify":true,"udp":true}
+- {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_232 |36.43Mb","server":"storage.starspace.link","type":"trojan","country":"🇺🇸US","port":443,"password":"W8gVbKNAZlFzgGPn","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_234 |13.65Mb","server":"s3.hazz.win","type":"trojan","country":"🇺🇸US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.24_Relay_🇺🇸US-🇺🇸US_236 |33.44Mb","server":"fhcamd1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"e23f408a-012e-4030-8b31-02022031cb50","skip-cert-verify":true,"udp":true}
 - {"name":"2022.07.24_🏁ZZ_237 |17.93Mb","server":"134.195.196.231","type":"ss","country":"🏁ZZ","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
