@@ -37,13 +37,12 @@ proxies:
 - {"name":"2022.07.26_🇷🇴RO_671 |225.78Mb","server":"91.193.6.66","type":"ss","country":"🇷🇴RO","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.07.26_🇷🇺RU_679 |50.07Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺RU","port":9026,"password":"QWDDvVE9npNurQfA","cipher":"aes-256-cfb"}
 - {"name":"2022.07.26_🇷🇺RU_685 |50.07Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺RU","port":9079,"password":"TPqX8edgbAURcAMb","cipher":"aes-256-cfb"}
-- {"name":"2022.07.26_🇷🇺RU_728 |50.19Mb","server":"217.30.10.67","type":"ss","country":"🇷🇺RU","port":9031,"password":"BwcAUZk8hUFAkDGN","cipher":"aes-256-cfb"}
 - {"name":"2022.07.26_🇷🇺RU_763 |52.66Mb","server":"217.30.10.67","type":"ss","country":"🇷🇺RU","port":9001,"password":"UkXRsXvR6buDMG2Y","cipher":"aes-256-cfb"}
+- {"name":"2022.07.26_🇷🇺RU_768 |109.30Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
 - {"name":"2022.07.26_🇷🇺RU_795 |51.74Mb","server":"217.30.10.67","type":"ss","country":"🇷🇺RU","port":9059,"password":"9XwYyZsK8SNzQDtY","cipher":"aes-256-cfb"}
-- {"name":"2022.07.26_🇷🇺RU_798 |50.41Mb","server":"217.30.10.67","type":"ss","country":"🇷🇺RU","port":9041,"password":"U6qnYRhfyDmn8sgn","cipher":"aes-256-cfb"}
-- {"name":"2022.07.26_🇺🇸US_884 |140.72Mb","server":"193.37.252.210","type":"ss","country":"🇺🇸US","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"2022.07.26_🇺🇸US_885 |152.87Mb","server":"193.37.252.210","type":"ss","country":"🇺🇸US","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"2022.07.26_🇺🇸US_978 |54.15Mb","server":"38.68.135.19","type":"ss","country":"🇺🇸US","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"2022.07.26_🇺🇸US_878 |52.56Mb","server":"167.88.61.2","type":"ss","country":"🇺🇸US","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.26_🇺🇸US_884 |166.09Mb","server":"193.37.252.210","type":"ss","country":"🇺🇸US","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.26_🇺🇸US_885 |160.23Mb","server":"193.37.252.210","type":"ss","country":"🇺🇸US","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.26_🇺🇸US_1045 |84.89Mb","server":"38.91.107.225","type":"ss","country":"🇺🇸US","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.26_🇺🇸US_1047 |118.16Mb","server":"162.251.61.47","type":"ss","country":"🇺🇸US","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.26_🇺🇸US_1094 |56.41Mb","server":"38.107.226.146","type":"ss","country":"🇺🇸US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
@@ -53,7 +52,7 @@ proxies:
 - {"name":"2022.07.26_🇺🇸US_1321 |128.37Mb","server":"162.251.61.221","type":"ss","country":"🇺🇸US","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.26_🇺🇸US_1325 |139.16Mb","server":"193.37.252.210","type":"ss","country":"🇺🇸US","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.26_🇺🇸US_1327 |137.58Mb","server":"193.37.252.210","type":"ss","country":"🇺🇸US","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"2022.07.26_🇺🇸US_1328 |77.68Mb","server":"38.91.107.225","type":"ss","country":"🇺🇸US","port":802,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.07.26_🇺🇸US_1328 |88.51Mb","server":"38.91.107.225","type":"ss","country":"🇺🇸US","port":802,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.26_🇺🇸US_1329 |83.12Mb","server":"38.91.107.225","type":"ss","country":"🇺🇸US","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.26_🇺🇸US_1331 |150.92Mb","server":"193.37.252.210","type":"ss","country":"🇺🇸US","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.07.26_🇺🇸US_1366 |118.77Mb","server":"usa-dallas.lvuft.com","type":"vmess","country":"🇺🇸US","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"usa-dallas.lvuft.com","ws-headers":{"HOST":"usa-dallas.lvuft.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
