@@ -29,7 +29,9 @@ proxies:
 - {"name":"2022.08.01_🇷🇺RU_839 |51.03Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺RU","port":9008,"password":"y9VURyNzJWNRYEGQ","cipher":"aes-256-cfb"}
 - {"name":"2022.08.01_🇷🇺RU_852 |50.98Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺RU","port":9040,"password":"p9z5BVADH2YFs3MN","cipher":"aes-256-cfb"}
 - {"name":"2022.08.01_🇺🇸 US_919 |79.69Mb","server":"v56.topman8849.cc","type":"vmess","country":"🇺🇸 US","port":41332,"uuid":"fbe6b485-7c09-371e-9ad0-0b41b433a0ab","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","servername":"paydiu.com","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.08.01_🇺🇸 US_922 |78.69Mb","server":"us01.henet.cyou","type":"trojan","country":"🇺🇸 US","port":30001,"password":"2d000c47-7db5-4bc1-97c3-a3df763adbeb","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.01_🇺🇸 US_925 |58.70Mb","server":"l2-us-h.cmy-dns.com","type":"trojan","country":"🇺🇸 US","port":443,"password":"2ea88b58-2e6e-3839-923a-83543fa9c61dcmynw","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.01_🇺🇸 US_926 |72.27Mb","server":"us02.henet.cyou","type":"trojan","country":"🇺🇸 US","port":30000,"password":"2d000c47-7db5-4bc1-97c3-a3df763adbeb","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.01_🇺🇸US_982 |56.86Mb","server":"38.107.226.146","type":"ss","country":"🇺🇸US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.08.01_🇺🇸US_990 |107.51Mb","server":"38.75.136.102","type":"ss","country":"🇺🇸US","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
 - {"name":"2022.08.01_🇺🇸US_1000 |79.47Mb","server":"38.68.134.135","type":"ss","country":"🇺🇸US","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
