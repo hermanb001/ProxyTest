@@ -68,3 +68,13 @@ proxies:
 - {"name":"2022.08.03_🇨🇦CA_149 |24.05Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":803,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.03_🇨🇦CA_150 |24.95Mb","server":"72.140.224.195","type":"ss","country":"🇨🇦CA","port":803,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.03_🇨🇦CA_151 |25.16Mb","server":"72.140.224.195","type":"ss","country":"🇨🇦CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.03_🇨🇭CH_191 |191.97Mb","server":"37.120.213.230","type":"ss","country":"🇨🇭CH","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.08.03_🇩🇪DE_242 |44.42Mb","server":"93.186.201.124","type":"ss","country":"🇩🇪DE","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.03_🇩🇪DE_243 |21.00Mb","server":"93.186.201.124","type":"ss","country":"🇩🇪DE","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.03_🇩🇪DE_244 |47.39Mb","server":"193.108.118.36","type":"ss","country":"🇩🇪DE","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"2022.08.03_🇩🇪DE_245 |60.45Mb","server":"193.108.117.24","type":"ss","country":"🇩🇪DE","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"2022.08.03_🇩🇪DE_246 |30.96Mb","server":"193.108.118.36","type":"ss","country":"🇩🇪DE","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"2022.08.03_🇩🇪DE_247 |60.30Mb","server":"93.186.201.124","type":"ss","country":"🇩🇪DE","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.03_🇩🇪DE_248 |59.53Mb","server":"193.108.117.24","type":"ss","country":"🇩🇪DE","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"2022.08.03_🇩🇪DE_249 |34.76Mb","server":"193.108.117.75","type":"ss","country":"🇩🇪DE","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.08.03_🇩🇪DE_250 |43.80Mb","server":"193.108.118.34","type":"ss","country":"🇩🇪DE","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
