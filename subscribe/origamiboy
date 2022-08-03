@@ -460,6 +460,7 @@ proxies:
 - {"name":"2022.08.03_🇷🇺RU_775 |52.10Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺RU","port":9042,"password":"S7KwUu7yBy58S3Ga","cipher":"aes-256-cfb"}
 - {"name":"2022.08.03_🇷🇺RU_776 |41.56Mb","server":"217.30.10.67","type":"ss","country":"🇷🇺RU","port":9098,"password":"aLpQtfEZe445QyHk","cipher":"aes-256-cfb"}
 - {"name":"2022.08.03_🇷🇺RU_781 |98.13Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺RU","port":9061,"password":"4R3hUfZ2FHhDmNcP","cipher":"aes-256-cfb"}
+- {"name":"2022.08.03_Relay_🇺🇦UA-🇺🇦UA_841 |19.20Mb","server":"ce.rutracker-cn.com","type":"trojan","country":"🇺🇦UA","port":443,"password":"5y8y3CwxRVYhyfSY","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.03_🇺🇸US_842 |14.19Mb","server":"167.88.62.68","type":"ss","country":"🇺🇸US","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
 - {"name":"2022.08.03_🇺🇸US_843 |13.26Mb","server":"167.88.63.79","type":"ss","country":"🇺🇸US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
 - {"name":"2022.08.03_🇺🇸US_844 |34.54Mb","server":"38.68.134.191","type":"ss","country":"🇺🇸US","port":8009,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
@@ -952,6 +953,7 @@ proxies:
 - {"name":"2022.08.03_🇺🇸US_1353 |31.05Mb","server":"38.75.136.102","type":"ss","country":"🇺🇸US","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
 - {"name":"2022.08.03_🇺🇸US_1354 |45.40Mb","server":"142.202.48.52","type":"ss","country":"🇺🇸US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
 - {"name":"2022.08.03_🇺🇸US_1355 |31.87Mb","server":"51.81.223.19","type":"vmess","country":"🇺🇸US","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.08.03_🇺🇸US_1357 |35.16Mb","server":"192.3.124.36","type":"vmess","country":"🇺🇸US","port":29585,"uuid":"d7f58c5e-e9cc-487f-c721-52cb79b96ac7","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.08.03_🇺🇸US_1358 |52.74Mb","server":"107.173.250.129","type":"vmess","country":"🇺🇸US","port":15686,"uuid":"665c9c4e-b26d-49aa-a75b-520d53948dd8","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.08.03_Relay_🇺🇸US-🇺🇸US_1359 |71.17Mb","server":"vfly9.win","type":"vmess","country":"🇺🇸US","port":443,"uuid":"838be9ed-d7a8-4da1-b067-b95d2a8782f5","alterId":10,"cipher":"auto","network":"ws","ws-path":"/myblog","servername":"vfly9.win","ws-headers":{"HOST":"vfly9.win"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.08.03_🇺🇸US_1360 |34.62Mb","server":"51.81.223.36","type":"vmess","country":"🇺🇸US","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp","ws-path":"/v1252N93nZez6Py","servername":"YouTube-aweikeji","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
