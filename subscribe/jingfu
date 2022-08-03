@@ -46,6 +46,13 @@ proxies:
 - {"name":"2022.08.03_ |75.10Mb","server":"51.79.223.96","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.08.03_ |25.07Mb","server":"51.79.166.171","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.08.03_ |156.97Mb","server":"51.79.157.58","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.08.03_Relay_ |32.65Mb","server":"14.29.124.174","type":"ss","country":"🇨🇳CN","port":11018,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"2022.08.03_Relay_ |26.46Mb","server":"14.29.124.168","type":"ss","country":"🇨🇳CN","port":24007,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"2022.08.03_ |25.35Mb","server":"117.28.242.156","type":"vmess","country":"🇨🇳CN","port":2164,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"sxqxj.cn","ws-headers":{"HOST":"sxqxj.cn"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.08.03_Relay_ |23.47Mb","server":"sxqxj.cn","type":"vmess","country":"🇨🇳CN","port":2164,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"sxqxj.cn","ws-headers":{"HOST":"sxqxj.cn"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.08.03_Relay_ |43.32Mb","server":"hk-hkg-sh-hk-02-tr.cdn.savoy.click","type":"trojan","country":"🇨🇳CN","port":21089,"password":"RrtlDxQADjwemQkcYGqJHPcSjDtXIuHn","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.03_Relay_ |38.54Mb","server":"cm.spacez.cloud","type":"trojan","country":"🇨🇳CN","port":30003,"password":"c9a3a61d-5d49-4158-9e60-6fa32684b122","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.03_Relay_ |35.78Mb","server":"zz6.91js.pw","type":"trojan","country":"🇨🇳CN","port":10051,"password":"a13820c547fa34c5c45515c12f0cd576","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.03_Relay_ |31.05Mb","server":"s4.hazz.win","type":"trojan","country":"🇩🇪DE","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.03_ |21.60Mb","server":"51.195.217.22","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.08.03_ |21.67Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}

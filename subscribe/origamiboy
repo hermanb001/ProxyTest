@@ -468,6 +468,7 @@ proxies:
 - {"name":"2022.08.03_🇷🇺RU_792 |56.54Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺RU","port":9008,"password":"y9VURyNzJWNRYEGQ","cipher":"aes-256-cfb"}
 - {"name":"2022.08.03_🇷🇺RU_807 |17.26Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺RU","port":9037,"password":"TN2YqghxeFDKZfLU","cipher":"aes-256-cfb"}
 - {"name":"2022.08.03_🇷🇺RU_809 |30.44Mb","server":"195.133.53.192","type":"vmess","country":"🇷🇺RU","port":14369,"uuid":"2331affa-1194-45ae-9457-3746120c4751","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"195.133.53.192","ws-headers":{"HOST":"195.133.53.192"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.08.03_Relay_🇸🇬SG-🇸🇬SG_841 |19.82Mb","server":"simpang.freetrade.link","type":"trojan","country":"🇸🇬SG","port":443,"password":"XEyN0OZ28xxCDO7C83DeAa3YcSjYKTgFA5n9IRpFwuB3qSz4aZClSapy3eRl6D","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.03_Relay_🇺🇦UA-🇺🇦UA_864 |19.20Mb","server":"ce.rutracker-cn.com","type":"trojan","country":"🇺🇦UA","port":443,"password":"5y8y3CwxRVYhyfSY","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.03_🇺🇸US_868 |18.20Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸US","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
 - {"name":"2022.08.03_🇺🇸US_869 |57.74Mb","server":"172.99.190.87","type":"ss","country":"🇺🇸US","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
