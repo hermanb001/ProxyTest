@@ -39,8 +39,9 @@ proxies:
 - {"name":"2022.08.04_🇳🇱NL_711 |55.38Mb","server":"185.246.155.35","type":"ss","country":"🇳🇱NL","port":9070,"password":"bf7v334KKDV3YDhH","cipher":"aes-256-cfb"}
 - {"name":"2022.08.04_🇳🇱NL_712 |56.94Mb","server":"213.183.59.211","type":"ssr","country":"🇳🇱NL","port":9079,"password":"TPqX8edgbAURcAMb","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
 - {"name":"2022.08.04_🇳🇱NL_713 |88.07Mb","server":"fhcamd1.gaox.ml","type":"trojan","country":"🇳🇱NL","port":443,"password":"e23f408a-012e-4030-8b31-02022031cb50","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.04_🇷🇺RU_757 |50.92Mb","server":"217.30.10.67","type":"ss","country":"🇷🇺RU","port":9025,"password":"XPtzA9sCug3SPR4c","cipher":"aes-256-cfb"}
 - {"name":"2022.08.04_🇷🇺RU_770 |50.07Mb","server":"217.30.10.68","type":"ss","country":"🇷🇺RU","port":9098,"password":"aLpQtfEZe445QyHk","cipher":"aes-256-cfb"}
-- {"name":"2022.08.04_🇺🇸US_1016 |112.67Mb","server":"162.251.61.221","type":"ss","country":"🇺🇸US","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.04_🇺🇸US_1016 |140.10Mb","server":"162.251.61.221","type":"ss","country":"🇺🇸US","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.04_🇺🇸US_1122 |65.18Mb","server":"38.68.134.196","type":"ss","country":"🇺🇸US","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.04_🇺🇸US_1123 |107.97Mb","server":"162.251.61.221","type":"ss","country":"🇺🇸US","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.04_🇺🇸US_1270 |93.69Mb","server":"38.68.134.135","type":"ss","country":"🇺🇸US","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
