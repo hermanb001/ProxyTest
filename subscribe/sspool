@@ -24,6 +24,8 @@ proxies:
 - {"name":"2022.08.05_🇳🇱NL_661 |59.66Mb","server":"185.246.155.35","type":"ss","country":"🇳🇱NL","port":9070,"password":"bf7v334KKDV3YDhH","cipher":"aes-256-cfb"}
 - {"name":"2022.08.05_🇳🇱NL_689 |57.83Mb","server":"213.183.59.211","type":"ssr","country":"🇳🇱NL","port":9079,"password":"TPqX8edgbAURcAMb","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
 - {"name":"2022.08.05_🇳🇱NL_700 |61.83Mb","server":"fhcamd1.gaox.ml","type":"trojan","country":"🇳🇱NL","port":443,"password":"e23f408a-012e-4030-8b31-02022031cb50","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.05_🇺🇸 US_907 |71.72Mb","server":"74.120.169.165","type":"trojan","country":"🇺🇸 US","port":443,"password":"Ll419801","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.05_🇺🇸 US_908 |77.40Mb","server":"104.168.144.215","type":"trojan","country":"🇺🇸 US","port":443,"password":"srGSKqR5Fv","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.05_🇺🇸 US_910 |57.58Mb","server":"150.230.23.0","type":"trojan","country":"🇺🇸 US","port":44616,"password":"dbdd4673-06e7-4a53-adb7-aa4232df529e","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.05_🇺🇸US_989 |79.65Mb","server":"199.115.228.30","type":"ss","country":"🇺🇸US","port":253,"password":"bwhskrskr05","cipher":"aes-256-cfb"}
 - {"name":"2022.08.05_🇺🇸US_1003 |55.81Mb","server":"38.107.226.238","type":"ss","country":"🇺🇸US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
@@ -57,3 +59,4 @@ proxies:
 - {"name":"2022.08.05_🇺🇸US_1484 |93.97Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.05_🇺🇸US_1500 |72.66Mb","server":"s3.hazz.win","type":"trojan","country":"🇺🇸US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.05_🇺🇸US_1502 |64.54Mb","server":"lsj02.wangxd.life","type":"trojan","country":"🇺🇸US","port":3052,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.05_🏁 ZZ_1518 |110.55Mb","server":"209.209.9.149","type":"trojan","country":"🏁 ZZ","port":46539,"password":"2Q74kEsaZq","skip-cert-verify":true,"udp":true}
