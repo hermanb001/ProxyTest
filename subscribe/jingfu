@@ -32,6 +32,8 @@ proxies:
 - {"name":"2022.08.07_Relay_ |49.60Mb","server":"jgwxn4.gaox.ml","type":"trojan","country":"🇦🇺AU","port":443,"password":"e8c1ab3c-89b3-4933-92df-682e6dce7819","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.07_Relay_ |48.28Mb","server":"jgwxn2.gaox.ml","type":"trojan","country":"🇦🇺AU","port":443,"password":"c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.07_🇨🇦CA_249 |26.05Mb","server":"51.79.166.171","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.08.07_Relay_ |42.32Mb","server":"14.29.124.174","type":"ss","country":"🇨🇳CN","port":11050,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"2022.08.07_Relay_ |24.57Mb","server":"sxqxj.cn","type":"vmess","country":"🇨🇳CN","port":2164,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"sxqxj.cn","ws-headers":{"HOST":"sxqxj.cn"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.08.07_🇩🇪DE_415 |20.35Mb","server":"193.108.118.34","type":"ss","country":"🇩🇪DE","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
 - {"name":"2022.08.07_Relay_ |332.23Mb","server":"s4.hazz.win","type":"trojan","country":"🇩🇪DE","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.07_🇫🇷FR_433 |30.42Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
@@ -60,6 +62,7 @@ proxies:
 - {"name":"2022.08.07_ |45.18Mb","server":"146.56.118.227","type":"vmess","country":"🇯🇵JP","port":2052,"uuid":"448a9087-28f3-4fe4-fa49-36c912e0f498","alterId":0,"cipher":"auto","network":"ws","ws-path":"/update","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.08.07_🇯🇵JP_556 |22.31Mb","server":"146.56.167.249","type":"vmess","country":"🇯🇵JP","port":41954,"uuid":"0a1d4a77-7cd3-488a-cb62-ddda2d8dea3a","alterId":64,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.08.07_ |35.33Mb","server":"168.138.50.96","type":"vmess","country":"🇯🇵JP","port":54696,"uuid":"7bd1a172-2f4d-40c9-9f24-1cfe89a27a9a","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.08.07_Relay_🇯🇵JP-🇯🇵JP_572 |51.78Mb","server":"trs07.bolab.net","type":"trojan","country":"🇯🇵JP","port":443,"password":"6990ca1bdccb0de3d9a0c5640634e29c","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.07_Relay_🇯🇵JP |32.59Mb","server":"jgwdb4.gaox.ml","type":"trojan","country":"🇯🇵JP","port":443,"password":"d06a3f01-1ff0-4792-9b8e-a5a604bc74a2","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.07_Relay_🇯🇵JP |29.82Mb","server":"jgwdb3.gaox.ml","type":"trojan","country":"🇯🇵JP","port":443,"password":"8d2d5953-d649-4034-94f2-72f2df2623da","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.07_🇱🇹LT_584 |23.63Mb","server":"213.183.63.217","type":"ss","country":"🇱🇹LT","port":9000,"password":"a3GFYt36Sm82Vys9","cipher":"aes-256-cfb"}
