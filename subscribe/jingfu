@@ -40,6 +40,8 @@ proxies:
 - {"name":"2022.08.10_Relay_ |48.17Mb","server":"jgwxn4.gaox.ml","type":"trojan","country":"🇦🇺AU","port":443,"password":"e8c1ab3c-89b3-4933-92df-682e6dce7819","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.10_🇨🇦CA_266 |36.53Mb","server":"51.79.166.171","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.08.10_ |46.27Mb","server":"51.79.223.96","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.08.10_Relay_ |141.95Mb","server":"ingress-i1.onebox6.org","type":"vmess","country":"🇨🇳CN","port":38701,"uuid":"79386685-16da-327c-9e14-aa6d702d86bc","alterId":1,"cipher":"auto","network":"ws","ws-path":"/hls/cctv5phd.m3u8","servername":"ingress-i1.onebox6.org","ws-headers":{"HOST":"ingress-i1.onebox6.org"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.08.10_Relay_ |43.32Mb","server":"hk-hkg-sh-hk-02-tr.cdn.savoy.click","type":"trojan","country":"🇨🇳CN","port":21089,"password":"RrtlDxQADjwemQkcYGqJHPcSjDtXIuHn","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.10_🇩🇪DE_413 |23.09Mb","server":"49.12.203.80","type":"ss","country":"🇩🇪DE","port":40960,"password":"6kA7b3f9Aw2508erQ3W7D4","cipher":"aes-256-gcm"}
 - {"name":"2022.08.10_Relay_ |438.14Mb","server":"s4.hazz.win","type":"trojan","country":"🇩🇪DE","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.10_🇫🇷FR_439 |21.29Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
