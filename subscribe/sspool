@@ -15,3 +15,4 @@ proxies:
 - {"name":"2022.08.10_🇫🇷FR_405 |54.09Mb","server":"192.248.181.2","type":"vmess","country":"🇫🇷FR","port":443,"uuid":"611bbdbb-1138-4797-8d9f-f92f595b7c7e","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"mket.shoopcider.com","ws-headers":{"HOST":"mket.shoopcider.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.08.10_🇬🇧GB_433 |65.86Mb","server":"jgwld2.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"d7fd8aaa-4581-4281-80aa-4b63e5e1f157","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.10_🇬🇧GB_437 |64.04Mb","server":"jgwld3.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"71b55a84-3fac-4458-abff-eaad79219c91","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.10_🇱🇹LT_515 |111.77Mb","server":"213.183.63.221","type":"ss","country":"🇱🇹LT","port":9064,"password":"cp8pRSUAyLhTfVWH","cipher":"aes-256-cfb"}
