@@ -1,2 +1,8 @@
 proxies:
-- {"name":"2022.08.10_NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"2022.08.10__03 |194.66Mb","server":"51.161.118.38","type":"ss","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.10__05 |180.16Mb","server":"51.161.118.38","type":"ss","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.10__15 |176.89Mb","server":"51.161.118.38","type":"ss","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.10__19 |112.22Mb","server":"162.251.61.47","type":"ss","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.10__20 |153.62Mb","server":"51.161.118.38","type":"ss","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.10__21 |284.21Mb","server":"217.30.10.63","type":"ss","port":9056,"udp":true,"password":"rNBfNuuANFCAk7KB","cipher":"aes-256-cfb"}
+- {"name":"2022.08.10__23 |93.22Mb","server":"129.146.133.157","type":"vmess","port":51009,"uuid":"81714cef-9bde-4a08-aa50-d6bc0172d78b","alterId":0,"cipher":"auto","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
