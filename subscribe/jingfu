@@ -38,6 +38,7 @@ proxies:
 - {"name":"2022.08.10_🇨🇦CA_251 |62.12Mb","server":"51.79.223.96","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.08.10_🇨🇦CA_252 |136.83Mb","server":"51.79.157.58","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.08.10_🇨🇦CA_254 |42.01Mb","server":"51.79.166.171","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.08.10_ |29.64Mb","server":"117.28.242.156","type":"vmess","country":"🇨🇳CN","port":2164,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"sxqxj.cn","ws-headers":{"HOST":"sxqxj.cn"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.08.10_Relay_🇩🇪DE-🇸🇬SG_416 |310.38Mb","server":"s4.hazz.win","type":"trojan","country":"🇩🇪DE","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.10_🇫🇷FR_421 |26.88Mb","server":"54.36.174.181","type":"ss","country":"🇫🇷FR","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
 - {"name":"2022.08.10_🇫🇷FR_427 |20.04Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
