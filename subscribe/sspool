@@ -14,3 +14,10 @@ proxies:
 - {"name":"2022.08.12_🇨🇦CA_187 |60.87Mb","server":"138.197.166.205","type":"ss","country":"🇨🇦CA","port":811,"password":"Ultr@r00t_2017","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.12_🇨🇦CA_188 |74.83Mb","server":"51.161.118.38","type":"ss","country":"🇨🇦CA","port":812,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.12_🇨🇭CH_231 |50.62Mb","server":"37.120.213.230","type":"ss","country":"🇨🇭CH","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.08.12_🇫🇷FR_360 |68.93Mb","server":"51.195.136.209","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.08.12_🇫🇷FR_374 |54.84Mb","server":"5.188.93.79","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.08.12_🇫🇷FR_383 |70.02Mb","server":"62.210.213.6","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.08.12_🇫🇷FR_412 |61.54Mb","server":"51.195.217.22","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.08.12_🇫🇷FR_421 |54.85Mb","server":"192.248.181.2","type":"vmess","country":"🇫🇷FR","port":443,"uuid":"611bbdbb-1138-4797-8d9f-f92f595b7c7e","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"mket.shoopcider.com","ws-headers":{"HOST":"mket.shoopcider.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.08.12_🇫🇷FR_422 |55.58Mb","server":"mket.shoopcider.com","type":"vmess","country":"🇫🇷FR","port":443,"uuid":"611bbdbb-1138-4797-8d9f-f92f595b7c7e","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"mket.shoopcider.com","ws-headers":{"HOST":"mket.shoopcider.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.08.12_🇭🇰HK_457 |152.54Mb","server":"148.66.56.99","type":"ss","country":"🇭🇰HK","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
