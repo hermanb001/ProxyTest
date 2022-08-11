@@ -9,3 +9,8 @@ proxies:
 - {"name":"2022.08.12__36 |61.80Mb","server":"213.183.59.229","type":"ss","port":9050,"udp":true,"password":"FG5ddLsMPbV5CutE","cipher":"aes-256-cfb"}
 - {"name":"2022.08.12__37 |74.15Mb","server":"23.230.146.254","type":"vmess","port":1258,"uuid":"edeb41cc-a76a-47f2-fa96-b9141e66a2b0","alterId":0,"cipher":"auto","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.08.12__38 |100.27Mb","server":"129.146.133.157","type":"vmess","port":51009,"uuid":"81714cef-9bde-4a08-aa50-d6bc0172d78b","alterId":0,"cipher":"auto","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.08.12_🇧🇬BG_165 |59.75Mb","server":"83.150.217.62","type":"trojan","country":"🇧🇬BG","port":44612,"password":"dbdd4673-06e7-4a53-adb7-aa4232df529e","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.12_🇨🇦CA_174 |61.06Mb","server":"38.111.114.246","type":"ss","country":"🇨🇦CA","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"2022.08.12_🇨🇦CA_187 |60.87Mb","server":"138.197.166.205","type":"ss","country":"🇨🇦CA","port":811,"password":"Ultr@r00t_2017","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.12_🇨🇦CA_188 |74.83Mb","server":"51.161.118.38","type":"ss","country":"🇨🇦CA","port":812,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.12_🇨🇭CH_231 |50.62Mb","server":"37.120.213.230","type":"ss","country":"🇨🇭CH","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
