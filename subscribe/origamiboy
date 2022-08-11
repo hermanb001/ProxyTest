@@ -1,7 +1,4 @@
 proxies:
-- {"name":"2022.08.11_🇦🇺AU_02 |10.11Mb","server":"185.167.116.253","type":"ss","country":"🇦🇺AU","port":9050,"password":"FG5ddLsMPbV5CutE","cipher":"aes-256-cfb"}
-- {"name":"2022.08.11_🇦🇺AU_04 |10.25Mb","server":"185.167.116.253","type":"ss","country":"🇦🇺AU","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
-- {"name":"2022.08.11_🇨🇦CA_06 |16.66Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.11_ |34.02Mb","server":"138.197.166.205","type":"ss","country":"🇨🇦CA","port":811,"password":"Ultr@r00t_2017","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.11_🇨🇦CA_12 |19.73Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.11_🇨🇦CA_13 |11.83Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
