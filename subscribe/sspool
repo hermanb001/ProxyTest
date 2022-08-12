@@ -10,10 +10,13 @@ proxies:
 - {"name":"2022.08.13_🇨🇦CA_163 |135.41Mb","server":"51.161.118.38","type":"ss","country":"🇨🇦CA","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.13_🇨🇦CA_164 |84.88Mb","server":"51.161.118.38","type":"ss","country":"🇨🇦CA","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.13_🇨🇭CH_209 |52.46Mb","server":"37.120.213.230","type":"ss","country":"🇨🇭CH","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
-- {"name":"2022.08.13_🇫🇷FR_386 |68.74Mb","server":"51.195.217.22","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
-- {"name":"2022.08.13_🇫🇷FR_398 |60.79Mb","server":"62.210.213.6","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
-- {"name":"2022.08.13_🇬🇧GB_476 |63.85Mb","server":"jgwld2.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"d7fd8aaa-4581-4281-80aa-4b63e5e1f157","skip-cert-verify":true,"udp":true}
-- {"name":"2022.08.13_🇬🇧GB_479 |65.40Mb","server":"jgwld3.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"71b55a84-3fac-4458-abff-eaad79219c91","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.13_🇫🇷FR_386 |72.35Mb","server":"51.195.217.22","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.08.13_🇫🇷FR_389 |53.23Mb","server":"51.195.136.209","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.08.13_🇫🇷FR_398 |58.63Mb","server":"62.210.213.6","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.08.13_🇫🇷FR_448 |52.07Mb","server":"mket.shoopcider.com","type":"vmess","country":"🇫🇷FR","port":443,"uuid":"611bbdbb-1138-4797-8d9f-f92f595b7c7e","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"mket.shoopcider.com","ws-headers":{"HOST":"mket.shoopcider.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.08.13_🇫🇷FR_449 |50.74Mb","server":"192.248.181.2","type":"vmess","country":"🇫🇷FR","port":443,"uuid":"611bbdbb-1138-4797-8d9f-f92f595b7c7e","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"mket.shoopcider.com","ws-headers":{"HOST":"mket.shoopcider.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.08.13_🇬🇧GB_476 |65.00Mb","server":"jgwld2.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"d7fd8aaa-4581-4281-80aa-4b63e5e1f157","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.13_🇬🇧GB_479 |65.36Mb","server":"jgwld3.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"71b55a84-3fac-4458-abff-eaad79219c91","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.13_🇳🇱NL_786 |66.74Mb","server":"51.15.0.113","type":"ss","country":"🇳🇱NL","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_🇷🇺RU_922 |50.31Mb","server":"217.30.10.67","type":"ss","country":"🇷🇺RU","port":9079,"password":"TPqX8edgbAURcAMb","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_🇺🇸 US_1014 |58.12Mb","server":"38.107.226.49","type":"ss","country":"🇺🇸 US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
