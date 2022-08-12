@@ -22,6 +22,7 @@ proxies:
 - {"name":"2022.08.13_🇷🇴RO_639 |270.49Mb","server":"91.193.6.66","type":"ss","country":"🇷🇴RO","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_🇷🇺RU_649 |52.39Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9040,"password":"p9z5BVADH2YFs3MN","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_🇷🇺RU_672 |50.16Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9043,"password":"HSZuyJQcWe8dxNdF","cipher":"aes-256-cfb"}
+- {"name":"2022.08.13_🇷🇺RU_675 |52.09Mb","server":"217.30.10.66","type":"ss","country":"🇷🇺RU","port":9027,"password":"EXN3S3eQpjE7EJu8","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_🇷🇺RU_689 |286.90Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9038,"password":"gYCYXfkUQEs2TaJQ","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_🇷🇺RU_694 |50.49Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺RU","port":9040,"password":"p9z5BVADH2YFs3MN","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_🇷🇺RU_696 |51.47Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺RU","port":9026,"password":"QWDDvVE9npNurQfA","cipher":"aes-256-cfb"}
