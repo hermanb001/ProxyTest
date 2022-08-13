@@ -37,10 +37,13 @@ proxies:
 - {"name":"2022.08.13_ |387.19Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9010,"password":"f63gg8EruDnUrmz4","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_Relay_ |58.52Mb","server":"185.4.65.6","type":"ss","country":"🇷🇺RU","port":21247,"password":"vDS9G2p","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_ |19.35Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9084,"password":"c3NtHJ5ujV2tGDfj","cipher":"aes-256-cfb"}
+- {"name":"2022.08.13_🇷🇺RU_134 |12.46Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9011,"password":"M3t2ZEQcMGRWBjRa","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_ |20.31Mb","server":"45.144.176.135","type":"ss","country":"🇷🇺RU","port":3004,"password":"3682oiuvefwwmbc1475","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_ |41.96Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺RU","port":9010,"password":"f63gg8EruDnUrmz4","cipher":"aes-256-cfb"}
+- {"name":"2022.08.13_🇷🇺RU_140 |11.41Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9025,"password":"XPtzA9sCug3SPR4c","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_ |20.34Mb","server":"45.144.176.135","type":"ss","country":"🇷🇺RU","port":3005,"password":"987.085wrcgrwqs36.985","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_ |13.12Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9045,"password":"Lp27rqyJq72bZsqX","cipher":"aes-256-cfb"}
+- {"name":"2022.08.13_🇷🇺RU_153 |20.77Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9000,"password":"a3GFYt36Sm82Vys9","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_ |13.77Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9057,"password":"wjTugX3ZtHMB9c3Z","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_ |12.44Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9041,"password":"U6qnYRhfyDmn8sgn","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_ |15.97Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9040,"password":"p9z5BVADH2YFs3MN","cipher":"aes-256-cfb"}
@@ -127,6 +130,7 @@ proxies:
 - {"name":"2022.08.13_Relay_ |34.24Mb","server":"usa-dallas.lvuft.com","type":"vmess","country":"🇺🇸US","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"usa-dallas.lvuft.com","ws-headers":{"HOST":"usa-dallas.lvuft.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.08.13_ |33.85Mb","server":"51.81.223.26","type":"vmess","country":"🇺🇸US","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":0,"cipher":"auto","ws-path":"/","servername":"51.81.223.26","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.08.13_Relay_ |17.70Mb","server":"ahdaeph8.com","type":"vmess","country":"🇺🇸US","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"ahdaeph8.com","ws-headers":{"HOST":"ahdaeph8.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.08.13_🇺🇸US_267 |20.24Mb","server":"23.230.146.254","type":"vmess","country":"🇺🇸US","port":1258,"uuid":"edeb41cc-a76a-47f2-fa96-b9141e66a2b0","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.08.13_ |29.70Mb","server":"143.110.224.127","type":"vmess","country":"🇺🇸US","port":48919,"uuid":"5f57a91d-e94f-4bb7-fa85-55886a3e3387","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.08.13_ |29.99Mb","server":"51.81.223.10","type":"vmess","country":"🇺🇸US","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":0,"cipher":"auto","ws-path":"/","servername":"51.81.223.10","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.08.13_Pool_ |40.89Mb","server":"45.35.84.162","type":"vmess","country":"🇺🇸US","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"usa-dallas.lvuft.com","ws-headers":{"HOST":"usa-dallas.lvuft.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
