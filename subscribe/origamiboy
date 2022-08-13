@@ -43,6 +43,7 @@ proxies:
 - {"name":"2022.08.13_🇷🇺RU_151 |20.34Mb","server":"45.144.176.135","type":"ss","country":"🇷🇺RU","port":3005,"password":"987.085wrcgrwqs36.985","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_Relay_🇷🇺RU-🇷🇺RU_154 |58.52Mb","server":"185.4.65.6","type":"ss","country":"🇷🇺RU","port":21247,"password":"vDS9G2p","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_🇷🇺RU_155 |20.31Mb","server":"45.144.176.135","type":"ss","country":"🇷🇺RU","port":3004,"password":"3682oiuvefwwmbc1475","cipher":"aes-256-cfb"}
+- {"name":"2022.08.13_🇷🇺RU_157 |25.27Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9003,"password":"JdmRK9gMEqFgs8nP","cipher":"aes-256-cfb"}
 - {"name":"2022.08.13_🇷🇺RU_158 |21.18Mb","server":"195.133.53.192","type":"vmess","country":"🇷🇺RU","port":43688,"uuid":"bd1c8b57-0a9e-4e9f-a261-48e90c871e41","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"YouTube-aweikeji","ws-headers":{"HOST":"YouTube-aweikeji"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.08.13_Relay_🇷🇺RU-🇷🇺RU_159 |12.17Mb","server":"t04.ssrsub.com","type":"trojan","country":"🇷🇺RU","port":852,"password":"f1da490c-b4ea-490f-9b5e-15620751414c","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.13_Relay_🇸🇬SG-🇸🇬SG_163 |29.18Mb","server":"cmi.doubledou.win","type":"trojan","country":"🇸🇬SG","port":40025,"password":"7484d7c8-b010-373e-9c2a-2b9d20f8c963","skip-cert-verify":true,"udp":true}
