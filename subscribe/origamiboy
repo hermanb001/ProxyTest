@@ -32,6 +32,7 @@ proxies:
 - {"name":"2022.08.16_🇱🇹LT_140 |75.20Mb","server":"213.183.53.177","type":"ss","country":"🇱🇹LT","port":9000,"password":"a3GFYt36Sm82Vys9","cipher":"aes-256-cfb"}
 - {"name":"2022.08.16_🇱🇹LT_141 |10.50Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9084,"password":"c3NtHJ5ujV2tGDfj","cipher":"aes-256-cfb"}
 - {"name":"2022.08.16_🇱🇹LT_142 |78.49Mb","server":"213.183.53.177","type":"ss","country":"🇱🇹LT","port":9084,"password":"c3NtHJ5ujV2tGDfj","cipher":"aes-256-cfb"}
+- {"name":"2022.08.16_🇱🇹LT_143 |26.48Mb","server":"213.183.53.222","type":"ss","country":"🇱🇹LT","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
 - {"name":"2022.08.16_Pool_🇳🇱NL_147 |10.46Mb","server":"85.208.108.94","type":"ss","country":"🇳🇱NL","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.08.16_Pool_🇳🇱NL_148 |10.50Mb","server":"85.208.108.21","type":"ss","country":"🇳🇱NL","port":5600,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.08.16_🇳🇱NL_149 |11.39Mb","server":"85.208.108.18","type":"ss","country":"🇳🇱NL","port":7001,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
@@ -55,6 +56,7 @@ proxies:
 - {"name":"2022.08.16_Pool_🇳🇱NL_179 |11.44Mb","server":"85.208.108.21","type":"ss","country":"🇳🇱NL","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.08.16_Pool_🇳🇱NL_182 |11.63Mb","server":"85.208.108.21","type":"ss","country":"🇳🇱NL","port":7001,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
 - {"name":"2022.08.16_Pool_🇳🇱NL_183 |11.54Mb","server":"85.208.108.21","type":"ss","country":"🇳🇱NL","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"2022.08.16_🇳🇱NL_184 |20.44Mb","server":"213.183.59.229","type":"ss","country":"🇳🇱NL","port":9010,"password":"f63gg8EruDnUrmz4","cipher":"aes-256-cfb"}
 - {"name":"2022.08.16_Pool_🇳🇱NL_188 |10.60Mb","server":"85.208.108.21","type":"ss","country":"🇳🇱NL","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
 - {"name":"2022.08.16_🇳🇱NL_190 |19.26Mb","server":"213.183.59.229","type":"ss","country":"🇳🇱NL","port":9019,"password":"GA9KzeEgvfxNrgmM","cipher":"aes-256-cfb"}
 - {"name":"2022.08.16_Pool_🇳🇱NL_192 |11.33Mb","server":"85.208.108.21","type":"ss","country":"🇳🇱NL","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
@@ -160,6 +162,7 @@ proxies:
 - {"name":"2022.08.16_🇺🇸US_347 |17.22Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
 - {"name":"2022.08.16_🇺🇸US_348 |10.55Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸US","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
 - {"name":"2022.08.16_🇺🇸US_349 |10.77Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸US","port":8009,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+- {"name":"2022.08.16_Relay_🇺🇸US-🇺🇸US_350 |49.40Mb","server":"erqi.live","type":"vmess","country":"🇺🇸US","port":443,"uuid":"7caa244f-37f1-4b0c-cc12-0c2d392d4f6a","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"erqi.live","ws-headers":{"HOST":"erqi.live"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.08.16_🇺🇸US_351 |10.71Mb","server":"152.69.197.60","type":"vmess","country":"🇺🇸US","port":1069,"uuid":"ac8e26fe-8150-4b60-ae64-82fc77eba2cf","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.08.16_Pool_🇺🇸US_352 |40.42Mb","server":"45.35.84.162","type":"vmess","country":"🇺🇸US","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"usa-dallas.lvuft.com","ws-headers":{"HOST":"usa-dallas.lvuft.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.08.16_🇺🇸US_353 |10.92Mb","server":"51.81.223.32","type":"vmess","country":"🇺🇸US","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
