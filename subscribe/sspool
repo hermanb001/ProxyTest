@@ -18,6 +18,7 @@ proxies:
 - {"name":"2022.08.18_🇳🇱NL_659 |68.70Mb","server":"51.15.0.113","type":"ss","country":"🇳🇱NL","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}
 - {"name":"2022.08.18_🇳🇱NL_668 |62.60Mb","server":"185.246.155.35","type":"ss","country":"🇳🇱NL","port":9038,"password":"gYCYXfkUQEs2TaJQ","cipher":"aes-256-cfb"}
 - {"name":"2022.08.18_🇳🇱NL_732 |60.60Mb","server":"185.246.155.35","type":"ss","country":"🇳🇱NL","port":9070,"password":"bf7v334KKDV3YDhH","cipher":"aes-256-cfb"}
+- {"name":"2022.08.18_🇷🇴RO_782 |52.26Mb","server":"185.126.116.119","type":"ss","country":"🇷🇴RO","port":9094,"password":"rpgbNnU9rDDU4aWZ","cipher":"aes-256-cfb"}
 - {"name":"2022.08.18_🇷🇴RO_783 |264.67Mb","server":"91.193.6.66","type":"ss","country":"🇷🇴RO","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.08.18_🇷🇴RO_797 |71.29Mb","server":"v2iijjp1.doubledou.win","type":"trojan","country":"🇷🇴RO","port":11445,"password":"7484d7c8-b010-373e-9c2a-2b9d20f8c963","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.18_🇹🇼TW_935 |86.14Mb","server":"v2tw3.doubledou.win","type":"trojan","country":"🇹🇼TW","port":4598,"password":"7484d7c8-b010-373e-9c2a-2b9d20f8c963","skip-cert-verify":true,"udp":true}
