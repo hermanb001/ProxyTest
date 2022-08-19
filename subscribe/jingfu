@@ -19,6 +19,7 @@ proxies:
 - {"name":"2022.08.19_Relay_🇦🇺AU-🇦🇺AU_156 |46.18Mb","server":"jgwxn2.gaox.ml","type":"trojan","country":"🇦🇺AU","port":443,"password":"c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.19_Relay_🇦🇺AU-🇦🇺AU_162 |50.50Mb","server":"jgwxn4.gaox.ml","type":"trojan","country":"🇦🇺AU","port":443,"password":"e8c1ab3c-89b3-4933-92df-682e6dce7819","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.19_🇨🇦CA_177 |54.91Mb","server":"51.79.241.247","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.08.19_Relay_ |197.19Mb","server":"hk-hkg-sh-hk-02-tr.cdn.savoy.click","type":"trojan","country":"🇨🇳CN","port":21089,"password":"kFyvvCcvMXQKFcJZWuxcdTZOFummlVbf","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.19_🇩🇪DE_309 |28.24Mb","server":"49.12.203.80","type":"ss","country":"🇩🇪DE","port":40960,"password":"6kA7b3f9Aw2508erQ3W7D4","cipher":"aes-256-gcm"}
 - {"name":"2022.08.19_Relay_ |503.98Mb","server":"s4.hazz.win","type":"trojan","country":"🇩🇪DE","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.19_Relay_🇩🇪DE-🇩🇪DE_354 |33.70Mb","server":"gerv2.doubledou.win","type":"trojan","country":"🇩🇪DE","port":8080,"password":"7484d7c8-b010-373e-9c2a-2b9d20f8c963","skip-cert-verify":true,"udp":true}
