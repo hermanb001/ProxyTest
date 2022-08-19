@@ -15,3 +15,11 @@ proxies:
 - {"name":"2022.08.19_🇨🇭CH_187 |51.25Mb","server":"37.120.213.230","type":"ss","country":"🇨🇭CH","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.08.19_🇫🇷FR_299 |61.94Mb","server":"51.195.136.209","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.08.19_🇫🇷FR_315 |59.08Mb","server":"51.195.217.22","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.08.19_🇱🇹LT_451 |51.45Mb","server":"213.183.63.221","type":"ss","country":"🇱🇹LT","port":9003,"password":"JdmRK9gMEqFgs8nP","cipher":"aes-256-cfb"}
+- {"name":"2022.08.19_🇱🇹LT_467 |50.10Mb","server":"213.183.63.221","type":"ss","country":"🇱🇹LT","port":9006,"password":"FAdUvMJUq5vDgKEq","cipher":"aes-256-cfb"}
+- {"name":"2022.08.19_🇱🇹LT_516 |50.84Mb","server":"213.183.63.221","type":"ss","country":"🇱🇹LT","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
+- {"name":"2022.08.19_🇱🇹LT_518 |50.02Mb","server":"213.183.63.221","type":"ss","country":"🇱🇹LT","port":9070,"password":"bf7v334KKDV3YDhH","cipher":"aes-256-cfb"}
+- {"name":"2022.08.19_🇱🇹LT_531 |51.14Mb","server":"213.183.63.221","type":"ss","country":"🇱🇹LT","port":9020,"password":"BNmAXXxAHYpTRdzu","cipher":"aes-256-cfb"}
+- {"name":"2022.08.19_🇳🇱NL_570 |57.83Mb","server":"213.183.51.172","type":"ss","country":"🇳🇱NL","port":9088,"password":"f8npKgNzdkss2ytn","cipher":"aes-256-cfb"}
+- {"name":"2022.08.19_🇳🇱NL_571 |60.44Mb","server":"185.246.155.35","type":"ss","country":"🇳🇱NL","port":9038,"password":"gYCYXfkUQEs2TaJQ","cipher":"aes-256-cfb"}
+- {"name":"2022.08.19_🇳🇱NL_595 |63.00Mb","server":"51.15.0.113","type":"ss","country":"🇳🇱NL","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}
