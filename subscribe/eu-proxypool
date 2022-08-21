@@ -1,6 +1,7 @@
 proxies:
 - {"name":"2022.08.21_ |36.97Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.21_ |35.42Mb","server":"138.197.166.205","type":"ss","country":"🇨🇦CA","port":811,"password":"Ultr@r00t_2017","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.21_Relay_ |70.79Mb","server":"hk-hkg-sh-hk-02-tr.cdn.savoy.click","type":"trojan","country":"🇨🇳CN","port":21089,"password":"kFyvvCcvMXQKFcJZWuxcdTZOFummlVbf","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.21_ |59.55Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
 - {"name":"2022.08.21_ |60.43Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.08.21_ |59.90Mb","server":"195.154.200.150","type":"ss","country":"🇫🇷FR","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
