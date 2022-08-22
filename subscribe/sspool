@@ -24,3 +24,4 @@ proxies:
 - {"name":"2022.08.23_🇺🇸US_927 |53.30Mb","server":"37.120.219.218","type":"ss","country":"🇺🇸US","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.23_🇺🇸US_937 |54.95Mb","server":"38.68.135.239","type":"ss","country":"🇺🇸US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
 - {"name":"2022.08.23_🇺🇸US_957 |65.58Mb","server":"167.88.63.79","type":"ss","country":"🇺🇸US","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"2022.08.23_🇺🇸US_972 |100.38Mb","server":"162.251.61.221","type":"ss","country":"🇺🇸US","port":802,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
