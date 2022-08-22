@@ -2,6 +2,7 @@ proxies:
 - {"name":"2022.08.23_Relay_🇦🇺AU-🇦🇺AU_05 |22.82Mb","server":"jgwxn4.gaox.ml","type":"trojan","country":"🇦🇺AU","port":443,"password":"e8c1ab3c-89b3-4933-92df-682e6dce7819","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.23_ |50.86Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.23_ |67.72Mb","server":"138.197.166.205","type":"ss","country":"🇨🇦CA","port":811,"password":"Ultr@r00t_2017","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.23_Relay_ |67.57Mb","server":"tw-tpe-h-tr.cdn.savoy.click","type":"trojan","country":"🇨🇳CN","port":10089,"password":"kFyvvCcvMXQKFcJZWuxcdTZOFummlVbf","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.23_ |43.10Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
 - {"name":"2022.08.23_ |43.37Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.08.23_ |45.51Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
