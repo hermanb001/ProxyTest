@@ -10,6 +10,7 @@ proxies:
 - {"name":"2022.08.23_🇫🇷FR_338 |63.84Mb","server":"51.195.217.22","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.08.23_🇬🇧 GB_374 |58.71Mb","server":"jgwld1.gaox.ml","type":"trojan","country":"🇬🇧 GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.23_🇳🇱NL_566 |61.81Mb","server":"185.246.155.23","type":"ss","country":"🇳🇱NL","port":9038,"password":"gYCYXfkUQEs2TaJQ","cipher":"aes-256-cfb"}
+- {"name":"2022.08.23_🇳🇱NL_582 |62.67Mb","server":"185.246.155.35","type":"ss","country":"🇳🇱NL","port":9070,"password":"bf7v334KKDV3YDhH","cipher":"aes-256-cfb"}
 - {"name":"2022.08.23_🇳🇱NL_602 |52.25Mb","server":"213.183.59.185","type":"ss","country":"🇳🇱NL","port":9040,"password":"p9z5BVADH2YFs3MN","cipher":"aes-256-cfb"}
 - {"name":"2022.08.23_🇳🇱NL_621 |67.15Mb","server":"51.15.0.113","type":"ss","country":"🇳🇱NL","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}
 - {"name":"2022.08.23_🇳🇱NL_678 |57.25Mb","server":"213.183.59.211","type":"ssr","country":"🇳🇱NL","port":9079,"password":"TPqX8edgbAURcAMb","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
@@ -58,3 +59,10 @@ proxies:
 - {"name":"2022.08.23_🇺🇸US_1410 |74.84Mb","server":"80.251.208.30","type":"vmess","country":"🇺🇸US","port":22223,"uuid":"5ce411c8-da98-44f5-ac1b-3b32ccdd8ce7","alterId":64,"cipher":"auto","network":"ws","ws-path":"/echo","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.08.23_🇺🇸US_1437 |56.61Mb","server":"s1.hazz.win","type":"trojan","country":"🇺🇸US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.23_🇺🇸US_1439 |64.89Mb","server":"s3.hazz.win","type":"trojan","country":"🇺🇸US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.23_🏁ZZ_1495 |57.86Mb","server":"134.195.198.95","type":"ss","country":"🏁ZZ","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"2022.08.23_🏁ZZ_1496 |58.17Mb","server":"134.195.198.95","type":"ss","country":"🏁ZZ","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"2022.08.23_🏁ZZ_1501 |58.15Mb","server":"134.195.198.95","type":"ss","country":"🏁ZZ","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"2022.08.23_🏁ZZ_1507 |61.43Mb","server":"134.195.198.95","type":"ss","country":"🏁ZZ","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"2022.08.23_🏁ZZ_1508 |60.45Mb","server":"134.195.198.95","type":"ss","country":"🏁ZZ","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"2022.08.23_🏁ZZ_1510 |58.38Mb","server":"134.195.198.95","type":"ss","country":"🏁ZZ","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"2022.08.23_🏁ZZ_1523 |60.47Mb","server":"134.195.198.95","type":"ss","country":"🏁ZZ","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
