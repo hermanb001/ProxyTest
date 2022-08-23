@@ -1,2 +1,11 @@
 proxies:
-- {"name":"2022.08.24_NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"2022.08.24_🇫🇷FR_16 |58.16Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"2022.08.24_🇫🇷FR_17 |60.35Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.08.24_🇫🇷FR_18 |60.04Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"2022.08.24_🇫🇷FR_19 |60.07Mb","server":"195.154.200.150","type":"ss","country":"🇫🇷FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"2022.08.24_🇫🇷FR_20 |60.08Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"2022.08.24_🇫🇷FR_21 |58.76Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"2022.08.24_🇬🇧GB_23 |31.31Mb","server":"185.167.78.193","type":"vmess","country":"🇬🇧GB","port":48986,"uuid":"51e663d5-bd0b-447c-d483-d7a8e27d157a","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.08.24_🇬🇧GB_27 |31.91Mb","server":"185.167.78.193","type":"vmess","country":"🇬🇧GB","port":47634,"uuid":"5cf637c0-04f2-4af4-c25b-6e467c14d496","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.08.24_🇱🇹LT_38 |70.27Mb","server":"213.183.53.222","type":"ss","country":"🇱🇹LT","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
+- {"name":"2022.08.24_Relay_🇷🇺RU-🇷🇺RU_44 |69.17Mb","server":"185.4.65.6","type":"ss","country":"🇷🇺RU","port":21247,"password":"vDS9G2p","cipher":"aes-256-cfb"}
