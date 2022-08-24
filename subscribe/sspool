@@ -15,6 +15,8 @@ proxies:
 - {"name":"2022.08.25_🇺🇸 US_806 |87.14Mb","server":"fhcamd2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.25_🇺🇸 US_807 |88.15Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.25_🇺🇸 US_815 |89.14Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.25_🇺🇸 US_817 |61.85Mb","server":"cne.cloudorg.uk","type":"trojan","country":"🇺🇸 US","port":2096,"password":"0f88c09d-0fd9-4e34-b3ad-8719e908d5d8","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.25_🇺🇸 US_818 |244.99Mb","server":"rbobosz.tk","type":"trojan","country":"🇺🇸 US","port":23868,"password":"gMVN7PbEX2","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.25_🇺🇸US_830 |107.15Mb","server":"193.37.252.210","type":"ss","country":"🇺🇸US","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.25_🇺🇸US_875 |108.47Mb","server":"193.37.252.210","type":"ss","country":"🇺🇸US","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.08.25_🇺🇸US_877 |107.46Mb","server":"193.37.252.210","type":"ss","country":"🇺🇸US","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
