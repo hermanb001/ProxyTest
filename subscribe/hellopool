@@ -27,3 +27,13 @@ proxies:
 - {"name":"2022.08.25_🇷🇺RU_661 |51.55Mb","server":"217.30.10.65","type":"ss","country":"🇷🇺RU","port":9025,"password":"XPtzA9sCug3SPR4c","cipher":"aes-256-cfb"}
 - {"name":"2022.08.25_🇷🇺RU_679 |51.53Mb","server":"217.30.10.68","type":"ss","country":"🇷🇺RU","port":9018,"password":"fG2artUmHfNT2cX7","cipher":"aes-256-cfb"}
 - {"name":"2022.08.25_🇺🇸US_817 |54.63Mb","server":"38.107.226.146","type":"ss","country":"🇺🇸US","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"2022.08.25_🇺🇸US_835 |56.25Mb","server":"38.107.226.146","type":"ss","country":"🇺🇸US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"2022.08.25_🇺🇸US_844 |56.54Mb","server":"38.107.226.146","type":"ss","country":"🇺🇸US","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"2022.08.25_🇺🇸US_865 |122.22Mb","server":"162.251.61.47","type":"ss","country":"🇺🇸US","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.25_🇺🇸US_875 |62.52Mb","server":"162.251.61.221","type":"ss","country":"🇺🇸US","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.25_🇺🇸US_919 |129.91Mb","server":"162.251.61.47","type":"ss","country":"🇺🇸US","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.25_🇺🇸US_920 |55.30Mb","server":"38.107.226.49","type":"ss","country":"🇺🇸US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"2022.08.25_🇺🇸US_942 |55.67Mb","server":"38.107.226.49","type":"ss","country":"🇺🇸US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.08.25_🇺🇸US_961 |56.30Mb","server":"38.107.226.238","type":"ss","country":"🇺🇸US","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"2022.08.25_🇺🇸US_968 |56.42Mb","server":"38.107.226.238","type":"ss","country":"🇺🇸US","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"2022.08.25_🇺🇸US_977 |58.47Mb","server":"38.107.226.49","type":"ss","country":"🇺🇸US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
