@@ -19,6 +19,7 @@ proxies:
 - {"name":"2022.08.25_🇳🇱NL_498 |55.69Mb","server":"213.183.59.185","type":"ss","country":"🇳🇱NL","port":9064,"password":"cp8pRSUAyLhTfVWH","cipher":"aes-256-cfb"}
 - {"name":"2022.08.25_🇳🇱NL_502 |69.37Mb","server":"51.15.0.113","type":"ss","country":"🇳🇱NL","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}
 - {"name":"2022.08.25_🇳🇱NL_504 |68.33Mb","server":"213.183.51.171","type":"ss","country":"🇳🇱NL","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
+- {"name":"2022.08.25_🇳🇱NL_522 |52.32Mb","server":"213.183.51.172","type":"ss","country":"🇳🇱NL","port":9005,"password":"ZET59LF6DvCC8KVt","cipher":"aes-256-cfb"}
 - {"name":"2022.08.25_🇳🇱NL_529 |54.03Mb","server":"213.183.51.171","type":"ss","country":"🇳🇱NL","port":9084,"password":"c3NtHJ5ujV2tGDfj","cipher":"aes-256-cfb"}
 - {"name":"2022.08.25_🇳🇱NL_562 |60.92Mb","server":"185.246.155.35","type":"ss","country":"🇳🇱NL","port":9070,"password":"bf7v334KKDV3YDhH","cipher":"aes-256-cfb"}
 - {"name":"2022.08.25_🇳🇱NL_575 |63.93Mb","server":"185.246.155.35","type":"ss","country":"🇳🇱NL","port":9045,"password":"Lp27rqyJq72bZsqX","cipher":"aes-256-cfb"}
