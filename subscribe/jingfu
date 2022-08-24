@@ -22,6 +22,11 @@ proxies:
 - {"name":"2022.08.25_Relay_ |66.03Mb","server":"51.79.166.171","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.08.25_ |42.45Mb","server":"51.79.223.96","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.08.25_Relay_🇨🇦CA-🇨🇦CA_132 |71.06Mb","server":"tw821.tfzhc.top","type":"trojan","country":"🇨🇦CA","port":443,"password":"c9db5351-b0ab-4ba0-bbe3-c02ff8eda6ec","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.25_Relay_ |43.84Mb","server":"14.29.124.174","type":"ss","country":"🇨🇳CN","port":11010,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"2022.08.25_Relay_ |57.66Mb","server":"iiiieeepppplll.zhengzhongfeizhu.xyz","type":"trojan","country":"🇨🇳CN","port":34001,"password":"177501cc-f0c2-3cc3-b9a7-8c1e8e27655f","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.25_Relay_ |43.41Mb","server":"cm.spacez.cloud","type":"trojan","country":"🇨🇳CN","port":30003,"password":"c9a3a61d-5d49-4158-9e60-6fa32684b122","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.25_Relay_ |90.83Mb","server":"tw-tpe-h-tr.cdn.savoy.click","type":"trojan","country":"🇨🇳CN","port":10089,"password":"kFyvvCcvMXQKFcJZWuxcdTZOFummlVbf","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.25_Relay_ |43.32Mb","server":"hk-hkg-sh-hk-02-tr.cdn.savoy.click","type":"trojan","country":"🇨🇳CN","port":21089,"password":"RrtlDxQADjwemQkcYGqJHPcSjDtXIuHn","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.25_🇩🇪DE_270 |31.13Mb","server":"49.12.203.80","type":"ss","country":"🇩🇪DE","port":40960,"password":"6kA7b3f9Aw2508erQ3W7D4","cipher":"aes-256-gcm"}
 - {"name":"2022.08.25_Relay_ |391.95Mb","server":"s4.hazz.win","type":"trojan","country":"🇩🇪DE","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.08.25_🇫🇷FR_280 |30.50Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
