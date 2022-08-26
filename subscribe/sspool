@@ -1,2 +1,12 @@
 proxies:
-- {"name":"2022.08.27_NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"2022.08.27_🇨🇦CA_08 |61.01Mb","server":"138.197.166.205","type":"ss","country":"🇨🇦CA","port":811,"password":"Ultr@r00t_2017","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.08.27_🇬🇧 GB_83 |62.84Mb","server":"jgwld1.gaox.ml","type":"trojan","country":"🇬🇧 GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.27_🇺🇸 US_172 |86.03Mb","server":"qoslsjws.hootfun.top","type":"trojan","country":"🇺🇸 US","port":25333,"password":"935f34c1-1713-402c-bfe1-f051cf49d370","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.27_🇺🇸 US_174 |88.88Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.27_🇺🇸 US_175 |91.05Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.27_🇺🇸 US_178 |89.79Mb","server":"fhcamd2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.27_🇺🇸 US_179 |81.55Mb","server":"fhcamd1.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"e23f408a-012e-4030-8b31-02022031cb50","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.27_🇺🇸 US_180 |82.82Mb","server":"lswjs.hootfun.top","type":"trojan","country":"🇺🇸 US","port":23561,"password":"935f34c1-1713-402c-bfe1-f051cf49d370","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.27_🇺🇸 US_183 |79.98Mb","server":"74.211.97.81","type":"trojan","country":"🇺🇸 US","port":50500,"password":"bd52a53f-b02c-4bcb-be6a-ac4fd85e5f14","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.27_🇺🇸 US_184 |65.84Mb","server":"s3.hazz.win","type":"trojan","country":"🇺🇸 US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.27_🇺🇸US_195 |52.17Mb","server":"38.121.43.97","type":"ss","country":"🇺🇸US","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
