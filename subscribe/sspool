@@ -1,3 +1,6 @@
 proxies:
-- {"name":"2022.08.31_🇨🇦CA_07 |59.50Mb","server":"38.111.114.246","type":"ss","country":"🇨🇦CA","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"2022.08.31_🇨🇦CA_07 |57.62Mb","server":"38.111.114.246","type":"ss","country":"🇨🇦CA","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
 - {"name":"2022.08.31_🇬🇧 GB_461 |60.09Mb","server":"jgwld1.gaox.ml","type":"trojan","country":"🇬🇧 GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
+- {"name":"2022.08.31_🇳🇱NL_520 |64.65Mb","server":"213.183.59.218","type":"ss","country":"🇳🇱NL","port":9043,"password":"HSZuyJQcWe8dxNdF","cipher":"aes-256-cfb"}
+- {"name":"2022.08.31_🇳🇱NL_532 |59.23Mb","server":"213.183.59.191","type":"ss","country":"🇳🇱NL","port":9073,"password":"daFYagqDdBdA6VTX","cipher":"aes-256-cfb"}
+- {"name":"2022.08.31_🇳🇱NL_536 |60.58Mb","server":"213.183.59.218","type":"ss","country":"🇳🇱NL","port":9070,"password":"bf7v334KKDV3YDhH","cipher":"aes-256-cfb"}
