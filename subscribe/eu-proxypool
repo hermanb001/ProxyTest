@@ -6,6 +6,7 @@ proxies:
 - {"name":"2022.08.30_ |58.59Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
 - {"name":"2022.08.30_ |33.17Mb","server":"185.225.69.134","type":"vmess","country":"🇭🇺HU","port":45081,"uuid":"3c3bfd75-dc30-4e76-8940-47e1137e21f9","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.08.30_ |71.43Mb","server":"213.183.53.222","type":"ss","country":"🇱🇹LT","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
+- {"name":"2022.08.30_🇳🇱NL_322 |91.78Mb","server":"213.183.59.218","type":"ss","country":"🇳🇱NL","port":9070,"password":"bf7v334KKDV3YDhH","cipher":"aes-256-cfb"}
 - {"name":"2022.08.30_🇷🇺RU_325 |47.35Mb","server":"195.133.197.254","type":"vmess","country":"🇷🇺RU","port":443,"uuid":"ba4b9133-5a39-4015-808b-bcfaaa8962a8","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","servername":"152.67.221.228","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.08.30_ |36.43Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
 - {"name":"2022.08.30_ |32.56Mb","server":"38.143.66.99","type":"ss","country":"🇺🇸US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
