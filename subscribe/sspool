@@ -9,6 +9,7 @@ proxies:
 - {"name":"2022.09.01_🇺🇸 US_672 |81.10Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.01_🇺🇸 US_674 |74.43Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.01_🇺🇸 US_675 |57.42Mb","server":"64.27.30.211","type":"trojan","country":"🇺🇸 US","port":14815,"password":"JDpCGXNLHq","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.01_🇺🇸 US_676 |70.95Mb","server":"s3.hazz.win","type":"trojan","country":"🇺🇸 US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.01_🇺🇸 US_677 |72.54Mb","server":"s1.hazz.win","type":"trojan","country":"🇺🇸 US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.01_🇺🇸 US_678 |82.11Mb","server":"fhcamd2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.01_🇺🇸US_690 |74.55Mb","server":"do.cloudorg.uk","type":"ss","country":"🇺🇸US","port":10365,"password":"9682edd6-89e6-4e6a-b31d-271089771d87","cipher":"chacha20-ietf-poly1305"}
