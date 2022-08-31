@@ -5,6 +5,7 @@ proxies:
 - {"name":"2022.09.01_ |44.38Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
 - {"name":"2022.09.01_ |45.25Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
 - {"name":"2022.09.01_ |43.74Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.09.01_🇳🇱NL_442 |51.81Mb","server":"213.183.59.218","type":"ss","country":"🇳🇱NL","port":9070,"password":"bf7v334KKDV3YDhH","cipher":"aes-256-cfb"}
 - {"name":"2022.09.01_Pool_ |32.09Mb","server":"85.208.108.93","type":"ss","country":"🇳🇱NL","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
 - {"name":"2022.09.01_Pool_ |32.28Mb","server":"85.208.108.19","type":"ss","country":"🇳🇱NL","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.09.01_Pool_ |32.04Mb","server":"85.208.108.93","type":"ss","country":"🇳🇱NL","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
