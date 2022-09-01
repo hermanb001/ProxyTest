@@ -1,2 +1,4 @@
 proxies:
-- {"name":"2022.09.02_NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"2022.09.02_🇦🇺 AU_01 |79.85Mb","server":"ttt1.swiftfalcon.app","type":"trojan","country":"🇦🇺 AU","port":8443,"password":"coldwar2","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.02_🇨🇦CA_07 |60.42Mb","server":"38.111.114.246","type":"ss","country":"🇨🇦CA","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"2022.09.02_🇨🇦CA_09 |63.65Mb","server":"138.197.166.205","type":"ss","country":"🇨🇦CA","port":811,"password":"Ultr@r00t_2017","cipher":"chacha20-ietf-poly1305"}
