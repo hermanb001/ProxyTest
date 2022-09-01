@@ -10,6 +10,7 @@ proxies:
 - {"name":"2022.09.02_🇳🇱NL_633 |52.64Mb","server":"213.183.59.218","type":"ss","country":"🇳🇱NL","port":9043,"password":"HSZuyJQcWe8dxNdF","cipher":"aes-256-cfb"}
 - {"name":"2022.09.02_🇳🇱NL_660 |55.11Mb","server":"213.183.59.214","type":"ssr","country":"🇳🇱NL","port":9000,"password":"a3GFYt36Sm82Vys9","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
 - {"name":"2022.09.02_🇷🇴RO_664 |52.87Mb","server":"185.126.116.125","type":"ssr","country":"🇷🇴RO","port":9033,"password":"UTJA57ypk2XKQpnm","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"2022.09.02_🇺🇸 US_698 |74.57Mb","server":"137.184.118.47","type":"vmess","country":"🇺🇸 US","port":51649,"uuid":"5d0b1709-5c3c-4073-fb3f-67251426571e","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.09.02_🇺🇸 US_700 |54.46Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.02_🇺🇸 US_703 |156.32Mb","server":"rbobosz.tk","type":"trojan","country":"🇺🇸 US","port":23868,"password":"gMVN7PbEX2","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.02_🇺🇸 US_704 |69.39Mb","server":"s3.hazz.win","type":"trojan","country":"🇺🇸 US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
