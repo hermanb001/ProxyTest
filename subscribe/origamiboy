@@ -157,3 +157,4 @@ proxies:
 - {"name":"2022.09.03_🏁ZZ_508 |14.54Mb","server":"103.172.116.6","type":"ss","country":"🏁ZZ","port":9037,"password":"TN2YqghxeFDKZfLU","cipher":"aes-256-cfb"}
 - {"name":"2022.09.03_🏁ZZ_509 |17.31Mb","server":"134.195.196.230","type":"ss","country":"🏁ZZ","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
 - {"name":"2022.09.03_🏁ZZ_510 |39.61Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"2022.09.03_🏁ZZ_514 |22.72Mb","server":"103.186.148.113","type":"vmess","country":"🏁ZZ","port":80,"uuid":"a479fc02-07c5-4864-8564-c4f147dfa488","alterId":0,"cipher":"auto","network":"ws","ws-path":"/shopvpn.net","servername":"frontier-i18n.tiktokv.com","ws-headers":{"HOST":"frontier-i18n.tiktokv.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
