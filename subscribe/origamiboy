@@ -15,6 +15,7 @@ proxies:
 - {"name":"2022.09.03_🇩🇪DE_145 |46.09Mb","server":"193.108.118.30","type":"ss","country":"🇩🇪DE","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
 - {"name":"2022.09.03_🇩🇪DE_146 |32.07Mb","server":"193.108.117.75","type":"ss","country":"🇩🇪DE","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.09.03_🇩🇪DE_147 |60.93Mb","server":"193.108.117.75","type":"ss","country":"🇩🇪DE","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"2022.09.03_Relay_🇩🇪DE-🇺🇸US_149 |173.75Mb","server":"ae.755657.xyz","type":"trojan","country":"🇩🇪DE","port":2053,"password":"d8182760-49e8-4e76-abb2-f3ed213f1f7e","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.03_🇫🇷FR_150 |28.97Mb","server":"51.38.112.84","type":"ss","country":"🇫🇷FR","port":44,"password":"instgram.com/openvpnssh","cipher":"aes-256-cfb"}
 - {"name":"2022.09.03_🇫🇷FR_151 |58.11Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
 - {"name":"2022.09.03_🇫🇷FR_152 |59.66Mb","server":"195.154.200.150","type":"ss","country":"🇫🇷FR","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
@@ -33,6 +34,7 @@ proxies:
 - {"name":"2022.09.03_🇱🇹LT_207 |11.64Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
 - {"name":"2022.09.03_🇱🇹LT_214 |10.56Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9000,"password":"a3GFYt36Sm82Vys9","cipher":"aes-256-cfb"}
 - {"name":"2022.09.03_🇱🇹LT_215 |12.34Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9097,"password":"Sn5B7jTqr76aCJT8","cipher":"aes-256-cfb"}
+- {"name":"2022.09.03_🇱🇹LT_217 |21.92Mb","server":"213.183.53.198","type":"ss","country":"🇱🇹LT","port":9057,"password":"wjTugX3ZtHMB9c3Z","cipher":"aes-256-cfb"}
 - {"name":"2022.09.03_🇱🇹LT_221 |29.19Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9059,"password":"9XwYyZsK8SNzQDtY","cipher":"aes-256-cfb"}
 - {"name":"2022.09.03_🇱🇹LT_223 |81.78Mb","server":"213.183.53.177","type":"ss","country":"🇱🇹LT","port":9000,"password":"a3GFYt36Sm82Vys9","cipher":"aes-256-cfb"}
 - {"name":"2022.09.03_🇱🇹LT_224 |10.57Mb","server":"213.183.53.198","type":"ss","country":"🇱🇹LT","port":9025,"password":"XPtzA9sCug3SPR4c","cipher":"aes-256-cfb"}
@@ -59,6 +61,7 @@ proxies:
 - {"name":"2022.09.03_Pool_🇳🇱NL_251 |10.60Mb","server":"85.208.108.20","type":"ss","country":"🇳🇱NL","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
 - {"name":"2022.09.03_🇳🇱NL_252 |51.86Mb","server":"213.183.59.214","type":"ssr","country":"🇳🇱NL","port":9000,"password":"a3GFYt36Sm82Vys9","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
 - {"name":"2022.09.03_🇳🇱NL_253 |15.39Mb","server":"213.183.59.211","type":"ssr","country":"🇳🇱NL","port":9064,"password":"cp8pRSUAyLhTfVWH","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+- {"name":"2022.09.03_Relay_🇳🇱NL-🇳🇱NL_254 |10.39Mb","server":"api.hostyunjp.frydipxian.top","type":"trojan","country":"🇳🇱NL","port":9018,"password":"97ea5c08e262acf366b3b973b91960cb","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.03_🇷🇴RO_255 |12.25Mb","server":"185.126.116.123","type":"ss","country":"🇷🇴RO","port":9000,"password":"a3GFYt36Sm82Vys9","cipher":"aes-256-cfb"}
 - {"name":"2022.09.03_🇷🇴RO_257 |111.92Mb","server":"185.126.116.125","type":"ssr","country":"🇷🇴RO","port":9033,"password":"UTJA57ypk2XKQpnm","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
 - {"name":"2022.09.03_🇷🇺RU_258 |35.39Mb","server":"91.206.92.176","type":"ss","country":"🇷🇺RU","port":35030,"password":"FCx0i7b33H9G","cipher":"chacha20-ietf-poly1305"}
@@ -169,6 +172,8 @@ proxies:
 - {"name":"2022.09.03_🇺🇸US_401 |35.63Mb","server":"51.81.223.22","type":"vmess","country":"🇺🇸US","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.09.03_Pool_🇺🇸US_402 |51.63Mb","server":"192.96.204.250","type":"vmess","country":"🇺🇸US","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"usa-washington.lvuft.com","ws-headers":{"HOST":"usa-washington.lvuft.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.09.03_🇺🇸US_403 |34.87Mb","server":"51.81.223.26","type":"vmess","country":"🇺🇸US","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":0,"cipher":"auto","ws-path":"/","servername":"51.81.223.26","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.09.03_🇺🇸US_418 |77.17Mb","server":"20.205.14.195","type":"trojan","country":"🇺🇸US","port":12377,"password":"6150c97e-ed9e-4759-9134-90aa5352d638","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.03_Relay_🇺🇸US-🇺🇸US_431 |64.86Mb","server":"ft.cloudorg.uk","type":"trojan","country":"🇺🇸US","port":2096,"password":"d8182760-49e8-4e76-abb2-f3ed213f1f7e","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.03_Relay_🇺🇸US-🇺🇸US_479 |33.58Mb","server":"fhcamd1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"e23f408a-012e-4030-8b31-02022031cb50","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.03_🏁ZZ_540 |36.70Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
 - {"name":"2022.09.03_🏁ZZ_541 |17.03Mb","server":"134.195.196.231","type":"ss","country":"🏁ZZ","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
@@ -180,3 +185,4 @@ proxies:
 - {"name":"2022.09.03_🏁ZZ_548 |17.31Mb","server":"134.195.196.230","type":"ss","country":"🏁ZZ","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
 - {"name":"2022.09.03_🏁ZZ_549 |39.61Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
 - {"name":"2022.09.03_🏁ZZ_551 |22.72Mb","server":"103.186.148.113","type":"vmess","country":"🏁ZZ","port":80,"uuid":"a479fc02-07c5-4864-8564-c4f147dfa488","alterId":0,"cipher":"auto","network":"ws","ws-path":"/shopvpn.net","servername":"frontier-i18n.tiktokv.com","ws-headers":{"HOST":"frontier-i18n.tiktokv.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.09.03_Relay_🏁ZZ-🇺🇸US_553 |18.99Mb","server":"cc.755657.xyz","type":"trojan","country":"🏁ZZ","port":443,"password":"d8182760-49e8-4e76-abb2-f3ed213f1f7e","skip-cert-verify":true,"udp":true}
