@@ -27,6 +27,7 @@ proxies:
 - {"name":"2022.09.04_ |191.05Mb","server":"51.79.157.58","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.09.04_ |31.44Mb","server":"51.79.166.171","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.09.04_ |102.76Mb","server":"527hk1.fans8.xyz","type":"vmess","country":"🇨🇦CA","port":443,"uuid":"2cc10f9c-fb02-3e45-b619-c3b98cde912a","alterId":2,"cipher":"auto","network":"ws","ws-path":"/ray","servername":"527hk1.fans8.xyz","ws-headers":{"HOST":"527hk1.fans8.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.09.04_ |35.78Mb","server":"zz6.91js.pw","type":"trojan","country":"🇨🇳CN","port":10051,"password":"a13820c547fa34c5c45515c12f0cd576","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.04_ |22.26Mb","server":"s4.hazz.win","type":"trojan","country":"🇩🇪DE","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.04_ |25.82Mb","server":"youtube-bai-piao-wang-zhe-us.98848.xyz","type":"trojan","country":"🇫🇮FI","port":443,"password":"87692198-6926-4e98-9baf-9198ffd1e73d","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.04_ |29.61Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":5000,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
