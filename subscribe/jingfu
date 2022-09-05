@@ -41,6 +41,8 @@ proxies:
 - {"name":"2022.09.05_Relay_ |34.51Mb","server":"51.79.166.171","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.09.05_ |51.86Mb","server":"51.79.223.96","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.09.05_Relay_ |55.61Mb","server":"527hk1.fans8.xyz","type":"vmess","country":"🇨🇦CA","port":443,"uuid":"2cc10f9c-fb02-3e45-b619-c3b98cde912a","alterId":2,"cipher":"auto","network":"ws","ws-path":"/ray","servername":"527hk1.fans8.xyz","ws-headers":{"HOST":"527hk1.fans8.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.09.05_Relay_ |35.78Mb","server":"zz6.91js.pw","type":"trojan","country":"🇨🇳CN","port":10051,"password":"a13820c547fa34c5c45515c12f0cd576","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.05_Relay_ |90.83Mb","server":"tw-tpe-h-tr.cdn.savoy.click","type":"trojan","country":"🇨🇳CN","port":10089,"password":"kFyvvCcvMXQKFcJZWuxcdTZOFummlVbf","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.05_Relay_ |25.82Mb","server":"youtube-bai-piao-wang-zhe-us.98848.xyz","type":"trojan","country":"🇫🇮FI","port":443,"password":"87692198-6926-4e98-9baf-9198ffd1e73d","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.05_ |25.65Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":8009,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
 - {"name":"2022.09.05_ |24.05Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
