@@ -1,3 +1,4 @@
 proxies:
 - {"name":"2022.09.08_🇦🇺 AU_04 |78.86Mb","server":"ttt1.swiftfalcon.app","type":"trojan","country":"🇦🇺 AU","port":8443,"password":"coldwar2","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.08_🇨🇦 CA_06 |161.14Mb","server":"cat1.sshocean.net","type":"trojan","country":"🇨🇦 CA","port":443,"password":"8b6daf15-8342-482d-b894-1239fd98ce7f","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.08_🇬🇧 GB_284 |61.93Mb","server":"3.9.175.102","type":"trojan","country":"🇬🇧 GB","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
