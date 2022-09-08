@@ -5,6 +5,7 @@ proxies:
 - {"name":"2022.09.09_🇫🇷FR_16 |43.67Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.09.09_🇫🇷FR_20 |43.37Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
 - {"name":"2022.09.09_🇫🇷FR_21 |43.42Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"2022.09.09_🇯🇵JP_33 |30.17Mb","server":"823jp.tfzhc.top","type":"trojan","country":"🇯🇵JP","port":443,"password":"d5aea4b7-2f9c-4650-ad76-cd16072ed349","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.09_🇱🇹LT_34 |30.87Mb","server":"213.183.53.198","type":"ss","country":"🇱🇹LT","port":9025,"password":"XPtzA9sCug3SPR4c","cipher":"aes-256-cfb"}
 - {"name":"2022.09.09_🇱🇹LT_35 |31.80Mb","server":"213.183.53.198","type":"ss","country":"🇱🇹LT","port":9010,"password":"f63gg8EruDnUrmz4","cipher":"aes-256-cfb"}
 - {"name":"2022.09.09_🇱🇹LT_36 |33.23Mb","server":"213.183.53.198","type":"ss","country":"🇱🇹LT","port":9057,"password":"wjTugX3ZtHMB9c3Z","cipher":"aes-256-cfb"}
