@@ -9,6 +9,7 @@ proxies:
 - {"name":"2022.09.08_🇺🇸 US_409 |71.22Mb","server":"los.ydnode.us","type":"trojan","country":"🇺🇸 US","port":443,"password":"b3845d95-c82e-47f8-b626-0f27d861e8f7","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.08_🇺🇸 US_410 |73.29Mb","server":"lsj02.wangxd.life","type":"trojan","country":"🇺🇸 US","port":3052,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.08_🇺🇸 US_411 |221.37Mb","server":"8.9.30.35","type":"trojan","country":"🇺🇸 US","port":8080,"password":"VjXDl4Gf5j","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.08_🇺🇸 US_413 |73.69Mb","server":"ex1.755657.xyz","type":"trojan","country":"🇺🇸 US","port":443,"password":"046c4ca7-9c88-4ad5-92e8-591723b52b25","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.08_🇺🇸 US_415 |181.26Mb","server":"8.9.30.35","type":"trojan","country":"🇺🇸 US","port":29544,"password":"rmo75mm5xK","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.08_🇺🇸 US_417 |60.56Mb","server":"18.170.39.237","type":"trojan","country":"🇺🇸 US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.08_🇺🇸 US_419 |94.74Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
