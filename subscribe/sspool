@@ -14,6 +14,7 @@ proxies:
 - {"name":"2022.09.11_🇺🇸 US_538 |77.04Mb","server":"lsj02.wangxd.life","type":"trojan","country":"🇺🇸 US","port":3052,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.11_🇺🇸 US_540 |90.75Mb","server":"fhcamd1.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"e23f408a-012e-4030-8b31-02022031cb50","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.11_🇺🇸 US_544 |73.49Mb","server":"54.218.99.141","type":"trojan","country":"🇺🇸 US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.11_🇺🇸 US_549 |157.12Mb","server":"54.165.2.244","type":"trojan","country":"🇺🇸 US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.11_🇺🇸 US_554 |65.65Mb","server":"18.170.39.237","type":"trojan","country":"🇺🇸 US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.11_🇺🇸 US_557 |72.34Mb","server":"s3.hazz.win","type":"trojan","country":"🇺🇸 US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.11_🇺🇸 US_558 |94.26Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
