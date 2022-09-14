@@ -30,8 +30,8 @@ def main(event, context):
     savePoint(
         'https://free.jingfu.cf/clash/proxies?nc=CN&speed=20', 'jingfu')
     
-    savePoint(
-        'https://fq.lonxin.net/clash/proxies?nc+CN&type=trojan', 'lonxin')
+#    savePoint(
+#        'https://fq.lonxin.net/clash/proxies?nc+CN&type=trojan', 'lonxin')
     
     savePoint(
         'https://origamiboy.herokuapp.com/clash/proxies?nc=CN&speed=10', 'origamiboy')
