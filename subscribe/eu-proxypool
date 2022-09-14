@@ -17,6 +17,7 @@ proxies:
 - {"name":"2022.09.15_🇺🇸US_654 |30.09Mb","server":"54.245.213.176","type":"trojan","country":"🇺🇸US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.15_Relay_🇺🇸US-🇺🇸US_668 |33.53Mb","server":"fhcamd2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.15_Relay_🇺🇸US-🇺🇸US_672 |32.22Mb","server":"s3.hazz.win","type":"trojan","country":"🇺🇸US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.15_🇺🇸US_690 |73.98Mb","server":"54.84.14.46","type":"trojan","country":"🇺🇸US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.15_Relay_🇺🇸US-🇺🇸US_692 |33.34Mb","server":"fhcamd1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"e23f408a-012e-4030-8b31-02022031cb50","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.15_🇺🇸US_693 |249.42Mb","server":"18.170.39.237","type":"trojan","country":"🇺🇸US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.15_🏁ZZ_701 |33.28Mb","server":"169.197.143.232","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
