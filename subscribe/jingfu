@@ -69,6 +69,7 @@ proxies:
 - {"name":"2022.09.16__351 |23.15Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.09.16__360 |21.52Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
 - {"name":"2022.09.16__361 |26.38Mb","server":"195.154.200.150","type":"ss","country":"🇫🇷FR","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"2022.09.16_Relay_🇬🇧GB-🇬🇧GB_382 |24.07Mb","server":"aop.ssfree.ru","type":"vmess","country":"🇬🇧GB","port":443,"uuid":"09c27cce-3574-11ed-af89-000017022008","alterId":64,"cipher":"auto","network":"ws","ws-path":"/getweather","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.09.16_ |41.33Mb","server":"148.66.56.99","type":"ss","country":"🇭🇰HK","port":802,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.09.16_ |47.31Mb","server":"148.66.56.99","type":"ss","country":"🇭🇰HK","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.09.16_ |42.20Mb","server":"148.66.56.99","type":"ss","country":"🇭🇰HK","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
