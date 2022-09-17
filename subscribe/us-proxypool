@@ -15,6 +15,7 @@ proxies:
 - {"name":"2022.09.17_Relay_🇯🇵JP-🇯🇵JP_112 |29.53Mb","server":"jgwdb4.gaox.ml","type":"trojan","country":"🇯🇵JP","port":443,"password":"d06a3f01-1ff0-4792-9b8e-a5a604bc74a2","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.17_Relay_🇯🇵JP-🇯🇵JP_118 |20.19Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵JP","port":443,"password":"0d8285f8-33da-4076-bb24-d498bd83f2f9","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.17_Relay_🇯🇵JP-🇯🇵JP_121 |29.83Mb","server":"jgwdb3.gaox.ml","type":"trojan","country":"🇯🇵JP","port":443,"password":"8d2d5953-d649-4034-94f2-72f2df2623da","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.17_Relay_🇯🇵JP-🇯🇵JP_135 |33.40Mb","server":"musashino.freetrade.link","type":"trojan","country":"🇯🇵JP","port":443,"password":"ZDqCRlxB8uFj9pxNEeanya3DIpDlOYR7K0wOYX3eScA36gTAazCyZ5SC3FS428","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.17_🇸🇬SG_159 |23.95Mb","server":"18.141.8.87","type":"trojan","country":"🇸🇬SG","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.17_ |35.20Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.09.17_ |36.45Mb","server":"38.114.114.19","type":"ss","country":"🇺🇸US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
@@ -51,3 +52,4 @@ proxies:
 - {"name":"2022.09.17_Relay_ |78.06Mb","server":"lsj02.wangxd.life","type":"trojan","country":"🇺🇸US","port":3052,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.17_Relay_ |96.02Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.17_ |25.24Mb","server":"169.197.143.232","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"2022.09.17_🏁ZZ_251 |51.92Mb","server":"134.195.196.143","type":"ss","country":"🏁ZZ","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
