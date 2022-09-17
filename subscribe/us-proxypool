@@ -25,6 +25,7 @@ proxies:
 - {"name":"2022.09.18_Relay_ |21.69Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵JP","port":443,"password":"2e4c54a0-a780-4994-97c0-44eb92857d76","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.18_Relay_ |25.03Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵JP","port":443,"password":"cbd08acf-2d47-4065-aafa-4201e5307f67","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.18_Relay_ |22.10Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵JP","port":443,"password":"b70b2ed8-6d35-4fe0-8ae7-4e8fa45ff326","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.18_🇯🇵JP_326 |33.78Mb","server":"18.179.136.120","type":"trojan","country":"🇯🇵JP","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.18_Relay_ |21.49Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵JP","port":443,"password":"036ba5aa-fcb7-4e6f-95b5-a857cb354aa8","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.18_Relay_ |22.44Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵JP","port":443,"password":"3f087c04-44e6-4c96-a917-ca974de1212b","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.18_Relay_ |24.82Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵JP","port":443,"password":"1988268c-a841-42f2-acac-7a8c0c7e78e5","skip-cert-verify":true,"udp":true}
@@ -44,6 +45,7 @@ proxies:
 - {"name":"2022.09.18_Relay_ |31.33Mb","server":"jgwdj3.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"da777aae-defb-41d0-a183-2c27da2b4677","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.18_Relay_ |31.24Mb","server":"jgwdb2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"c19d1432-8b3e-4818-8837-3d160cf65908","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.18_ |48.08Mb","server":"54.70.120.130","type":"trojan","country":"🇺🇸US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.18_🇺🇸US_414 |65.35Mb","server":"54.245.213.176","type":"trojan","country":"🇺🇸US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.18_Relay_ |25.50Mb","server":"jgwcc2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"9c822f05-cfdc-479a-9534-60f3d4127435","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.18_Relay_ |75.53Mb","server":"lsj02.wangxd.life","type":"trojan","country":"🇺🇸US","port":3052,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.18_Relay_ |95.62Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
