@@ -1,2 +1,11 @@
 proxies:
-- {"name":"2022.09.17_NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"2022.09.17_Relay_🇦🇺AU-🇦🇺AU_03 |10.07Mb","server":"jgwxn3.gaox.ml","type":"trojan","country":"🇦🇺AU","port":443,"password":"cb43b7c2-b744-41c5-bcc2-fd7467b332cf","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.17_Relay_🇦🇺AU-🇦🇺AU_04 |10.08Mb","server":"jgwxn4.gaox.ml","type":"trojan","country":"🇦🇺AU","port":443,"password":"e8c1ab3c-89b3-4933-92df-682e6dce7819","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.17_🇨🇦CA_05 |14.21Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.09.17_🇨🇦CA_06 |11.01Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":803,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.09.17_🇨🇦CA_08 |11.90Mb","server":"138.197.166.205","type":"ss","country":"🇨🇦CA","port":811,"password":"Ultr@r00t_2017","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.09.17_🇨🇦CA_09 |12.12Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.09.17_🇨🇦CA_10 |11.73Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.09.17_Relay_🇨🇦CA-🇨🇦CA_11 |12.58Mb","server":"527hk1.fans8.xyz","type":"vmess","country":"🇨🇦CA","port":443,"uuid":"2cc10f9c-fb02-3e45-b619-c3b98cde912a","alterId":2,"cipher":"auto","network":"ws","ws-path":"/ray","servername":"527hk1.fans8.xyz","ws-headers":{"HOST":"527hk1.fans8.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.09.17_Relay_🇩🇪DE-🇩🇪DE_40 |73.93Mb","server":"de1.ss.tunnel.cx","type":"ss","country":"🇩🇪DE","port":8388,"password":"3fb8bfdd","cipher":"aes-256-cfb"}
+- {"name":"2022.09.17_🇩🇪DE_41 |15.28Mb","server":"193.108.117.75","type":"ss","country":"🇩🇪DE","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
