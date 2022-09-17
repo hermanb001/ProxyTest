@@ -5,6 +5,7 @@ proxies:
 - {"name":"2022.09.17_🇩🇪 DE_44 |53.96Mb","server":"s2.hass.win","type":"trojan","country":"🇩🇪 DE","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.17_🇬🇧 GB_58 |52.26Mb","server":"3.9.175.102","type":"trojan","country":"🇬🇧 GB","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.17_🇬🇧 GB_62 |64.67Mb","server":"jgwld1.gaox.ml","type":"trojan","country":"🇬🇧 GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.17_🇮🇪 IE_68 |73.63Mb","server":"34.248.69.233","type":"trojan","country":"🇮🇪 IE","port":443,"password":"xxoo","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.17_🇳🇴 NO_123 |61.88Mb","server":"138.124.183.216","type":"trojan","country":"🇳🇴 NO","port":443,"password":"xxoo","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.17_🇷🇺 RU_128 |56.39Mb","server":"mf02.xmss.vip","type":"ss","country":"🇷🇺 RU","port":18888,"password":"5595f1cf-d7c0-4121-a3bf-19e423c1f9a1","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.09.17_🇺🇸 US_158 |142.98Mb","server":"156.146.38.163","type":"ss","country":"🇺🇸 US","port":443,"password":"shadowsocks","cipher":"aes-128-cfb"}
