@@ -87,6 +87,7 @@ proxies:
 - {"name":"2022.09.19_ |41.37Mb","server":"217.30.10.63","type":"ss","country":"🇷🇺RU","port":9060,"password":"ueLXVkvh4hckhErQ","cipher":"aes-256-cfb"}
 - {"name":"2022.09.19_🇸🇬SG_440 |26.72Mb","server":"52.77.243.140","type":"trojan","country":"🇸🇬SG","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.19_🇸🇬SG_441 |14.06Mb","server":"54.251.4.31","type":"trojan","country":"🇸🇬SG","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.19_🇸🇬SG_447 |28.54Mb","server":"18.140.67.76","type":"trojan","country":"🇸🇬SG","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.19_Relay_🇸🇬SG-🇸🇬SG_448 |29.68Mb","server":"trojan2.udpgw.com","type":"trojan","country":"🇸🇬SG","port":443,"password":"a79da040-2e7c-11ed-91c2-1239d0255272","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.19_Relay_🇺🇦UA-🇺🇦UA_456 |16.40Mb","server":"ce.rutracker-cn.com","type":"trojan","country":"🇺🇦UA","port":443,"password":"5y8y3CwxRVYhyfSY","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.19_🇺🇸US_462 |14.46Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸US","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
