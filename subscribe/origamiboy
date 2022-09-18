@@ -46,6 +46,7 @@ proxies:
 - {"name":"2022.09.19_Relay_ |20.53Mb","server":"jgwdb4.gaox.ml","type":"trojan","country":"🇯🇵JP","port":443,"password":"d06a3f01-1ff0-4792-9b8e-a5a604bc74a2","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.19_Relay_🇯🇵JP-🇯🇵JP_349 |10.33Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵JP","port":443,"password":"7e92d33f-6917-4c69-8eca-7fe80be58199","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.19_ |54.69Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9008,"password":"y9VURyNzJWNRYEGQ","cipher":"aes-256-cfb"}
+- {"name":"2022.09.19_🇱🇹LT_356 |11.25Mb","server":"213.183.53.222","type":"ss","country":"🇱🇹LT","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
 - {"name":"2022.09.19_🇱🇹LT_358 |11.79Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9018,"password":"fG2artUmHfNT2cX7","cipher":"aes-256-cfb"}
 - {"name":"2022.09.19_🇱🇹LT_360 |11.70Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9059,"password":"9XwYyZsK8SNzQDtY","cipher":"aes-256-cfb"}
 - {"name":"2022.09.19_🇱🇹LT_361 |12.33Mb","server":"213.183.63.218","type":"ss","country":"🇱🇹LT","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
