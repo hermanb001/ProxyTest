@@ -18,5 +18,6 @@ proxies:
 - {"name":"2022.09.18_🇺🇸 US_312 |94.49Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.18_🇺🇸 US_313 |79.71Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.18_🇺🇸 US_314 |76.95Mb","server":"lsj02.wangxd.life","type":"trojan","country":"🇺🇸 US","port":3052,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.18_🏁 ZZ_319 |64.14Mb","server":"134.195.196.178","type":"ss","country":"🏁 ZZ","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.09.18_🏁 ZZ_322 |61.47Mb","server":"134.195.196.149","type":"ss","country":"🏁 ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
 - {"name":"2022.09.18_🏁 ZZ_323 |67.50Mb","server":"103.152.112.152","type":"trojan","country":"🏁 ZZ","port":18880,"password":"ea799ee1-e605-45e4-b397-995097e99007","skip-cert-verify":true,"udp":true}
