@@ -27,6 +27,7 @@ proxies:
 - {"name":"2022.09.19_ |23.93Mb","server":"213.183.53.222","type":"ss","country":"🇱🇹LT","port":9014,"password":"KnJGad3FqTvjqbaX","cipher":"aes-256-cfb"}
 - {"name":"2022.09.19_Relay_ |46.13Mb","server":"mf02.xmss.vip","type":"ss","country":"🇷🇺RU","port":18888,"password":"5595f1cf-d7c0-4121-a3bf-19e423c1f9a1","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.09.19_ |56.54Mb","server":"79.133.109.56","type":"ss","country":"🇷🇺RU","port":1036,"password":")1N1E6v0SU_rGTpg","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.09.19_Relay_🇷🇺RU-🇷🇺RU_171 |23.46Mb","server":"aeadruaes01.xn--z4q48lcvp.com","type":"trojan","country":"🇷🇺RU","port":35474,"password":"6fceea79-f0af-4480-9247-d198d166b522","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.19_ |50.75Mb","server":"52.77.243.140","type":"trojan","country":"🇸🇬SG","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.19_ |23.09Mb","server":"18.141.8.87","type":"trojan","country":"🇸🇬SG","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.19_Relay_ |20.21Mb","server":"trojan2.udpgw.com","type":"trojan","country":"🇸🇬SG","port":443,"password":"a79da040-2e7c-11ed-91c2-1239d0255272","skip-cert-verify":true,"udp":true}
