@@ -70,6 +70,7 @@ proxies:
 - {"name":"2022.09.20_🇺🇸US_505 |82.38Mb","server":"34.219.230.191","type":"trojan","country":"🇺🇸US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.20_ |391.91Mb","server":"54.84.14.46","type":"trojan","country":"🇺🇸US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.20_ |65.74Mb","server":"13.40.126.229","type":"trojan","country":"🇺🇸US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.20_🇺🇸US_510 |75.86Mb","server":"34.219.183.33","type":"trojan","country":"🇺🇸US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.20_ |65.79Mb","server":"13.40.154.20","type":"trojan","country":"🇺🇸US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.20_ |147.35Mb","server":"134.195.196.178","type":"ss","country":"🏁ZZ","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.09.20_ |54.01Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
