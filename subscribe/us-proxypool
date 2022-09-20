@@ -1,6 +1,7 @@
 proxies:
 - {"name":"2022.09.20_ |91.18Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.09.20_Relay_ |105.08Mb","server":"cat1.sshocean.net","type":"trojan","country":"🇨🇦CA","port":443,"password":"8b6daf15-8342-482d-b894-1239fd98ce7f","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.20_ |23.40Mb","server":"103.92.86.76","type":"ss","country":"🇨🇳CN","port":23456,"password":"ggp1006","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.09.20_Relay_ |47.46Mb","server":"s2.hass.win","type":"trojan","country":"🇩🇪DE","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.20_Relay_ |56.98Mb","server":"s4.hass.win","type":"trojan","country":"🇩🇪DE","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.20_Relay_ |56.95Mb","server":"s2.hazz.win","type":"trojan","country":"🇩🇪DE","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
