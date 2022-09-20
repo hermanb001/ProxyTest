@@ -9,3 +9,11 @@ proxies:
 - {"name":"2022.09.20_🇫🇷FR_130 |42.40Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
 - {"name":"2022.09.20_🇬🇧GB_139 |76.19Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.09.20_Relay_🇬🇧GB-🇬🇧GB_144 |63.51Mb","server":"jgwld1.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.20_Relay_🇯🇵JP-🇯🇵JP_192 |31.74Mb","server":"jgwdb4.gaox.ml","type":"trojan","country":"🇯🇵JP","port":443,"password":"d06a3f01-1ff0-4792-9b8e-a5a604bc74a2","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.20_Relay_🇯🇵JP-🇯🇵JP_199 |31.79Mb","server":"jgwdb3.gaox.ml","type":"trojan","country":"🇯🇵JP","port":443,"password":"8d2d5953-d649-4034-94f2-72f2df2623da","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.20_Relay_🇳🇱NL-🇳🇱NL_205 |36.38Mb","server":"mf02.xmss.vip","type":"ss","country":"🇳🇱NL","port":18888,"password":"5595f1cf-d7c0-4121-a3bf-19e423c1f9a1","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.09.20_🇺🇸US_241 |141.12Mb","server":"5.181.234.254","type":"ss","country":"🇺🇸US","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.09.20_🇺🇸US_260 |159.06Mb","server":"156.146.38.163","type":"ss","country":"🇺🇸US","port":443,"password":"shadowsocks","cipher":"aes-128-cfb"}
+- {"name":"2022.09.20_🇺🇸US_261 |34.23Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"2022.09.20_Relay_🇺🇸US-🇺🇸US_263 |77.15Mb","server":"c702s801.jamjams3.net","type":"vmess","country":"🇺🇸US","port":21237,"uuid":"722c4c77-b7c1-4cf4-880d-0b4843d7b33a","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.09.20_🇺🇸US_264 |33.32Mb","server":"152.69.197.60","type":"vmess","country":"🇺🇸US","port":1069,"uuid":"ac8e26fe-8150-4b60-ae64-82fc77eba2cf","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
