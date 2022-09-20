@@ -9,6 +9,7 @@ proxies:
 - {"name":"2022.09.20_Relay_🇨🇦CA-🇨🇦CA_14 |22.86Mb","server":"527hk1.fans8.xyz","type":"vmess","country":"🇨🇦CA","port":443,"uuid":"2cc10f9c-fb02-3e45-b619-c3b98cde912a","alterId":2,"cipher":"auto","network":"ws","ws-path":"/ray","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.09.20_ |53.35Mb","server":"155.138.140.189","type":"vmess","country":"🇨🇦CA","port":21008,"uuid":"80b5645a-86b7-48af-9252-977ba807a338","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.09.20_Relay_ |49.69Mb","server":"cat1.sshocean.net","type":"trojan","country":"🇨🇦CA","port":443,"password":"8b6daf15-8342-482d-b894-1239fd98ce7f","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.20_ |22.03Mb","server":"103.92.86.76","type":"ss","country":"🇨🇳CN","port":23456,"password":"ggp1006","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.09.20_ |59.85Mb","server":"193.108.117.75","type":"ss","country":"🇩🇪DE","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
 - {"name":"2022.09.20_ |23.35Mb","server":"193.108.117.75","type":"ss","country":"🇩🇪DE","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
 - {"name":"2022.09.20_ |46.97Mb","server":"193.108.117.75","type":"ss","country":"🇩🇪DE","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
