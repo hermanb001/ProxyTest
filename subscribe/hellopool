@@ -60,6 +60,7 @@ proxies:
 - {"name":"2022.09.22_Relay_🇺🇸US-🇺🇸US_1451 |73.48Mb","server":"s1.hass.win","type":"trojan","country":"🇺🇸US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.22_Relay_🇺🇸US-🇺🇸US_1459 |89.76Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.22_🇺🇸US_1468 |123.47Mb","server":"23.94.103.146","type":"trojan","country":"🇺🇸US","port":443,"password":"8c836caa-3d53-4829-bcfb-cbe0aa453a57","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.22_🇺🇸US_1469 |69.41Mb","server":"52.12.10.181","type":"trojan","country":"🇺🇸US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.22_Relay_🇺🇸US-🇺🇸US_1470 |67.67Mb","server":"s4.hazz.win","type":"trojan","country":"🇺🇸US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.22_Relay_🇺🇸US-🇺🇸US_1480 |85.90Mb","server":"fhcamd2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.22_Relay_🇺🇸US-🇺🇸US_1481 |72.58Mb","server":"s1.hazz.win","type":"trojan","country":"🇺🇸US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
