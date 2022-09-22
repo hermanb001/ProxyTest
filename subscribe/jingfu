@@ -165,6 +165,7 @@ proxies:
 - {"name":"2022.09.23_Pool_ |28.79Mb","server":"85.208.108.93","type":"ss","country":"🇳🇱NL","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
 - {"name":"2022.09.23_🇳🇱NL_640 |25.74Mb","server":"213.183.59.218","type":"ss","country":"🇳🇱NL","port":9040,"password":"p9z5BVADH2YFs3MN","cipher":"aes-256-cfb"}
 - {"name":"2022.09.23_Pool_ |22.39Mb","server":"85.208.108.59","type":"ss","country":"🇳🇱NL","port":7001,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"2022.09.23_🇷🇺RU_683 |62.30Mb","server":"traph1.bitznet.one","type":"trojan","country":"🇷🇺RU","port":32013,"password":"9933f53d-de17-45fa-98e5-cde82d2f2cab","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.23_Pool_ |30.03Mb","server":"194.124.35.23","type":"ss","country":"🇸🇬SG","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.09.23_ |54.87Mb","server":"8.214.33.158","type":"vmess","country":"🇸🇬SG","port":80,"uuid":"cb81e6ab-1d83-4ac1-f0ad-ae5c2a7c29ef","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.09.23_Relay_ |35.23Mb","server":"sg1-trojan.bonds.id","type":"trojan","country":"🇸🇬SG","port":443,"password":"27d01290-3763-11ed-90db-1239d0255272","skip-cert-verify":true,"udp":true}
