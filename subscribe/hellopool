@@ -91,6 +91,7 @@ proxies:
 - {"name":"2022.09.24_Relay_🇺🇸US-🇺🇸US_986 |73.75Mb","server":"s1.hazz.win","type":"trojan","country":"🇺🇸US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.24_Relay_🇺🇸US-🇺🇸US_989 |57.99Mb","server":"s4.hass.win","type":"trojan","country":"🇺🇸US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.24_Relay_🇺🇸US-🇺🇸US_993 |74.08Mb","server":"s2.hass.win","type":"trojan","country":"🇺🇸US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.24_🇺🇸US_996 |55.75Mb","server":"54.245.213.176","type":"trojan","country":"🇺🇸US","port":443,"password":"iyinglong","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.24_Relay_🇺🇸US-🇺🇸US_999 |72.90Mb","server":"s1.hass.win","type":"trojan","country":"🇺🇸US","port":12340,"password":"dfbf0d67-f03d-4184-a224-c2d64a571f99","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.24_Relay_🇺🇸US-🇺🇸US_1011 |94.36Mb","server":"fhcamd2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.24_🇺🇸US_1015 |128.29Mb","server":"23.94.103.146","type":"trojan","country":"🇺🇸US","port":443,"password":"8c836caa-3d53-4829-bcfb-cbe0aa453a57","skip-cert-verify":true,"udp":true}
