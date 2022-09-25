@@ -1,5 +1,5 @@
 proxies:
-- {"name":"2022.09.26_🇨🇦 CA_05 |81.93Mb","server":"165.154.235.194","type":"trojan","country":"🇨🇦 CA","port":24567,"password":"26e219f2-5c2a-356c-9767-9fd681cc0134","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.26_🇨🇦 CA_05 |83.52Mb","server":"165.154.235.194","type":"trojan","country":"🇨🇦 CA","port":24567,"password":"26e219f2-5c2a-356c-9767-9fd681cc0134","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.26_🇨🇦 CA_06 |84.61Mb","server":"scus2.ddns-pop.cyou","type":"trojan","country":"🇨🇦 CA","port":24567,"password":"26e219f2-5c2a-356c-9767-9fd681cc0134","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.26_🇬🇧 GB_19 |75.18Mb","server":"212.102.53.197","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
 - {"name":"2022.09.26_🇬🇧 GB_20 |62.08Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
