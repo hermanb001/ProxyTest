@@ -4,7 +4,7 @@ proxies:
 - {"name":"2022.09.26_🇫🇷FR_04 |43.02Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
 - {"name":"2022.09.26_🇫🇷FR_07 |40.87Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.09.26_🇬🇧GB_08 |63.16Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"2022.09.26_Relay_🇺🇦UA-🇷🇺RU_12 |21.53Mb","server":"mf01.xmss.vip","type":"ss","country":"🇺🇦UA","port":18888,"password":"35b0f578-8961-4a2b-99a1-db9555e522e4","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.09.26_Relay_🇺🇦UA-🇺🇦UA_12 |21.53Mb","server":"mf01.xmss.vip","type":"ss","country":"🇺🇦UA","port":18888,"password":"35b0f578-8961-4a2b-99a1-db9555e522e4","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.09.26_🇺🇸US_13 |43.78Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
 - {"name":"2022.09.26_🇺🇸US_14 |37.55Mb","server":"38.143.66.99","type":"ss","country":"🇺🇸US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
 - {"name":"2022.09.26_🇺🇸US_15 |36.46Mb","server":"38.143.66.99","type":"ss","country":"🇺🇸US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
