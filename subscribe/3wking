@@ -1,4 +1,2 @@
 proxies:
-- {"name":"2022.09.28_🇨🇦 CA_01","server":"165.154.235.186","type":"trojan","country":"🇨🇦 CA","port":24567,"password":"26e219f2-5c2a-356c-9767-9fd681cc0134","skip-cert-verify":true,"udp":true}
-- {"name":"2022.09.28_🇨🇦 CA_02","server":"165.154.243.224","type":"trojan","country":"🇨🇦 CA","port":24568,"password":"26e219f2-5c2a-356c-9767-9fd681cc0134","skip-cert-verify":true,"udp":true}
-- {"name":"2022.09.28_🇺🇸US_04","server":"152.70.235.207","type":"vmess","country":"🇺🇸US","port":35412,"uuid":"70d95308-2a61-4f93-f139-9103d0587fd9","alterId":0,"cipher":"auto","network":"tcp","ws-path":"hy","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.09.28_NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
