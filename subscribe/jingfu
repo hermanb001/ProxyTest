@@ -6,7 +6,12 @@ proxies:
 - {"name":"2022.09.29_ |105.70Mb","server":"51.79.223.96","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.09.29_ |66.91Mb","server":"51.79.157.58","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.09.29_Relay_ |38.91Mb","server":"527hk1.fans8.xyz","type":"vmess","country":"🇨🇦CA","port":443,"uuid":"2cc10f9c-fb02-3e45-b619-c3b98cde912a","alterId":2,"cipher":"auto","network":"ws","ws-path":"/ray","servername":"527hk1.fans8.xyz","ws-headers":{"HOST":"527hk1.fans8.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.09.29_Relay_ |39.75Mb","server":"14.29.124.174","type":"ss","country":"🇨🇳CN","port":11035,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"2022.09.29_Relay_ |39.07Mb","server":"14.29.124.174","type":"ss","country":"🇨🇳CN","port":11020,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"2022.09.29_Relay_ |34.54Mb","server":"14.29.124.174","type":"ss","country":"🇨🇳CN","port":11032,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"2022.09.29_Relay_ |37.39Mb","server":"14.29.124.174","type":"ss","country":"🇨🇳CN","port":11034,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
 - {"name":"2022.09.29_ |75.15Mb","server":"223.252.173.84","type":"vmess","country":"🇨🇳CN","port":21008,"uuid":"80b5645a-86b7-48af-9252-977ba807a338","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.09.29_Relay_ |35.78Mb","server":"zz6.91js.pw","type":"trojan","country":"🇨🇳CN","port":10051,"password":"a13820c547fa34c5c45515c12f0cd576","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.29_Relay_ |25.82Mb","server":"youtube-bai-piao-wang-zhe-us.98848.xyz","type":"trojan","country":"🇫🇮FI","port":443,"password":"87692198-6926-4e98-9baf-9198ffd1e73d","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.29_ |25.60Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
 - {"name":"2022.09.29_ |20.59Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
