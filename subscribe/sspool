@@ -1,10 +1,15 @@
 proxies:
-- {"name":"2022.09.29_🇨🇦 CA_05 |78.53Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦 CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"2022.09.29_🇬🇧 GB_142 |70.72Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-- {"name":"2022.09.29_🇬🇧 GB_144 |74.15Mb","server":"212.102.53.197","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+- {"name":"2022.09.29_🇨🇦 CA_05 |99.91Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦 CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.09.29_🇬🇧 GB_142 |72.08Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+- {"name":"2022.09.29_🇬🇧 GB_144 |53.65Mb","server":"212.102.53.197","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+- {"name":"2022.09.29_🇬🇧 GB_145 |64.72Mb","server":"jgwld1.gaox.ml","type":"trojan","country":"🇬🇧 GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.29_🇬🇧 GB_146 |57.39Mb","server":"qt19.shenseven.xyz","type":"trojan","country":"🇬🇧 GB","port":443,"password":"107b0481-8181-47cc-9324-a178047cd8e4","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.29_🇺🇸 US_209 |54.83Mb","server":"167.88.63.79","type":"ss","country":"🇺🇸 US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.09.29_🇺🇸 US_210 |50.27Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸 US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
 - {"name":"2022.09.29_🇺🇸 US_224 |73.10Mb","server":"gaio.miaoge110.cf","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"4893ed3e-8a5f-48dc-aa1e-bbc2e67a065b","alterId":0,"cipher":"auto","network":"ws","ws-path":"/jcnf","servername":"%7B%22Host%22:%22gaio.miaoge110.cf%22%7D","ws-headers":{"HOST":"%7B%22Host%22:%22gaio.miaoge110.cf%22%7D"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"2022.09.29_🇺🇸 US_229 |62.34Mb","server":"51.81.223.22","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.09.29_🇺🇸 US_227 |59.56Mb","server":"51.81.223.26","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":0,"cipher":"auto","ws-path":"/","servername":"51.81.223.26","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.09.29_🇺🇸 US_229 |69.76Mb","server":"51.81.223.22","type":"vmess","country":"🇺🇸 US","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.09.29_🇺🇸 US_234 |60.38Mb","server":"qt16.shenseven.xyz","type":"trojan","country":"🇺🇸 US","port":443,"password":"107b0481-8181-47cc-9324-a178047cd8e4","skip-cert-verify":true,"udp":true}
-- {"name":"2022.09.29_🇺🇸 US_271 |77.98Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
-- {"name":"2022.09.29_🇺🇸 US_272 |94.76Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.29_🇺🇸 US_271 |85.37Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.29_🇺🇸 US_272 |90.76Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
+- {"name":"2022.09.29_🇺🇸 US_275 |58.67Mb","server":"youtube-bai-piao-wang-zhe-usa.98848.xyz","type":"trojan","country":"🇺🇸 US","port":17449,"password":"yBq0efi1j7","skip-cert-verify":true,"udp":true}
