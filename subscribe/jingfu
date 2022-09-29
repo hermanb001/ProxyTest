@@ -12,6 +12,8 @@ proxies:
 - {"name":"2022.09.29_ |29.61Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":803,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.09.29_ |38.64Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.09.29_ |93.13Mb","server":"165.154.244.100","type":"vmess","country":"🇨🇦CA","port":443,"uuid":"2cc10f9c-fb02-3e45-b619-c3b98cde912a","alterId":2,"cipher":"auto","network":"ws","ws-path":"/ray","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.09.29_Relay_ |39.07Mb","server":"14.29.124.174","type":"ss","country":"🇨🇳CN","port":11020,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
+- {"name":"2022.09.29_Relay_ |30.52Mb","server":"14.29.124.174","type":"ss","country":"🇨🇳CN","port":11050,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
 - {"name":"2022.09.29_ |41.58Mb","server":"223.252.173.84","type":"vmess","country":"🇨🇳CN","port":21008,"uuid":"80b5645a-86b7-48af-9252-977ba807a338","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.09.29_Relay_ |35.78Mb","server":"zz6.91js.pw","type":"trojan","country":"🇨🇳CN","port":10051,"password":"a13820c547fa34c5c45515c12f0cd576","skip-cert-verify":true,"udp":true}
 - {"name":"2022.09.29_Relay_ |25.82Mb","server":"youtube-bai-piao-wang-zhe-us.98848.xyz","type":"trojan","country":"🇫🇮FI","port":443,"password":"87692198-6926-4e98-9baf-9198ffd1e73d","skip-cert-verify":true,"udp":true}
