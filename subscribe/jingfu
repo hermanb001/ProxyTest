@@ -33,6 +33,7 @@ proxies:
 - {"name":"2022.10.02_🇫🇷FR |20.59Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.10.02_🇫🇷FR |26.38Mb","server":"195.154.200.150","type":"ss","country":"🇫🇷FR","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
 - {"name":"2022.10.02_🇫🇷FR |21.64Mb","server":"62.210.213.6","type":"ss","country":"🇫🇷FR","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
+- {"name":"2022.10.02_Relay_🇬🇧GB-🇬🇧GB_492 |21.57Mb","server":"aop.ssfree.ru","type":"vmess","country":"🇬🇧GB","port":443,"uuid":"1b75d648-41a2-11ed-82fc-000017022008","alterId":64,"cipher":"auto","network":"ws","ws-path":"/getweather","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.10.02_Relay_🇭🇰HK |22.86Mb","server":"ssl.tcpbbr.net","type":"trojan","country":"🇭🇰HK","port":12163,"password":"80bcf4f2-12f7-11ed-bb74-f23c9164ca5d","skip-cert-verify":true,"udp":true}
 - {"name":"2022.10.02_Relay_🇭🇰HK |22.48Mb","server":"api.tcpbbr.net","type":"trojan","country":"🇭🇰HK","port":18443,"password":"80bcf4f2-12f7-11ed-bb74-f23c9164ca5d","skip-cert-verify":true,"udp":true}
 - {"name":"2022.10.02_Relay_🇭🇰HK |46.25Mb","server":"hk.vc3.hyperlinkvpn.xyz","type":"trojan","country":"🇭🇰HK","port":52000,"password":"0aa9e572-ca8b-4d2c-bef6-501fc3eacbb8","skip-cert-verify":true,"udp":true}
