@@ -116,6 +116,7 @@ proxies:
 - {"name":"2022.10.02_🇺🇸US_1028 |137.12Mb","server":"23.94.103.146","type":"trojan","country":"🇺🇸US","port":443,"password":"8c836caa-3d53-4829-bcfb-cbe0aa453a57","skip-cert-verify":true,"udp":true}
 - {"name":"2022.10.02_Relay_🇺🇸US-🇺🇸US_1042 |89.22Mb","server":"fhcamd2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
 - {"name":"2022.10.02_Relay_🇺🇸US-🇺🇸US_1043 |93.47Mb","server":"a.laolei.ml","type":"trojan","country":"🇺🇸US","port":50757,"password":"dDbBcidENX","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.02_Relay_🇺🇸US-🇺🇸US_1053 |88.98Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
 - {"name":"2022.10.02_Relay_🇺🇸US-🇺🇸US_1056 |89.54Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
 - {"name":"2022.10.02_🏁ZZ_1069 |55.55Mb","server":"134.195.198.95","type":"ss","country":"🏁ZZ","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
 - {"name":"2022.10.02_🏁ZZ_1080 |56.78Mb","server":"134.195.198.95","type":"ss","country":"🏁ZZ","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
