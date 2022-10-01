@@ -1,14 +1,5 @@
 proxies:
-- {"name":"2022.10.02_","server":"149.56.141.11","type":"trojan","country":"🇨🇦 CA","port":443,"password":"8b6daf15-8342-482d-b894-1239fd98ce7f","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.02_","server":"14.29.124.174","type":"ss","country":"🇨🇳 CN","port":11034,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
-- {"name":"2022.10.02_","server":"14.29.124.174","type":"ss","country":"🇨🇳 CN","port":11039,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
-- {"name":"2022.10.02_","server":"14.29.124.174","type":"ss","country":"🇨🇳 CN","port":11020,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
-- {"name":"2022.10.02_","server":"14.29.124.174","type":"ss","country":"🇨🇳 CN","port":11035,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
-- {"name":"2022.10.02_","server":"14.29.124.174","type":"ss","country":"🇨🇳 CN","port":11032,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
-- {"name":"2022.10.02_","server":"14.29.124.174","type":"ss","country":"🇨🇳CN","port":11008,"password":"QazEdcTgb159@$*","cipher":"aes-128-cfb"}
-- {"name":"2022.10.02_","server":"210.75.24.222","type":"vmess","country":"🇨🇳CN","port":443,"uuid":"1bbf1ef7-3056-4160-9cab-491e024de705","alterId":0,"cipher":"auto","network":"ws","ws-path":"/123","servername":"sgamd.ptuu.ga","ws-headers":{"HOST":"sgamd.ptuu.ga"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"2022.10.02_","server":"mf01.xmss.vip","type":"ss","country":"🇷🇺 RU","port":18888,"password":"35b0f578-8961-4a2b-99a1-db9555e522e4","cipher":"chacha20-ietf-poly1305"}
-- {"name":"2022.10.02_","server":"23.94.103.146","type":"trojan","country":"🇺🇸 US","port":443,"password":"8c836caa-3d53-4829-bcfb-cbe0aa453a57","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.02_","server":"38.114.114.67","type":"ss","country":"🇺🇸US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"2022.10.02_","server":"172.67.165.92","type":"vmess","country":"🇺🇸US","port":443,"uuid":"b71e3784-f171-4035-987a-df0ff4b4cd61","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ceatvws","servername":"1.731808.tk","ws-headers":{"HOST":"1.731808.tk"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"2022.10.02_","server":"134.195.196.178","type":"ss","country":"🏁 ZZ","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.10.02__01","server":"00000000000000000000000000000000000000000000000000000000000038a.rui77.com","type":"vmess","port":12356,"uuid":"0f1df3fb-4dc5-4558-9bde-4f703c864a78","alterId":0,"cipher":"auto","http-opts":{},"h2-opts":{}}
+- {"name":"2022.10.02_🇺🇸US_02","server":"152.70.235.207","type":"vmess","country":"🇺🇸US","port":35412,"uuid":"70d95308-2a61-4f93-f139-9103d0587fd9","alterId":0,"cipher":"auto","network":"tcp","ws-path":"hy","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.10.02_🇺🇸US_03","server":"168.138.171.65","type":"vmess","country":"🇺🇸US","port":443,"uuid":"4af6fd9a-e8b4-46f2-da3a-207f4577656c","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.10.02_🏁ZZ_04","server":"64.112.42.72","type":"vmess","country":"🏁ZZ","port":16999,"uuid":"b5a01f44-b981-421a-bdc0-6d9d53da07fd","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
