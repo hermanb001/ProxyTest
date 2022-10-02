@@ -50,6 +50,7 @@ proxies:
 - {"name":"2022.10.03_ |10.61Mb","server":"38.143.66.99","type":"ss","country":"🇺🇸US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.10.03_ |10.12Mb","server":"38.86.135.27","type":"ss","country":"🇺🇸US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
 - {"name":"2022.10.03_Pool_ |29.69Mb","server":"67.21.72.41","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/173418141123","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.10.03_Relay_🇺🇸US-🇺🇸US_113 |35.21Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
 - {"name":"2022.10.03_Relay_ |34.12Mb","server":"fhcamd1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"e23f408a-012e-4030-8b31-02022031cb50","skip-cert-verify":true,"udp":true}
 - {"name":"2022.10.03_ |18.34Mb","server":"134.195.196.231","type":"ss","country":"🏁ZZ","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.10.03_ |16.14Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
