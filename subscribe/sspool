@@ -1,9 +1,7 @@
 proxies:
-- {"name":"2022.10.03_🇨🇦 CA_05 |92.56Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦 CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"2022.10.03_🇬🇧 GB_27 |76.56Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-- {"name":"2022.10.03_🇬🇧 GB_29 |76.23Mb","server":"212.102.53.197","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-- {"name":"2022.10.03_🇺🇸 US_66 |54.28Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
-- {"name":"2022.10.03_🇺🇸 US_76 |112.76Mb","server":"23.94.103.146","type":"trojan","country":"🇺🇸 US","port":443,"password":"8c836caa-3d53-4829-bcfb-cbe0aa453a57","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.03_🇺🇸 US_83 |66.99Mb","server":"129.146.190.42","type":"trojan","country":"🇺🇸 US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.03_🇺🇸 US_88 |57.31Mb","server":"lsj02.wangxd.life","type":"trojan","country":"🇺🇸 US","port":3052,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.03_🇺🇸 US_89 |57.94Mb","server":"rbobo.tk","type":"trojan","country":"🇺🇸 US","port":31142,"password":"fPrIXmKPn0","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.03_🇨🇦 CA_03 |92.56Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦 CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.10.03_🇫🇷 FR_26 |57.63Mb","server":"146.19.230.241","type":"trojan","country":"🇫🇷 FR","port":443,"password":"xxoo","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.03_🇬🇧 GB_27 |76.23Mb","server":"212.102.53.197","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+- {"name":"2022.10.03_🇬🇧 GB_29 |76.56Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+- {"name":"2022.10.03_🇺🇸 US_48 |54.28Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸 US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"2022.10.03_🇺🇸 US_78 |112.76Mb","server":"23.94.103.146","type":"trojan","country":"🇺🇸 US","port":443,"password":"8c836caa-3d53-4829-bcfb-cbe0aa453a57","skip-cert-verify":true,"udp":true}
