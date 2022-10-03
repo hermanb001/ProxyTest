@@ -1,5 +1,5 @@
 proxies:
-- {"name":"2022.10.04_🇨🇦 CA_07 |199.24Mb","server":"nice-ca02.tiktokcdn.buzz","type":"trojan","country":"🇨🇦 CA","port":8443,"password":"a9b56b59-ee82-4331-91f8-955d1fdc4e10","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.04_🇨🇦 CA_07 |256.95Mb","server":"nice-ca02.tiktokcdn.buzz","type":"trojan","country":"🇨🇦 CA","port":8443,"password":"a9b56b59-ee82-4331-91f8-955d1fdc4e10","skip-cert-verify":true,"udp":true}
 - {"name":"2022.10.04_🇨🇦 CA_09 |117.80Mb","server":"149.56.141.11","type":"trojan","country":"🇨🇦 CA","port":443,"password":"8b6daf15-8342-482d-b894-1239fd98ce7f","skip-cert-verify":true,"udp":true}
 - {"name":"2022.10.04_🇬🇧 GB_20 |66.66Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
 - {"name":"2022.10.04_🇬🇧 GB_21 |78.46Mb","server":"212.102.53.197","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
