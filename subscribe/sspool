@@ -1,8 +1,8 @@
 proxies:
-- {"name":"2022.10.05_🇨🇦 CA_04 |73.46Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦 CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"2022.10.05_🇩🇪 DE_13 |57.66Mb","server":"ge-03.tiktokcdn.sbs","type":"trojan","country":"🇩🇪 DE","port":443,"password":"9ccc0c60-9df8-45a3-9886-c2765a52ba2e","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.05_🇩🇪 DE_14 |58.07Mb","server":"nice-de02.nicevpn.top","type":"trojan","country":"🇩🇪 DE","port":443,"password":"137032ae-1bdb-445d-85e0-6edd7d343afb","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.05_🇫🇷 FR_22 |51.80Mb","server":"146.19.230.241","type":"trojan","country":"🇫🇷 FR","port":443,"password":"xxoo","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.05_🇬🇧 GB_24 |75.94Mb","server":"212.102.53.197","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+- {"name":"2022.10.05_🇨🇦 CA_04 |56.37Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦 CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.10.05_🇩🇪 DE_13 |57.83Mb","server":"ge-03.tiktokcdn.sbs","type":"trojan","country":"🇩🇪 DE","port":443,"password":"9ccc0c60-9df8-45a3-9886-c2765a52ba2e","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.05_🇩🇪 DE_14 |58.57Mb","server":"nice-de02.nicevpn.top","type":"trojan","country":"🇩🇪 DE","port":443,"password":"137032ae-1bdb-445d-85e0-6edd7d343afb","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.05_🇫🇷 FR_22 |58.00Mb","server":"146.19.230.241","type":"trojan","country":"🇫🇷 FR","port":443,"password":"xxoo","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.05_🇬🇧 GB_24 |71.75Mb","server":"212.102.53.197","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
 - {"name":"2022.10.05_🇬🇧 GB_26 |78.33Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
 - {"name":"2022.10.05_🇳🇴 NO_41 |50.39Mb","server":"138.124.183.222","type":"trojan","country":"🇳🇴 NO","port":443,"password":"xxoo","skip-cert-verify":true,"udp":true}
