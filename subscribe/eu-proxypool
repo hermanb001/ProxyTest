@@ -1,10 +1,11 @@
 proxies:
 - {"name":"2022.10.07_🇨🇦CA_01 |39.77Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"2022.10.07_🇫🇷FR_02 |60.50Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.10.07_🇫🇷FR_05 |44.88Mb","server":"54.38.144.255","type":"ss","country":"🇫🇷FR","port":50000,"password":"3135771619","cipher":"aes-256-cfb"}
 - {"name":"2022.10.07_🇫🇷FR_06 |59.78Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"2022.10.07_🇫🇷FR_08 |59.99Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"2022.10.07_🇫🇷FR_07 |60.50Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.10.07_🇫🇷FR_09 |59.99Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
 - {"name":"2022.10.07_🇬🇧GB_10 |178.05Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.10.07_🇬🇧GB_11 |290.39Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-- {"name":"2022.10.07_🇬🇧GB_12 |165.17Mb","server":"35.176.191.234","type":"ss","country":"🇬🇧GB","port":50000,"password":"3135771619","cipher":"aes-256-cfb"}
-- {"name":"2022.10.07_🏁ZZ_33 |33.08Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"2022.10.07_🇬🇧GB_12 |208.78Mb","server":"212.102.53.197","type":"ss","country":"🇬🇧GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+- {"name":"2022.10.07_🇬🇧GB_13 |165.17Mb","server":"35.176.191.234","type":"ss","country":"🇬🇧GB","port":50000,"password":"3135771619","cipher":"aes-256-cfb"}
+- {"name":"2022.10.07_🏁ZZ_35 |33.08Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
