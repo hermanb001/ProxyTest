@@ -1,5 +1,9 @@
 proxies:
-- {"name":"2022.10.07_🇨🇦 CA_05 |63.21Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦 CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"2022.10.07_🇬🇧 GB_41 |70.40Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-- {"name":"2022.10.07_🇺🇸 US_85 |63.06Mb","server":"spotted.bigkangaroo.net","type":"trojan","country":"🇺🇸 US","port":443,"password":"ZCESAylB2u5jga736e8CTN3DcFCAOYz0DlDyx9F3ZpXnSp3IYRa4RwOSqe8Kax","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.07_🇺🇸 US_87 |83.83Mb","server":"a.laolei.ml","type":"trojan","country":"🇺🇸 US","port":50757,"password":"dDbBcidENX","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇨🇦 CA_04 |110.30Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦 CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.10.07_🇨🇦 CA_05 |119.48Mb","server":"cat1.sshocean.net","type":"trojan","country":"🇨🇦 CA","port":443,"password":"8b6daf15-8342-482d-b894-1239fd98ce7f","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇨🇦 CA_07 |124.81Mb","server":"149.56.141.11","type":"trojan","country":"🇨🇦 CA","port":443,"password":"8b6daf15-8342-482d-b894-1239fd98ce7f","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇫🇷 FR_44 |56.49Mb","server":"146.19.230.241","type":"trojan","country":"🇫🇷 FR","port":443,"password":"xxoo","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇺🇸 US_99 |79.82Mb","server":"fhcamd2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇺🇸 US_105 |84.86Mb","server":"129.146.190.42","type":"trojan","country":"🇺🇸 US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇺🇸 US_107 |84.09Mb","server":"a.laolei.ml","type":"trojan","country":"🇺🇸 US","port":50757,"password":"dDbBcidENX","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇺🇸 US_108 |69.88Mb","server":"98.126.214.30","type":"trojan","country":"🇺🇸 US","port":19235,"password":"012fc57b-69e5-3924-9da4-d6ac132c5fc9","skip-cert-verify":true,"udp":true}
