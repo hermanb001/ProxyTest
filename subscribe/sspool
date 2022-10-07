@@ -1,15 +1,12 @@
 proxies:
-- {"name":"2022.10.07_🇨🇦 CA_06 |60.49Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦 CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"2022.10.07_🇨🇦 CA_11 |124.81Mb","server":"149.56.141.11","type":"trojan","country":"🇨🇦 CA","port":443,"password":"8b6daf15-8342-482d-b894-1239fd98ce7f","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.07_🇩🇪 DE_15 |58.51Mb","server":"nice-de02.nicevpn.top","type":"trojan","country":"🇩🇪 DE","port":443,"password":"137032ae-1bdb-445d-85e0-6edd7d343afb","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.07_🇩🇪 DE_16 |56.20Mb","server":"ge-03.tiktokcdn.sbs","type":"trojan","country":"🇩🇪 DE","port":443,"password":"9ccc0c60-9df8-45a3-9886-c2765a52ba2e","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.07_🇬🇧 GB_26 |68.18Mb","server":"35.176.191.234","type":"ss","country":"🇬🇧 GB","port":50000,"password":"3135771619","cipher":"aes-256-cfb"}
-- {"name":"2022.10.07_🇬🇧 GB_27 |74.86Mb","server":"212.102.53.197","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-- {"name":"2022.10.07_🇬🇧 GB_29 |61.45Mb","server":"132.145.51.172","type":"trojan","country":"🇬🇧 GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.07_🇺🇸 US_78 |80.37Mb","server":"129.146.190.42","type":"trojan","country":"🇺🇸 US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.07_🇺🇸 US_79 |115.71Mb","server":"23.94.103.146","type":"trojan","country":"🇺🇸 US","port":443,"password":"8c836caa-3d53-4829-bcfb-cbe0aa453a57","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.07_🇺🇸 US_80 |73.90Mb","server":"nice-us01.tiktokcdn.buzz","type":"trojan","country":"🇺🇸 US","port":443,"password":"null","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.07_🇺🇸 US_81 |54.61Mb","server":"fhcamd2.gaox.ml","type":"trojan","country":"🇺🇸 US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.07_🇺🇸 US_84 |53.36Mb","server":"a.laolei.ml","type":"trojan","country":"🇺🇸 US","port":50757,"password":"dDbBcidENX","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.07_🇺🇸 US_85 |69.17Mb","server":"115.fastea.top","type":"trojan","country":"🇺🇸 US","port":53315,"password":"d90960ab-1a01-401b-a404-0085dc745afe","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.07_🇺🇸 US_89 |60.01Mb","server":"113.fastea.top","type":"trojan","country":"🇺🇸 US","port":53313,"password":"d90960ab-1a01-401b-a404-0085dc745afe","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇩🇪 DE_13 |58.06Mb","server":"nice-de02.nicevpn.top","type":"trojan","country":"🇩🇪 DE","port":443,"password":"137032ae-1bdb-445d-85e0-6edd7d343afb","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇬🇧 GB_23 |68.53Mb","server":"35.176.191.234","type":"ss","country":"🇬🇧 GB","port":50000,"password":"3135771619","cipher":"aes-256-cfb"}
+- {"name":"2022.10.07_🇬🇧 GB_24 |71.19Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
+- {"name":"2022.10.07_🇬🇧 GB_26 |61.45Mb","server":"132.145.51.172","type":"trojan","country":"🇬🇧 GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇺🇸 US_71 |83.02Mb","server":"nice-us01.tiktokcdn.buzz","type":"trojan","country":"🇺🇸 US","port":443,"password":"null","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇺🇸 US_73 |91.85Mb","server":"129.146.242.130","type":"trojan","country":"🇺🇸 US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇺🇸 US_76 |115.71Mb","server":"23.94.103.146","type":"trojan","country":"🇺🇸 US","port":443,"password":"8c836caa-3d53-4829-bcfb-cbe0aa453a57","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇺🇸 US_78 |58.31Mb","server":"113.fastea.top","type":"trojan","country":"🇺🇸 US","port":53313,"password":"d90960ab-1a01-401b-a404-0085dc745afe","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇺🇸 US_79 |79.58Mb","server":"a.laolei.ml","type":"trojan","country":"🇺🇸 US","port":50757,"password":"dDbBcidENX","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇺🇸 US_83 |77.10Mb","server":"115.fastea.top","type":"trojan","country":"🇺🇸 US","port":53315,"password":"d90960ab-1a01-401b-a404-0085dc745afe","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.07_🇺🇸 US_87 |53.55Mb","server":"116.fastea.top","type":"trojan","country":"🇺🇸 US","port":53316,"password":"3f29ee90-8567-4671-8d99-9875874e472f","skip-cert-verify":true,"udp":true}
