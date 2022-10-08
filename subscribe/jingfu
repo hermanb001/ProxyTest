@@ -11,7 +11,6 @@ proxies:
 - {"name":"2022.10.08_ |189.42Mb","server":"139.99.91.95","type":"vmess","country":"🇨🇦CA","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.10.08_ |52.04Mb","server":"139.99.90.122","type":"vmess","country":"🇨🇦CA","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.10.08_ |26.00Mb","server":"1002tw.tfzhc.top","type":"trojan","country":"🇨🇦CA","port":443,"password":"0a8df927-324d-463c-a349-1a8144078683","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.08_ |35.78Mb","server":"zz6.91js.pw","type":"trojan","country":"🇨🇳CN","port":10051,"password":"a13820c547fa34c5c45515c12f0cd576","skip-cert-verify":true,"udp":true}
 - {"name":"2022.10.08_ |43.34Mb","server":"183.232.141.154","type":"trojan","country":"🇨🇳CN","port":19205,"password":"a992be42-bed4-3037-8788-9e860cd635d3","skip-cert-verify":true,"udp":true}
 - {"name":"2022.10.08_ |20.59Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.10.08_ |21.25Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
