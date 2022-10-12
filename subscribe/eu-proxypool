@@ -4,5 +4,4 @@ proxies:
 - {"name":"2022.10.12_ |59.93Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
 - {"name":"2022.10.12_ |307.01Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.10.12_ |45.44Mb","server":"156.146.38.163","type":"ss","country":"🇺🇸US","port":443,"password":"shadowsocks","cipher":"aes-128-cfb"}
-- {"name":"2022.10.12_Relay_🇺🇸US-🇺🇸US_34 |35.68Mb","server":"107.173.83.214","type":"vmess","country":"🇺🇸US","port":37541,"uuid":"ef59a586-0532-4763-f353-948eb413f00d","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.10.12_ |36.54Mb","server":"64.112.42.72","type":"vmess","country":"🏁ZZ","port":16999,"uuid":"b5a01f44-b981-421a-bdc0-6d9d53da07fd","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
