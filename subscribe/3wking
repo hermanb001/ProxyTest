@@ -1,6 +1,2 @@
 proxies:
-- {"name":"2022.10.13_🇦🇺 AU_01","server":"152.67.98.30","type":"trojan","country":"🇦🇺 AU","port":443,"password":"e8c1ab3c-89b3-4933-92df-682e6dce7819","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.13_🇬🇧 GB_02","server":"212.102.53.78","type":"ss","country":"🇬🇧 GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
-- {"name":"2022.10.13_🇭🇰 HK_03","server":"43.229.153.148","type":"trojan","country":"🇭🇰 HK","port":50418,"password":"5d1b3b0a-de2a-4731-938d-4c7e15f034c1","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.13_Relay_🇺🇸US-🇩🇪DE_04","server":"172.64.144.100","type":"vmess","country":"🇺🇸US","port":443,"uuid":"6e9217de-ad7e-4a67-bd17-a6dca951733b","alterId":0,"cipher":"auto","network":"ws","ws-path":"/dongtaiwang.com","servername":"lg3.zhujicn2.com","ws-headers":{"HOST":"lg3.zhujicn2.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"2022.10.13_Relay_🏁ZZ-🇩🇪DE_05","server":"141.101.115.2","type":"vmess","country":"🏁ZZ","port":443,"uuid":"a5ba8b2b-8fc5-4521-a35e-9281be61c1c3","alterId":0,"cipher":"auto","network":"ws","ws-path":"/dongtaiwang.com","servername":"lg1.zhujicn2.com","ws-headers":{"HOST":"lg1.zhujicn2.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.10.13_🇯🇵 JP_03","server":"168.138.44.176","type":"trojan","country":"🇯🇵 JP","port":443,"password":"8d2d5953-d649-4034-94f2-72f2df2623da","skip-cert-verify":true,"udp":true}
