@@ -28,3 +28,8 @@ proxies:
 - {"name":"2022.10.17_🇺🇸US_169 |71.63Mb","server":"23.230.146.254","type":"vmess","country":"🇺🇸US","port":1258,"uuid":"edeb41cc-a76a-47f2-fa96-b9141e66a2b0","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.10.17_🇺🇸US_170 |73.79Mb","server":"67.21.72.44","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/120208301422","servername":"www.48816626.xyz","ws-headers":{"HOST":"www.48816626.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
 - {"name":"2022.10.17_🇺🇸US_174 |80.53Mb","server":"youtube-bai-piao-wang-zhe-usa.98848.xyz","type":"trojan","country":"🇺🇸US","port":443,"password":"d1478689-439c-4590-b7ce-36e786a02dc3","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.17_🇺🇸US_187 |75.04Mb","server":"107.181.161.163","type":"trojan","country":"🇺🇸US","port":443,"password":"d1478689-439c-4590-b7ce-36e786a02dc3","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.17_🏁ZZ_189 |60.06Mb","server":"134.195.196.85","type":"ss","country":"🏁ZZ","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.10.17_🏁ZZ_190 |60.45Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"2022.10.17_🏁ZZ_191 |60.16Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"2022.10.17_🏁ZZ_192 |60.74Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
