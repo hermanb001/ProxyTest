@@ -1,2 +1,2 @@
 proxies:
-- {"name":"2022.10.18_NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"2022.10.18_🇺🇦 UA_06","server":"185.253.47.79","type":"trojan","country":"🇺🇦 UA","port":443,"password":"ZD4dLSBXiMrmzdLd","skip-cert-verify":true,"udp":true}
