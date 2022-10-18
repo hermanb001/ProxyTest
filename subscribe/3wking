@@ -1,2 +1,2 @@
 proxies:
-- {"name":"2022.10.18_🇳🇱NL_07","server":"85.208.108.21","type":"ss","country":"🇳🇱NL","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.10.18_🇺🇦 UA_09","server":"185.253.47.79","type":"trojan","country":"🇺🇦 UA","port":443,"password":"ZD4dLSBXiMrmzdLd","skip-cert-verify":true,"udp":true}
