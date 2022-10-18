@@ -1,4 +1,3 @@
 proxies:
-- {"name":"2022.10.18_🇨🇦CA_01","server":"149.56.141.11","type":"trojan","country":"🇨🇦CA","port":443,"password":"8b6daf15-8342-482d-b894-1239fd98ce7f","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.18_🇺🇸 US_07","server":"129.146.242.130","type":"trojan","country":"🇺🇸 US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
-- {"name":"2022.10.18_🇺🇸US_08","server":"154.85.49.84","type":"vmess","country":"🇺🇸US","port":54823,"uuid":"ed98e774-b435-4c53-9460-10b36a6bce35","alterId":0,"cipher":"auto","network":"http","servername":"154.85.49.84","http-opts":{"method":"GET","path":["/"]},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.10.18_Relay_🇯🇵 JP-🇯🇵JP_06","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵 JP","port":443,"password":"84773125-8f79-481c-a80b-e1f4aad86850","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.18_🇺🇦 UA_07","server":"185.253.47.79","type":"trojan","country":"🇺🇦 UA","port":443,"password":"ZD4dLSBXiMrmzdLd","skip-cert-verify":true,"udp":true}
