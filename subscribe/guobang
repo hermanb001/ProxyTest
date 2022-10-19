@@ -2,11 +2,11 @@ proxies:
 - {"name":"2022.10.19_🇨🇦CA_01 |37.80Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.10.19_Relay_🇨🇦CA-🇨🇦CA_03 |95.11Mb","server":"cat1.sshocean.net","type":"trojan","country":"🇨🇦CA","port":443,"password":"8b6daf15-8342-482d-b894-1239fd98ce7f","skip-cert-verify":true,"udp":true}
 - {"name":"2022.10.19_🇩🇪DE_04 |44.34Mb","server":"178.18.244.2","type":"ss","country":"🇩🇪DE","port":443,"password":"97OnDEZYGja4","cipher":"chacha20-ietf-poly1305"}
-- {"name":"2022.10.19_🇫🇷FR_05 |40.58Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
-- {"name":"2022.10.19_🇫🇷FR_06 |40.07Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.10.19_🇫🇷FR_06 |40.58Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"2022.10.19_🇫🇷FR_07 |40.07Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8888,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.10.19_🇫🇷FR_08 |43.31Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
 - {"name":"2022.10.19_🇬🇧GB_11 |74.84Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"2022.10.19_Relay_🇬🇧GB-🇬🇧GB_13 |83.31Mb","server":"aop.ssfree.ru","type":"vmess","country":"🇬🇧GB","port":443,"uuid":"ec13de2c-4efd-11ed-9514-000017022008","alterId":64,"cipher":"auto","network":"ws","ws-path":"/getweather","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"2022.10.19_🇺🇸US_32 |149.98Mb","server":"156.146.38.163","type":"ss","country":"🇺🇸US","port":443,"password":"shadowsocks","cipher":"aes-128-cfb"}
+- {"name":"2022.10.19_Relay_🇬🇧GB-🇬🇧GB_14 |83.31Mb","server":"aop.ssfree.ru","type":"vmess","country":"🇬🇧GB","port":443,"uuid":"ec13de2c-4efd-11ed-9514-000017022008","alterId":64,"cipher":"auto","network":"ws","ws-path":"/getweather","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.10.19_🇺🇸US_31 |149.98Mb","server":"156.146.38.163","type":"ss","country":"🇺🇸US","port":443,"password":"shadowsocks","cipher":"aes-128-cfb"}
 - {"name":"2022.10.19_🇺🇸US_35 |38.23Mb","server":"38.68.134.85","type":"ss","country":"🇺🇸US","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
 - {"name":"2022.10.19_🇺🇸US_38 |30.14Mb","server":"38.68.134.85","type":"ss","country":"🇺🇸US","port":5600,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
