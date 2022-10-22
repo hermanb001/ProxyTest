@@ -15,8 +15,9 @@ proxies:
 - {"name":"2022.10.22_🇺🇸US_20 |48.75Mb","server":"38.114.114.19","type":"ss","country":"🇺🇸US","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
 - {"name":"2022.10.22_🇺🇸US_21 |46.79Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.10.22_🇺🇸US_22 |49.86Mb","server":"38.114.114.19","type":"ss","country":"🇺🇸US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-- {"name":"2022.10.22_🇺🇸US_23 |22.57Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"2022.10.22_🇺🇸US_24 |47.92Mb","server":"167.88.61.175","type":"ss","country":"🇺🇸US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"2022.10.22_🇺🇸US_25 |57.21Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
-- {"name":"2022.10.22_🇺🇸US_26 |49.99Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"2022.10.22_🇺🇸US_24 |22.57Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"2022.10.22_🇺🇸US_25 |47.92Mb","server":"167.88.61.175","type":"ss","country":"🇺🇸US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"2022.10.22_🇺🇸US_26 |57.21Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸US","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"2022.10.22_🇺🇸US_27 |49.99Mb","server":"38.114.114.67","type":"ss","country":"🇺🇸US","port":6697,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"2022.10.22_Relay_🇺🇸US-🇺🇸US_29 |22.38Mb","server":"kr05.wangxd.life","type":"trojan","country":"🇺🇸US","port":3052,"password":"3a2c0c6c-9ee5-c05f-c951-fcd73831983e","skip-cert-verify":true,"udp":true}
 - {"name":"2022.10.22_🏁ZZ_30 |60.91Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
