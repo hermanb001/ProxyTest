@@ -1,2 +1,2 @@
 proxies:
-- {"name":"2022.10.24_Relay_🇹🇼TW-🇹🇼TW_03","server":"tw-tb-c.zc20200426.club","type":"vmess","country":"🇹🇼TW","port":39999,"uuid":"67c50f6a-816d-3555-89b4-19dd29608f8b","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.10.24_🇺🇸US_05","server":"161.129.34.102","type":"vmess","country":"🇺🇸US","port":443,"uuid":"ec736482-173e-3eff-9114-b49df8056e7d","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
