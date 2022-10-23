@@ -1,3 +1,2 @@
 proxies:
-- {"name":"2022.10.24__01","server":"116.129.254.184","type":"vmess","port":11926,"udp":true,"uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":0,"cipher":"auto","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"2022.10.24_🏁ZZ_04","server":"141.101.115.120","type":"vmess","country":"🏁ZZ","port":443,"uuid":"33aa57df-1c93-4318-9fce-e850437ee781","alterId":0,"cipher":"auto","network":"ws","ws-path":"/dongtaiwang.com","servername":"lg1.cfcdn3.xyz","ws-headers":{"HOST":"lg1.cfcdn3.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.10.24_🇺🇸US_04","server":"161.129.34.102","type":"vmess","country":"🇺🇸US","port":443,"uuid":"ec736482-173e-3eff-9114-b49df8056e7d","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
