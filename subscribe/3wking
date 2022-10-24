@@ -1,2 +1,2 @@
 proxies:
-- {"name":"2022.10.24_NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"2022.10.24_Relay_🇺🇸US-🇸🇬SG_04","server":"146.190.2.54","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2a4918de-adce-4c4e-aa00-88a4227cf6ea","alterId":0,"cipher":"auto","network":"ws","ws-path":"/didi","servername":"146.190.2.54","ws-headers":{"HOST":"146.190.2.54"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
