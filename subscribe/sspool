@@ -1,2 +1,7 @@
 proxies:
-- {"name":"2022.10.24_NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"2022.10.24_🇨🇦 CA_05 |85.18Mb","server":"196.247.59.154","type":"ss","country":"🇨🇦 CA","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.10.24_🇬🇧 GB_17 |75.52Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧 GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.10.24_🇳🇱 NL_23 |53.35Mb","server":"185.212.200.75","type":"trojan","country":"🇳🇱 NL","port":443,"password":"Sp3eDVp","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.24_🇳🇱 NL_24 |55.70Mb","server":"content-provider23.cdn-delivery.akamaicd.com","type":"trojan","country":"🇳🇱 NL","port":443,"password":"Sp3eDVp","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.24_🇺🇸 US_49 |92.46Mb","server":"129.146.242.130","type":"trojan","country":"🇺🇸 US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
+- {"name":"2022.10.24_🏁 ZZ_56 |59.64Mb","server":"134.195.196.149","type":"ss","country":"🏁 ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}

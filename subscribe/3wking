@@ -1,2 +1,3 @@
 proxies:
-- {"name":"2022.10.24_Relay_🇺🇸US-🇸🇬SG_04","server":"146.190.2.54","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2a4918de-adce-4c4e-aa00-88a4227cf6ea","alterId":0,"cipher":"auto","network":"ws","ws-path":"/didi","servername":"146.190.2.54","ws-headers":{"HOST":"146.190.2.54"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.10.24_Relay_-🇺🇸US_01","server":"183.232.229.132","type":"vmess","port":11906,"udp":true,"uuid":"2cc15326-cd0f-34da-bbfb-f8cdc9b71eb2","alterId":0,"cipher":"auto","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.10.24_Relay_🇫🇷 FR-🇫🇷FR_04","server":"content-provider26.cdn-delivery.akamaicd.com","type":"trojan","country":"🇫🇷 FR","port":443,"password":"origin","skip-cert-verify":true,"udp":true}
