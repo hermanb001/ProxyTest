@@ -1,3 +1,2 @@
 proxies:
-- {"name":"2022.10.25_Relay_-🇹🇼TW_01","server":"iplc.xiaohouzi.club","type":"trojan","port":20029,"password":"c32c56fb-64d9-33c4-b42a-af81b7a33fe7","sni":"nh-hinet02.xiaohouzi.club","udp":true}
-- {"name":"2022.10.25_🇺🇸US_03","server":"129.150.47.142","type":"vmess","country":"🇺🇸US","port":22624,"uuid":"e9b33627-c7b7-4bbf-a6f6-2fa50c0d7bf0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"129.150.47.142","ws-headers":{"HOST":"129.150.47.142"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.10.25_NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
