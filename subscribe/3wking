@@ -1,2 +1,3 @@
 proxies:
-- {"name":"2022.10.27_NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
+- {"name":"2022.10.27_Relay_🏁ZZ-🇩🇪DE_02","server":"141.101.115.120","type":"vmess","country":"🏁ZZ","port":443,"uuid":"33aa57df-1c93-4318-9fce-e850437ee781","alterId":0,"cipher":"auto","network":"ws","ws-path":"/dongtaiwang.com","servername":"lg1.cfcdn3.xyz","ws-headers":{"HOST":"lg1.cfcdn3.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.10.27_Relay_🏁ZZ-🇩🇪DE_03","server":"141.101.115.20","type":"vmess","country":"🏁ZZ","port":443,"uuid":"176b598f-445b-41ac-9d2a-430c5c4df26a","alterId":0,"cipher":"auto","network":"ws","ws-path":"/dongtaiwang.com","servername":"clash1.trump2023.net","ws-headers":{"HOST":"clash1.trump2023.net"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
