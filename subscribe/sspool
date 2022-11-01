@@ -16,6 +16,7 @@ proxies:
 - {"name":"2022.11.01_🇬🇧GB_99 |68.72Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
 - {"name":"2022.11.01_🇬🇧GB_100 |73.86Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.11.01_🇬🇧GB_102 |73.51Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.11.01_🇯🇵JP_123 |164.59Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵JP","port":443,"password":"88452dfb-fad4-44b2-b8a1-d230d145848c","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.01_🇱🇹LT_143 |69.93Mb","server":"aidangaiguo5.aiguoxuexi.com","type":"trojan","country":"🇱🇹LT","port":995,"password":"ee4fff2a-540e-4ac7-a16a-935567dfc36b","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.01_🇱🇹LT_144 |59.27Mb","server":"aidangaiguo7.aiguoxuexi.com","type":"trojan","country":"🇱🇹LT","port":995,"password":"ee4fff2a-540e-4ac7-a16a-935567dfc36b","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.01_🇺🇸US_186 |77.93Mb","server":"97.64.122.63","type":"ss","country":"🇺🇸US","port":253,"password":"bwhskrskr05","cipher":"aes-256-cfb"}
