@@ -16,6 +16,7 @@ proxies:
 - {"name":"2022.11.02_🇬🇧GB_105 |73.36Mb","server":"212.102.53.78","type":"ss","country":"🇬🇧GB","port":443,"password":"shadowsocks","cipher":"aes-128-gcm"}
 - {"name":"2022.11.02_🇬🇧GB_106 |56.45Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.11.02_🇬🇧GB_109 |63.84Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"2022.11.02_🇯🇵JP_140 |112.73Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵JP","port":443,"password":"1988268c-a841-42f2-acac-7a8c0c7e78e5","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.02_🇺🇸US_188 |81.79Mb","server":"97.64.122.63","type":"ss","country":"🇺🇸US","port":253,"password":"bwhskrskr05","cipher":"aes-256-cfb"}
 - {"name":"2022.11.02_🇺🇸US_201 |77.97Mb","server":"199.115.228.30","type":"ss","country":"🇺🇸US","port":253,"password":"bwhskrskr05","cipher":"aes-256-cfb"}
 - {"name":"2022.11.02_🇺🇸US_217 |53.61Mb","server":"38.68.134.85","type":"ss","country":"🇺🇸US","port":5600,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
