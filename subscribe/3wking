@@ -1,2 +1,2 @@
 proxies:
-- {"name":"2022.11.02_Relay_🇺🇸US-🇩🇪DE_01","server":"172.64.154.201","type":"vmess","country":"🇺🇸US","port":443,"uuid":"91646f9a-b4e9-4aca-bfe3-8892b3e58fe7","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ray","servername":"lg30.cfcdn3.xyz","ws-headers":{"HOST":"lg30.cfcdn3.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.11.02_NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
