@@ -302,9 +302,8 @@ proxies:
 - {"name":"2022.11.02_ |20.51Mb","server":"38.68.134.85","type":"ss","country":"🇺🇸US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
 - {"name":"2022.11.02_ |21.11Mb","server":"38.68.134.85","type":"ss","country":"🇺🇸US","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
 - {"name":"2022.11.02_ |22.89Mb","server":"97.64.31.80","type":"ss","country":"🇺🇸US","port":247,"password":"bwhskrskr03","cipher":"aes-256-cfb"}
-- {"name":"2022.11.02_ |20.15Mb","server":"167.88.61.213","type":"ss","country":"🇺🇸US","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
-- {"name":"2022.11.02_ |22.17Mb","server":"38.68.134.85","type":"ss","country":"🇺🇸US","port":5600,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-- {"name":"2022.11.02_ |21.74Mb","server":"38.68.134.85","type":"ss","country":"🇺🇸US","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"2022.11.02_ |21.38Mb","server":"38.143.66.20","type":"ss","country":"🇺🇸US","port":9101,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"2022.11.02_ |20.49Mb","server":"97.64.122.63","type":"ss","country":"🇺🇸US","port":253,"password":"bwhskrskr05","cipher":"aes-256-cfb"}
 - {"name":"2022.11.02_ |24.31Mb","server":"199.115.228.30","type":"ss","country":"🇺🇸US","port":253,"password":"bwhskrskr05","cipher":"aes-256-cfb"}
 - {"name":"2022.11.02_ |25.67Mb","server":"144.168.60.70","type":"ss","country":"🇺🇸US","port":252,"password":"bwhskrskr03","cipher":"aes-256-cfb"}
 - {"name":"2022.11.02_ |23.15Mb","server":"167.88.61.14","type":"ss","country":"🇺🇸US","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
