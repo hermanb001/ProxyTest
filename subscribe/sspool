@@ -36,3 +36,4 @@ proxies:
 - {"name":"2022.11.02_🇺🇸US_297 |107.93Mb","server":"node-do-us-1.gitspeed.cyou","type":"trojan","country":"🇺🇸US","port":443,"password":"pNDxTmWL","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.02_🇺🇸US_301 |86.70Mb","server":"129.146.190.42","type":"trojan","country":"🇺🇸US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.02_🇺🇸US_302 |84.01Mb","server":"fhcamd2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"dbf9bf9c-2c3f-474a-8031-d4c00666a989","skip-cert-verify":true,"udp":true}
+- {"name":"2022.11.02_🇿🇦ZA_309 |72.20Mb","server":"156.240.115.151","type":"vmess","country":"🇿🇦ZA","port":28080,"uuid":"03fc8a2d-f140-4a62-81ec-80ac623893f0","alterId":0,"cipher":"auto","network":"http","http-opts":{"method":"GET","path":["/"]},"h2-opts":{},"skip-cert-verify":true}
