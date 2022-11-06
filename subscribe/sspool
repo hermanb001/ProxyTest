@@ -25,3 +25,5 @@ proxies:
 - {"name":"2022.11.06_🇺🇸US_262 |104.86Mb","server":"23.94.103.146","type":"trojan","country":"🇺🇸US","port":443,"password":"8c836caa-3d53-4829-bcfb-cbe0aa453a57","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.06_🇺🇸US_263 |91.74Mb","server":"fhcarm2.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"f39bd244-f5fe-415c-8b98-a1e5250bf178","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.06_🇺🇸US_272 |75.41Mb","server":"a14.angrygin.com","type":"trojan","country":"🇺🇸US","port":11274,"password":"22e2f7d5-24d8-43e5-bfd2-b255c2cef545","skip-cert-verify":true,"udp":true}
+- {"name":"2022.11.06_🇺🇸US_273 |95.96Mb","server":"fhcarm1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
+- {"name":"2022.11.06_🇺🇸US_274 |89.91Mb","server":"129.146.242.130","type":"trojan","country":"🇺🇸US","port":443,"password":"05742120-ce23-4cc8-88f5-6d221ce45bf4","skip-cert-verify":true,"udp":true}
