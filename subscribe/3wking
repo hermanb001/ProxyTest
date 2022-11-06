@@ -1,2 +1,2 @@
 proxies:
-- {"name":"2022.11.06_Relay_🇷🇺RU-🇩🇪DE_01","server":"pf.napsternetv.com","type":"vmess","country":"🇷🇺RU","port":34147,"uuid":"2F094845-E2BD-EBF7-DEB7-995992436FAF","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.11.06_NULL","server":"NULL","port":11708,"type":"ssr","country":"NULL","password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"NULL","obfs":"http_simple"}
