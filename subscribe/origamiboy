@@ -22,7 +22,7 @@ proxies:
 - {"name":"2022.11.10_Pool_🇳🇱NL_40 |10.34Mb","server":"85.208.108.60","type":"ss","country":"🇳🇱NL","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
 - {"name":"2022.11.10_🇷🇺RU_43 |83.04Mb","server":"185.4.65.6","type":"ss","country":"🇷🇺RU","port":21247,"password":"vDS9G2p","cipher":"aes-256-cfb"}
 - {"name":"2022.11.10_Relay_🇸🇬SG-🇺🇸US_44 |24.88Mb","server":"ap.liangyuandian.top","type":"trojan","country":"🇸🇬SG","port":443,"password":"b341f309-7e2b-45c4-a316-9e23037e3711","skip-cert-verify":true,"udp":true}
-- {"name":"2022.11.10_Relay_🇸🇬SG-🇸🇬SG_45 |15.57Mb","server":"sg.liangyuandian.top","type":"trojan","country":"🇸🇬SG","port":443,"password":"b341f309-7e2b-45c4-a316-9e23037e3711","skip-cert-verify":true,"udp":true}
+- {"name":"2022.11.10_Relay_🇸🇬SG-🇸🇬SG_45 |24.09Mb","server":"sg.liangyuandian.top","type":"trojan","country":"🇸🇬SG","port":443,"password":"b341f309-7e2b-45c4-a316-9e23037e3711","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.10_🇺🇸US_46 |20.35Mb","server":"167.88.63.82","type":"ss","country":"🇺🇸US","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
 - {"name":"2022.11.10_🇺🇸US_47 |16.72Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸US","port":5500,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
 - {"name":"2022.11.10_🇺🇸US_49 |16.47Mb","server":"172.99.190.39","type":"ss","country":"🇺🇸US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
