@@ -12,5 +12,5 @@ proxies:
 - {"name":"2022.11.13_🇺🇸US_19 |33.12Mb","server":"38.114.114.19","type":"ss","country":"🇺🇸US","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
 - {"name":"2022.11.13_🇺🇸US_20 |31.63Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.11.13_🇺🇸US_21 |30.55Mb","server":"38.114.114.19","type":"ss","country":"🇺🇸US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-- {"name":"2022.11.13_🇺🇸US_23 |31.93Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"2022.11.13_🏁ZZ_30 |43.40Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"2022.11.13_🇺🇸US_22 |31.93Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"2022.11.13_🏁ZZ_29 |43.40Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
