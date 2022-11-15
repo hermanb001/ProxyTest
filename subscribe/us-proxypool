@@ -7,10 +7,10 @@ proxies:
 - {"name":"2022.11.16_Pool_🇳🇱NL_09 |32.16Mb","server":"85.208.108.60","type":"ss","country":"🇳🇱NL","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
 - {"name":"2022.11.16_Pool_🇳🇱NL_10 |29.83Mb","server":"85.208.108.60","type":"ss","country":"🇳🇱NL","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
 - {"name":"2022.11.16_🇳🇱NL_11 |50.88Mb","server":"94.102.57.163","type":"ssr","country":"🇳🇱NL","port":11708,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"WWW.YOUNEED.WIN","obfs":"http_simple","obfs-param":"WWW.YOUNEED.WIN"}
+- {"name":"2022.11.16_🇺🇸US_12 |46.83Mb","server":"38.143.66.99","type":"ss","country":"🇺🇸US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.11.16_🇺🇸US_13 |43.33Mb","server":"38.64.138.145","type":"ss","country":"🇺🇸US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
 - {"name":"2022.11.16_🇺🇸US_14 |122.42Mb","server":"167.88.63.79","type":"ss","country":"🇺🇸US","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.11.16_🇺🇸US_15 |39.81Mb","server":"38.143.66.99","type":"ss","country":"🇺🇸US","port":8118,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
 - {"name":"2022.11.16_🇺🇸US_16 |42.38Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
-- {"name":"2022.11.16_🇺🇸US_27 |46.83Mb","server":"38.143.66.99","type":"ss","country":"🇺🇸US","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
 - {"name":"2022.11.16_🇺🇸US_28 |31.50Mb","server":"152.69.197.60","type":"vmess","country":"🇺🇸US","port":1069,"uuid":"ac8e26fe-8150-4b60-ae64-82fc77eba2cf","alterId":0,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"2022.11.16_🏁ZZ_29 |60.35Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"2022.11.16_🏁ZZ_30 |60.35Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
