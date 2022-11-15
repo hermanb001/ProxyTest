@@ -38,9 +38,7 @@ proxies:
 - {"name":"2022.11.16_🇺🇸 US_37","server":"167.88.61.175","port":8080,"type":"ss","country":"🇺🇸 US","password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
 - {"name":"2022.11.16_🇺🇸 US_38","server":"172.99.190.39","port":5003,"type":"ss","country":"🇺🇸 US","password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
 - {"name":"2022.11.16_🇺🇸 US_39","server":"38.68.135.18","port":5500,"type":"ss","country":"🇺🇸 US","password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"2022.11.16_🇺🇸 US_40","server":"38.75.136.21","port":8080,"type":"ss","country":"🇺🇸 US","password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"2022.11.16_🇺🇸 US_41","server":"38.64.138.145","port":8080,"type":"ss","country":"🇺🇸 US","password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"2022.11.16_🇺🇸 US_42","server":"38.121.43.71","port":8882,"type":"ss","country":"🇺🇸 US","password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
-- {"name":"2022.11.16_🇺🇸 US_43","server":"38.114.114.67","port":6697,"type":"ss","country":"🇺🇸 US","password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
-- {"name":"2022.11.16_🇺🇸 US_44","server":"152.69.197.60","port":1069,"type":"vmess","country":"🇺🇸 US","uuid":"ac8e26fe-8150-4b60-ae64-82fc77eba2cf","alterId":0,"cipher":"auto","network":"tcp","http-opts":{},"ws-path":"/","skip-cert-verify":true}
-- {"name":"2022.11.16_🏁 ZZ_45","server":"134.195.196.149","port":7307,"type":"ss","country":"🏁 ZZ","password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"2022.11.16_🇺🇸 US_40","server":"38.64.138.145","port":8080,"type":"ss","country":"🇺🇸 US","password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"2022.11.16_🇺🇸 US_41","server":"38.121.43.71","port":8882,"type":"ss","country":"🇺🇸 US","password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"2022.11.16_🇺🇸 US_42","server":"38.114.114.67","port":6697,"type":"ss","country":"🇺🇸 US","password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"2022.11.16_🏁 ZZ_43","server":"134.195.196.149","port":7307,"type":"ss","country":"🏁 ZZ","password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
