@@ -51,3 +51,13 @@ proxies:
 - {"name":"2022.11.17_🇺🇸US_79 |10.15Mb","server":"38.75.136.21","type":"ss","country":"🇺🇸US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
 - {"name":"2022.11.17_🇺🇸US_82 |42.77Mb","server":"38.86.135.27","type":"ss","country":"🇺🇸US","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
 - {"name":"2022.11.17_🇺🇸US_85 |18.16Mb","server":"38.114.114.19","type":"ss","country":"🇺🇸US","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.11.17_🇺🇸US_88 |13.78Mb","server":"38.68.135.19","type":"ss","country":"🇺🇸US","port":6379,"password":"zDNVedRFPQexG9v","cipher":"aes-256-gcm"}
+- {"name":"2022.11.17_🇺🇸US_92 |16.91Mb","server":"38.64.138.145","type":"ss","country":"🇺🇸US","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"2022.11.17_🇺🇸US_94 |22.37Mb","server":"67.21.72.41","type":"vmess","country":"🇺🇸US","port":443,"uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"cipher":"auto","network":"ws","ws-path":"/path/173418141123","servername":"www.17080100.xyz","ws-headers":{"HOST":"www.17080100.xyz"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"2022.11.17_🏁ZZ_97 |42.80Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
+- {"name":"2022.11.17_🏁ZZ_98 |43.61Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"2022.11.17_🏁ZZ_100 |18.30Mb","server":"134.195.196.231","type":"ss","country":"🏁ZZ","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"2022.11.17_🏁ZZ_101 |17.68Mb","server":"134.195.196.230","type":"ss","country":"🏁ZZ","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"2022.11.17_🏁ZZ_102 |43.66Mb","server":"134.195.196.85","type":"ss","country":"🏁ZZ","port":5001,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"2022.11.17_🏁ZZ_103 |42.89Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"2022.11.17_🏁ZZ_104 |18.32Mb","server":"134.195.196.231","type":"ss","country":"🏁ZZ","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
