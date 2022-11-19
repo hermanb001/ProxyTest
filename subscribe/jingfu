@@ -190,6 +190,7 @@ proxies:
 - {"name":"2022.11.19_ |82.21Mb","server":"jp.iamnotagoodman.com","type":"trojan","country":"🇺🇸US","port":443,"password":"8aab51da-6b67-4bd2-b6e6-5ab3008cf53e","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.19_ |625.80Mb","server":"sg.liangyuandian.top","type":"trojan","country":"🇺🇸US","port":443,"password":"b341f309-7e2b-45c4-a316-9e23037e3711","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.19_ |38.89Mb","server":"ap.liangyuandian.top","type":"trojan","country":"🇺🇸US","port":443,"password":"b341f309-7e2b-45c4-a316-9e23037e3711","skip-cert-verify":true,"udp":true}
+- {"name":"2022.11.19_ |110.84Mb","server":"103.199.18.59","type":"vmess","country":"🇻🇳VN","port":14952,"uuid":"981fe041-e807-43e3-f12e-e314d242d637","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"103.199.18.59","ws-headers":{"HOST":"103.199.18.59"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.11.19_ |20.88Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
 - {"name":"2022.11.19_ |20.77Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
 - {"name":"2022.11.19_ |20.93Mb","server":"169.197.143.232","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
