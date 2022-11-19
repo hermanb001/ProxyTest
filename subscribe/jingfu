@@ -6,6 +6,8 @@ proxies:
 - {"name":"2022.11.19_ |222.64Mb","server":"51.79.241.247","type":"ss","country":"🇨🇦CA","port":50004,"password":"4415934295","cipher":"aes-256-cfb"}
 - {"name":"2022.11.19_ |24.98Mb","server":"139.99.90.122","type":"vmess","country":"🇨🇦CA","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.11.19_ |143.04Mb","server":"139.99.91.95","type":"vmess","country":"🇨🇦CA","port":443,"uuid":"c0156451-4efb-45e2-84fc-8d315c4650db","alterId":32,"cipher":"auto","network":"tcp","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"2022.11.19_Relay_ |35.78Mb","server":"zz6.91js.pw","type":"trojan","country":"🇨🇳CN","port":10051,"password":"a13820c547fa34c5c45515c12f0cd576","skip-cert-verify":true,"udp":true}
+- {"name":"2022.11.19_Relay_ |53.47Mb","server":"js04.balala2016.xyz","type":"trojan","country":"🇨🇳CN","port":20261,"password":"ED177480-E516-11EA-8B44-BBC4E882BA0B","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.19_🇩🇪DE🇩🇪DE_277 |20.03Mb","server":"193.108.118.202","type":"ss","country":"🇩🇪DE","port":50000,"password":"3135771619","cipher":"aes-256-cfb"}
 - {"name":"2022.11.19_🇫🇷FR🇫🇷FR_282 |30.03Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
 - {"name":"2022.11.19_🇫🇷FR🇫🇷FR_283 |27.51Mb","server":"149.202.82.172","type":"ss","country":"🇫🇷FR","port":7001,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
