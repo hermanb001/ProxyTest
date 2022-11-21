@@ -397,6 +397,7 @@ proxies:
 - {"name":"2022.11.21_🏁ZZ_1449 |91.85Mb","server":"103.172.116.6","type":"ss","country":"🏁ZZ","port":9005,"password":"ZET59LF6DvCC8KVt","cipher":"aes-256-cfb"}
 - {"name":"2022.11.21_ |20.58Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
 - {"name":"2022.11.21_ |23.82Mb","server":"169.197.142.48","type":"ss","country":"🏁ZZ","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"2022.11.21_Relay_🏁ZZ-🏁ZZ_1502 |107.02Mb","server":"1030hk99.fans8.xyz","type":"trojan","country":"🏁ZZ","port":21512,"password":"c42cf4d0-f20f-4104-9b7d-7e4ec66098cb","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.21_Relay_Relay_Relay_ |65.50Mb","server":"5.44.249.43","type":"trojan","country":"🏁ZZ","port":3389,"password":"6f0a9d0fa39d65fa","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.21_Relay_Relay_Relay_ |84.66Mb","server":"5.44.249.43","type":"trojan","country":"🏁ZZ","port":3389,"password":"ffec9f6ea19e1dd1","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.21_Relay_Relay_Relay_ |72.81Mb","server":"5.44.249.43","type":"trojan","country":"🏁ZZ","port":3389,"password":"cd39f62aed7b90f6","skip-cert-verify":true,"udp":true}
