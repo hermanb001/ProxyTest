@@ -56,6 +56,7 @@ proxies:
 - {"name":"2022.11.22_Relay_🇺🇸US-🇯🇵JP_114 |18.94Mb","server":"jp.liangyuandian.top","type":"trojan","country":"🇺🇸US","port":443,"password":"192a5fc9-2baa-4043-8655-d840d370cb86","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.22_Relay_🇺🇸US-🇺🇸US_115 |30.46Mb","server":"fhcamd1.gaox.ml","type":"trojan","country":"🇺🇸US","port":443,"password":"e23f408a-012e-4030-8b31-02022031cb50","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.22_Relay_🇺🇸US-🇸🇬SG_116 |23.87Mb","server":"sg.liangyuandian.top","type":"trojan","country":"🇺🇸US","port":443,"password":"192a5fc9-2baa-4043-8655-d840d370cb86","skip-cert-verify":true,"udp":true}
+- {"name":"2022.11.22_🇻🇳VN_120 |19.17Mb","server":"103.199.18.59","type":"vmess","country":"🇻🇳VN","port":14952,"uuid":"981fe041-e807-43e3-f12e-e314d242d637","alterId":0,"cipher":"auto","network":"ws","ws-path":"/","servername":"103.199.18.59","ws-headers":{"HOST":"103.199.18.59"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
 - {"name":"2022.11.22_🏁ZZ_121 |17.55Mb","server":"134.195.196.230","type":"ss","country":"🏁ZZ","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
 - {"name":"2022.11.22_🏁ZZ_122 |18.39Mb","server":"134.195.196.231","type":"ss","country":"🏁ZZ","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
 - {"name":"2022.11.22_🏁ZZ_123 |18.06Mb","server":"134.195.196.231","type":"ss","country":"🏁ZZ","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
