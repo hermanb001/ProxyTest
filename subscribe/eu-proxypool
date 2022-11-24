@@ -5,4 +5,5 @@ proxies:
 - {"name":"2022.11.25_ |59.25Mb","server":"145.239.1.100","type":"ss","country":"🇫🇷FR","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
 - {"name":"2022.11.25_ |142.93Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.11.25_ |214.88Mb","server":"94.102.57.163","type":"ssr","country":"🇳🇱NL","port":11708,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol-param":"WWW.YOUNEED.WIN","obfs":"http_simple","obfs-param":"WWW.YOUNEED.WIN"}
+- {"name":"2022.11.25_🇺🇸US_17 |30.56Mb","server":"38.121.43.71","type":"ss","country":"🇺🇸US","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
 - {"name":"2022.11.25_ |40.69Mb","server":"134.195.196.149","type":"ss","country":"🏁ZZ","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
