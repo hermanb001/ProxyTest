@@ -22,3 +22,7 @@ proxies:
 - {"name":"2022.11.26_🇬🇧GB_134 |65.36Mb","server":"jgwld1.gaox.ml","type":"trojan","country":"🇬🇧GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.26_🇬🇧GB_135 |63.45Mb","server":"content-provider20.cdn-delivery.akamaicd.com","type":"trojan","country":"🇬🇧GB","port":443,"password":"shefelnak","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.26_🇬🇧GB_136 |67.53Mb","server":"132.145.51.172","type":"trojan","country":"🇬🇧GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
+- {"name":"2022.11.26_🇳🇱 NL_192 |69.14Mb","server":"94.102.57.163","type":"ssr","country":"🇳🇱 NL","port":11708,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"WWW.YOUNEED.WIN","obfs":"http_simple","obfs_param":"WWW.YOUNEED.WIN"}
+- {"name":"2022.11.26_🇳🇱NL_201 |66.58Mb","server":"94.102.57.163","type":"ssr","country":"🇳🇱NL","port":11708,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","obfs":"http_simple"}
+- {"name":"2022.11.26_🇳🇱NL_202 |64.98Mb","server":"content-provider13.cdn-delivery.akamaicd.com","type":"trojan","country":"🇳🇱NL","port":443,"password":"Sp3eDVp","skip-cert-verify":true,"udp":true}
+- {"name":"2022.11.26_🇳🇱NL_203 |51.60Mb","server":"5.255.103.209","type":"trojan","country":"🇳🇱NL","port":443,"password":"3dacbaa8-784b-430c-9c1e-57d33648981d","skip-cert-verify":true,"udp":true}
