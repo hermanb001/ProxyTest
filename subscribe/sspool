@@ -11,6 +11,7 @@ proxies:
 - {"name":"2022.11.29_🇬🇧GB_157 |51.33Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.11.29_🇬🇧GB_158 |52.14Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.11.29_🇳🇱 NL_216 |67.44Mb","server":"94.102.57.163","type":"ssr","country":"🇳🇱 NL","port":11708,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"WWW.YOUNEED.WIN","obfs":"http_simple","obfs_param":"WWW.YOUNEED.WIN"}
+- {"name":"2022.11.29_🇳🇱 NL_217 |60.34Mb","server":"nt1.vpnpools.eu.org","type":"trojan","country":"🇳🇱 NL","port":2053,"password":"dfb44b9e-bc0e-4866-9614-109bc1ba0902","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.29_🇳🇱NL_227 |66.11Mb","server":"94.102.57.163","type":"ssr","country":"🇳🇱NL","port":11708,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","obfs":"http_simple"}
 - {"name":"2022.11.29_🇳🇱NL_229 |61.78Mb","server":"content-provider13.cdn-delivery.akamaicd.com","type":"trojan","country":"🇳🇱NL","port":443,"password":"Sp3eDVp","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.29_🇺🇸US_321 |63.08Mb","server":"97.64.122.63","type":"ss","country":"🇺🇸US","port":253,"password":"bwhskrskr05","cipher":"aes-256-cfb"}
