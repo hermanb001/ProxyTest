@@ -10,6 +10,7 @@ proxies:
 - {"name":"2022.11.30__16 |120.16Mb","server":"51.161.118.38","type":"ss","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.11.30_🇨🇦CA_27 |51.79Mb","server":"cat1.sshocean.net","type":"trojan","country":"🇨🇦CA","port":443,"password":"67960bfb-00de-4a6b-9a7a-e74fc9e8b158","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.30_🇨🇦CA_31 |53.82Mb","server":"149.56.141.11","type":"trojan","country":"🇨🇦CA","port":443,"password":"67960bfb-00de-4a6b-9a7a-e74fc9e8b158","skip-cert-verify":true,"udp":true}
+- {"name":"2022.11.30_🇩🇪DE_103 |63.37Mb","server":"49.12.203.80","type":"ss","country":"🇩🇪DE","port":40960,"password":"6kA7b3f9Aw2508erQ3W7D4","cipher":"aes-256-gcm"}
 - {"name":"2022.11.30_🇩🇪DE_115 |54.05Mb","server":"188.40.251.19","type":"trojan","country":"🇩🇪DE","port":443,"password":"origin","skip-cert-verify":true,"udp":true}
 - {"name":"2022.11.30_🇬🇧GB_138 |61.15Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.11.30_🇬🇧GB_139 |66.66Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
