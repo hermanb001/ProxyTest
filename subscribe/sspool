@@ -14,3 +14,9 @@ proxies:
 - {"name":"2022.12.01_🇬🇧GB_78 |67.46Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.12.01_🇬🇧GB_79 |67.36Mb","server":"78.129.253.9","type":"ss","country":"🇬🇧GB","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
 - {"name":"2022.12.01_🇬🇧GB_85 |56.49Mb","server":"content-provider20.cdn-delivery.akamaicd.com","type":"trojan","country":"🇬🇧GB","port":443,"password":"shefelnak","skip-cert-verify":true,"udp":true}
+- {"name":"2022.12.01_🇬🇧GB_87 |62.20Mb","server":"132.145.51.172","type":"trojan","country":"🇬🇧GB","port":443,"password":"02e653c9-7c93-46a9-999d-11834bd0c577","skip-cert-verify":true,"udp":true}
+- {"name":"2022.12.01_🇯🇵JP_134 |84.42Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵JP","port":443,"password":"ddeb5b2c-5a1e-41d4-bb3a-08babe54f1a1","skip-cert-verify":true,"udp":true}
+- {"name":"2022.12.01_🇯🇵JP_138 |162.88Mb","server":"kr1.api-aws.com","type":"trojan","country":"🇯🇵JP","port":443,"password":"36443c4f-4487-48a6-8438-57bd7700b916","skip-cert-verify":true,"udp":true}
+- {"name":"2022.12.01_🇳🇱 NL_152 |64.17Mb","server":"94.102.57.163","type":"ssr","country":"🇳🇱 NL","port":11708,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","protocol_param":"WWW.YOUNEED.WIN","obfs":"http_simple","obfs_param":"WWW.YOUNEED.WIN"}
+- {"name":"2022.12.01_🇳🇱NL_161 |64.11Mb","server":"94.102.57.163","type":"ssr","country":"🇳🇱NL","port":11708,"password":"sEscPBiAD9K$\u0026@79","cipher":"aes-256-cfb","protocol":"origin","obfs":"http_simple"}
+- {"name":"2022.12.01_🇳🇱NL_163 |55.67Mb","server":"content-provider13.cdn-delivery.akamaicd.com","type":"trojan","country":"🇳🇱NL","port":443,"password":"Sp3eDVp","skip-cert-verify":true,"udp":true}
